@@ -1,4 +1,7 @@
-<IMG SRC="images/4.jpg" ></p>
+
+<div align=center>
+<img src="images/42.jpg">
+</div>
 <div align=center>
 <img src="images/4-2.jpg">
 </div>
