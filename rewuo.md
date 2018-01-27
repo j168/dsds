@@ -1,6 +1,10 @@
 
-<a href='https://github.com/sodore/dsds/blob/master/video/ghyu-564.mp4?raw=true'><IMG SRC="images/4-2.jpg" width=800></a></p>
-<a href='https://github.com/sodore/dsds/blob/master/video/ghyu-564.mp4?raw=true'><IMG SRC="images/4.jpg" width=800></a></p>
+
+
+
+<td align="center"><IMG SRC="images/images/4.2.jpg"></td>
+
+
 
 
 
