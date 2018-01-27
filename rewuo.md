@@ -2,7 +2,7 @@
 
 
 
-<td align="center"><IMG SRC="images/images/4.2.jpg"></td>
+
 
 
 
