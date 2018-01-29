@@ -142,7 +142,7 @@
 不只是我妈妈，从法轮功真相资料中我得知，有无数命悬一线的善良人因相信“法轮大法好、真善忍好”，从而获得新生。在此，感谢法轮大法，谢谢法轮功学员。
 
 <div align=center>
-<img src="images/4-16.jpg"><img src="images/4-17.jpg">
+<img src="images/4-16.jpg">
 </div>
 <hr> 
 <div align=center>
@@ -190,7 +190,9 @@
 <img src="images/4-23.jpg">
 </div>
 
+<a href='https://github.com/sodore/dsds/blob/master/video/zfzx.mp4?raw=true'><IMG SRC="images/4-25.jpg" width=880></a></p>
 
+<b>影片下载：</b><p>
 
 
 
