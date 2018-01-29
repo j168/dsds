@@ -190,11 +190,10 @@
 <img src="images/4-23.jpg">
 </div>
 
-</div>
 <div align=center>
-<img src="images/4-25.jpg">
+<a href="http://package.minghui.org/mh/packages/zifen/">
+  <img src="images/images/4-25.jpg" width="600"></a></p>
 </div>
-
 
 
 
