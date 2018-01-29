@@ -190,9 +190,12 @@
 <img src="images/4-23.jpg">
 </div>
 
-<a href='https://github.com/sodore/dsds/blob/master/video/zfzx.mp4?raw=true'><IMG SRC="images/4-25.jpg" width=880></a></p>
+</div>
+<div align=center>
+<img src="images/4-25.jpg">
+</div>
 
-<b>影片下载：</b><p>
+
 
 
 
