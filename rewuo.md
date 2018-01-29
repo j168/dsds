@@ -196,15 +196,15 @@
 </div>
 
 
-<a text-align=center href='http://package.minghui.org/mh/packages/zifen/'><h3><b>"天安门自焚”真相</b></h3></a>
+<a href='http://package.minghui.org/mh/packages/zifen/' style="text-align"><h3><b>"天安门自焚”真相</b></h3></a>
 
-<a text-align=center href='http://package.minghui.org/mh/packages/425/'><h3><b>"四•二五”上访真相</b></h3></a>
+<a href='http://package.minghui.org/mh/packages/425/'><h3><b>"四•二五”上访真相</b></h3></a>
 
-<a text-align=center href='http://package.minghui.org/mh/packages/1400/'><h3><b>"1400例”真相</b></h3></a>
+<a href='http://package.minghui.org/mh/packages/1400/'><h3><b>"1400例”真相</b></h3></a>
 
-<a text-align=center href='http://www.minghui.org/mh/articles/2002/1/14/录像片-京城血案的真相-23187.html'><h3><b>录像片：京城血案的真相</b></h3></a>
+<a href='http://www.minghui.org/mh/articles/2002/1/14/录像片-京城血案的真相-23187.html'><h3><b>录像片：京城血案的真相</b></h3></a>
 
-<a text-align=center href='http://package.minghui.org/mh/packages/organ-harvest/'><h3><b>中共活体摘取法轮功学员器官</b></h3></a>
+<a href='http://package.minghui.org/mh/packages/organ-harvest/'><h3><b>中共活体摘取法轮功学员器官</b></h3></a>
 
 
 
