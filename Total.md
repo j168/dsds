@@ -59,7 +59,7 @@
 #### 至于firefox 插件， 建议使用 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/" target="_blank">epubReader</a>
 
 ******
-
+<table>
 </td>
 </tr>
 <tr>
@@ -87,6 +87,7 @@
 	<td><a href="https://github.com/sodore/dsds/blob/master/book/goalCh8.epub?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-04_234915.jpg" width="265"  border="0" alt=""></a></td>
 	<td><!-- <a href="https://github.com/sodore/dsds/blob/master/book/goalCh6.epub?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-04_234915.jpg" width="265"  border="0" alt=""></a> --></td>
 </tr>
+
 <tr>
 	<td><center><a href="https://github.com/sodore/dsds/blob/master/book/goalCh7.epub?raw=true">【共产主义的终极目的】（7）</a></center></td>
 	<td><center><a href="https://github.com/sodore/dsds/blob/master/book/goalCh8.epub?raw=true">【共产主义的终极目的】（8）</a></center></td>
