@@ -34,7 +34,7 @@
 
 ******
 #### 以下是新唐人电视台根据大纪元原文所录制的视频，并且镶崁在epub格式电子书里面，只要下载电子书，可以很方便地阅读、聆听或观赏。</p>
-#### 阅读电子书，如果是安卓系统，您需要安装APP，建议您使用 <a href="https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily&hl=zh_cn" target="_blank">reasily</a>
+#### 阅读电子书，如果是安卓系统，您需要安装APP，建议您使用 <a href="https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily&hl=zh_cn" target="_blank" align="center">reasily</a>
 #### 如果是苹果的装置，本身自带的 ibook就能开启 。</p>
 #### 如果是桌机，假如作业系统是 win10， 那么自带的 Edge 可以开启。</p>
 #### 否则要安装 chrome 的插件 <a href="https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl"  target="_blank">readium</a>,才能阅读。
@@ -49,9 +49,10 @@
 	<a href="https://github.com/sodore/dsds/blob/master/pdf/JPN-T-V2-171216.pdf?raw=true"><h4 align="center">PDF正体版</a><br></h4>
 	<a href="https://github.com/sodore/dsds/blob/master/pdf/JPN-S-V2-171216D.docx?raw=true"><h4 align="center">WORD简体版</a></h4>
 	<a href="https://github.com/sodore/dsds/blob/master/pdf/JPN-T-V2-171216D.docx?raw=true"><h4 align="center">WORD正体版</a></h4>
+	<a href="https://github.com/sodore/dsds/blob/master/pdf/JPN-S-V2-171216D_GB2312.txt?raw=true"><h4 align="center">简体字TXT文本</a></h4>
 	<a href="https://github.com/sodore/dsds/blob/master/pdf/Tekan_V24_P32_GB.pdf?raw=true"><h4 align="center">PDF高清杂志简体版</a></h4>
 	<a href="https://github.com/sodore/dsds/blob/master/pdf/Tekan_V24_P32_TC.pdf?raw=true"><h4 align="center">PDF高清杂志正体版</a></h4>
-	<a href="https://github.com/sodore/dsds/blob/master/pdf/JPN-S-V2-171216D_GB2312.txt?raw=true"><h4 align="center">简体字TXT文本</a></h4>
+	
 
 </table >
 
