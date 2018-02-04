@@ -38,19 +38,13 @@
 
 ******
 <h3 align="center"><b>《共产主义的终极目的》有手机版、视频版、音频版、电子书等各种版本下载</b></h3>
+
 ******
 
 <TR>
 <TD><h4>全书下载：</h4>
 	<h3><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-S-V2-171216.pdf?raw=true">PDF简体版</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-T-V2-171216.pdf?raw=true">PDF正体版<br><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-S-V2-171216D.docx?raw=true">WORD简体版</a><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-T-V2-171216D.docx?raw=true">WORD正体版</a><br><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/Tekan_V24_P32_GB.pdf?raw=true">PDF高清杂志简体版</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/Tekan_V24_P32_TC.pdf?raw=true">PDF高清杂志正体版，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-S-V2-171216D_GB2312.zip?raw=true">简体字TXT文本</a></h3> </TD></TR>
 <TR>
-
-### 以下是epub电子书的下载点
-
-<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCmChina.epub?raw=true">大纪元文本 epub </a><br>
-<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/goal8K.zip?raw=true">希望之声音频版 (mp3) </a></h3>
-
-
 
 ******
 #### 以下是新唐人电视台根据大纪元原文所录制的视频，并且镶崁在epub格式电子书里面，只要下载电子书，可以很方便地阅读、聆听或观赏。</p>
@@ -59,6 +53,17 @@
 #### 如果是桌机，假如作业系统是 win10， 那么自带的 Edge 可以开启。</p>
 #### 否则要安装 chrome 的插件 <a href="https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl"  target="_blank">readium</a>,才能阅读。
 #### 至于firefox 插件， 建议使用 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/" target="_blank">epubReader</a>
+
+******
+ 音频下载：<h2 align="center"><b> 音频下载：</b></h2>
+
+<a href="https://github.com/sodore/dsds/blob/master/book/ultiGoalCmCN8k (1).epub?raw=true">希望之声音频版 (mp3) </a></h3>
+<a href="https://github.com/sodore/dsds/blob/master/book/JPN-S-20180107.epub_.zip?raw=true">大纪元文本 epub </a><br>
+
+
+
+
+<h2 align="center"><b>視頻下載：</b></h2>
 
 ******
 <table>
