@@ -42,7 +42,7 @@
 
 
 ******
-<h2 align="center"><b>全书下载</b></h2>
+<h2 align="center"><b>全书下载：</b></h2>
 
 <table >
 	<a href="https://github.com/sodore/dsds/blob/master/pdf/JPN-S-V2-171216.pdf?raw=true"><h4 align="center">PDF简体版</a><br></h4>
