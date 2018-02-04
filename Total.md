@@ -37,17 +37,19 @@
 #### 结局又会怎样？ 对这些根本问题的答案，人们众说纷纭，现在是揭开谜底的时候了。
 
 ******
-
 <h3 align="center"><b>《共产主义的终极目的》有手机版、视频版、音频版、电子书等各种版本下载</b></h3>
+******
+
 <TR>
-<TD><h3>全书下载：</h3>
+<TD><h4>全书下载：</h4>
 	<h3><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-S-V2-171216.pdf?raw=true">PDF简体版</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-T-V2-171216.pdf?raw=true">PDF正体版<br><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-S-V2-171216D.docx?raw=true">WORD简体版</a><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-T-V2-171216D.docx?raw=true">WORD正体版</a><br><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/Tekan_V24_P32_GB.pdf?raw=true">PDF高清杂志简体版</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/Tekan_V24_P32_TC.pdf?raw=true">PDF高清杂志正体版，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-S-V2-171216D_GB2312.zip?raw=true">简体字TXT文本</a></h3> </TD></TR>
 <TR>
 
 ### 以下是epub电子书的下载点
 
-希望之声音频版 (mp3) 
-大纪元文本 epub 
+<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCmChina.epub?raw=true">大纪元文本 epub </a><br>
+<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/goal8K.zip?raw=true">希望之声音频版 (mp3) </a></h3>
+
 
 
 ******
