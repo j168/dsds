@@ -33,10 +33,13 @@
 <h4 align="center"><b>手机版、视频版、音频版、电子书等各种版本下载</b></h4>
 
 ******
-#### 共产主义来自何处？
-#### 为什么宇宙中会冒出个共产党？ 
-#### 共产主义的本质究竟是什么？ 
-#### 结局又会怎样？ 对这些根本问题的答案，人们众说纷纭，现在是揭开谜底的时候了。
+#### 以下是新唐人电视台根据大纪元原文所录制的视频，并且镶崁在epub格式电子书里面，只要下载电子书，可以很方便地阅读、聆听或观赏。</p>
+#### 阅读电子书，如果是安卓系统，您需要安装APP，建议您使用 <a href="https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily&hl=zh_cn" target="_blank">reasily</a>
+#### 如果是苹果的装置，本身自带的 ibook就能开启 。</p>
+#### 如果是桌机，假如作业系统是 win10， 那么自带的 Edge 可以开启。</p>
+#### 否则要安装 chrome 的插件 <a href="https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl"  target="_blank">readium</a>,才能阅读。
+#### 至于firefox 插件， 建议使用 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/" target="_blank">epubReader</a>
+
 
 ******
 <h2 align="center"><b>全书下载</b></h2>
@@ -46,18 +49,12 @@
 <TR>
 
 ******
-#### 以下是新唐人电视台根据大纪元原文所录制的视频，并且镶崁在epub格式电子书里面，只要下载电子书，可以很方便地阅读、聆听或观赏。</p>
-#### 阅读电子书，如果是安卓系统，您需要安装APP，建议您使用 <a href="https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily&hl=zh_cn" target="_blank">reasily</a>
-#### 如果是苹果的装置，本身自带的 ibook就能开启 。</p>
-#### 如果是桌机，假如作业系统是 win10， 那么自带的 Edge 可以开启。</p>
-#### 否则要安装 chrome 的插件 <a href="https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl"  target="_blank">readium</a>,才能阅读。
-#### 至于firefox 插件， 建议使用 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/" target="_blank">epubReader</a>
 
 ******
  <h2 align="center"><b> 音频下载：</b></h2>
 
-<a align="center" href="https://github.com/sodore/dsds/blob/master/book/ultiGoalCmCN8k (1).epub?raw=true">希望之声音频版 (mp3) </a></h3>
-<a align="center" href="https://github.com/sodore/dsds/blob/master/book/JPN-S-20180107.epub_.zip?raw=true">大纪元文本 epub </a><br>
+<a  href="https://github.com/sodore/dsds/blob/master/book/ultiGoalCmCN8k (1).epub?raw=true" "align="center">希望之声音频版 (mp3) </a>
+<a align="center" href="https://github.com/sodore/dsds/blob/master/book/JPN-S-20180107.epub_.zip?raw=true" "align="center" >大纪元文本 epub </a><br>
 
 
 
