@@ -40,19 +40,16 @@
 ******
 
 <h3 align="center"><b>《共产主义的终极目的》有手机版、视频版、音频版、电子书等各种版本下载</b></h3>
-### 以下是epub电子书的下载点
-
 <TR>
 <TD><h3>全书下载：</h3>
 	<h3><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-S-V2-171216.pdf?raw=true">PDF简体版</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-T-V2-171216.pdf?raw=true">PDF正体版<br><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-S-V2-171216D.docx?raw=true">WORD简体版</a><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-T-V2-171216D.docx?raw=true">WORD正体版</a><br><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/Tekan_V24_P32_GB.pdf?raw=true">PDF高清杂志简体版</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/Tekan_V24_P32_TC.pdf?raw=true">PDF高清杂志正体版，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/pdf/JPN-S-V2-171216D_GB2312.zip?raw=true">简体字TXT文本</a></h3> </TD></TR>
 <TR>
 
+### 以下是epub电子书的下载点
+
 希望之声音频版 (mp3) 
 大纪元文本 epub 
 
-
-
-<img src="images/2018-02-04_234915.jpg" width="265" ></p>
 
 ******
 #### 以下是新唐人电视台根据大纪元原文所录制的视频，并且镶崁在epub格式电子书里面，只要下载电子书，可以很方便地阅读、聆听或观赏。</p>
@@ -63,9 +60,40 @@
 #### 至于firefox 插件， 建议使用 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/" target="_blank">epubReader</a>
 
 ******
-#### 《共产主义的终极目的》有12个视频，目前出到8。以下是epub电子书的下载点
-#### 您也可以先下载 希望之声 的 mp3 版本的 epub , 或是 大纪元的 文本 epub 电子书
 
+</td>
+</tr>
+<tr>
+	<td><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh1.epub?raw=true"><img src="https://github.com/j168/j688/blob/master/images/2018-02-04_234915.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh2.epub?raw=true"><img src="https://github.com/j168/j688/blob/master/images/2018-02-04_234915.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh3.epub?raw=true"><img src="https://github.com/j168/j688/blob/master/images/2018-02-04_234915.jpg" width="265"  border="0" alt=""></a></td>
+</tr>
+<tr>
+	<td><center><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh1.epub?raw=true">【共产主义的终极目的】（1）</a></center></td>
+	<td><center><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh2.epub?raw=true">【共产主义的终极目的】（2）</a></center></td>
+	<td><center><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh3.epub?raw=true">【共产主义的终极目的】（3）</a></center></td>
+</tr>
+<tr>
+	<td><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh4.epub?raw=true"><img src="https://github.com/j168/j688/blob/master/images/2018-02-04_234915.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh5.epub?raw=true"><img src="https://github.com/j168/j688/blob/master/images/2018-02-04_234915.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh6.epub?raw=true"><img src="https://github.com/j168/j688/blob/master/images/2018-02-04_234915.jpg" width="265"  border="0" alt=""></a></td>
+</tr>
+<tr>
+	<td><center><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh4.epub?raw=true">【共产主义的终极目的】（4）</a></center></td>
+	<td><center><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh5.epub?raw=true">【共产主义的终极目的】（5）</a></center></td>
+	<td><center><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh6.epub?raw=true">【共产主义的终极目的】（6）</a></center></td>
+</tr>
+<tr>
+	<td><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh7.epub?raw=true"><img src="https://github.com/j168/j688/blob/master/images/2018-02-04_234915.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh8.epub?raw=true"><img src="https://github.com/j168/j688/blob/master/images/2018-02-04_234915.jpg" width="265"  border="0" alt=""></a></td>
+	<td><!-- <a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh6.epub?raw=true"><img src="https://github.com/j168/j688/blob/master/images/2018-02-04_234915.jpg" width="265"  border="0" alt=""></a> --></td>
+</tr>
+<tr>
+	<td><center><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh7.epub?raw=true">【共产主义的终极目的】（7）</a></center></td>
+	<td><center><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh8.epub?raw=true">【共产主义的终极目的】（8）</a></center></td>
+	<td><center>&nbsp;</center></td>
+</tr>
+</table>
 
 
 
