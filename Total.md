@@ -35,6 +35,12 @@
 #### 结局又会怎样？ 对这些根本问题的答案，人们众说纷纭，现在是揭开谜底的时候了。
 
 ******
+#### 本书分上下两部：
+#### 上部《共产主义的终极目的（中国篇）》
+#### 下部《共产主义的终极目的（世界篇）》
+#### 大纪元将首先发表上部《中国篇》，下部将在不久以后推出，敬请关注。
+
+******
 #### 以下是新唐人电视台根据大纪元原文所录制的视频，并且镶崁在epub格式电子书里面，只要下载电子书，可以很方便地阅读、聆听或观赏。</p>
 #### 阅读电子书，如果是安卓系统，您需要安装APP，建议您使用 <a href="https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily&hl=zh_cn" target="_blank">reasily</a>
 #### 如果是苹果的装置，本身自带的 ibook就能开启 。</p>
@@ -43,6 +49,8 @@
 #### 至于firefox 插件， 建议使用 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/" target="_blank">epubReader</a>
 
 ******
+#### 《共产主义的终极目的》有12个视频，目前出到8。以下是epub电子书的下载点
+#### 您也可以先下载 希望之声 的 mp3 版本的 epub , 或是 大纪元的 文本 epub 电子书
 
 
 
