@@ -49,16 +49,11 @@
 <TR>
 
 ******
-
-******
  <h2 align="center"><b> 音频下载：</b></h2>
 
-<a  href="https://github.com/sodore/dsds/blob/master/book/ultiGoalCmCN8k (1).epub?raw=true" "align="center">希望之声音频版 (mp3) </a>
-<a align="center" href="https://github.com/sodore/dsds/blob/master/book/JPN-S-20180107.epub_.zip?raw=true" "align="center" >大纪元文本 epub </a><br>
+<a  href="https://github.com/sodore/dsds/blob/master/book/ultiGoalCmCN8k (1).epub?raw=true"><h3 align="center">希望之声音频版 (mp3) </a></h3>
 
-
-
-
+******
 <h2 align="center"><b>視頻下載：</b></h2>
 
 ******
