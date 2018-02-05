@@ -31,6 +31,7 @@
 ******
 <h2 align="center"><b>《九评》编辑部：《共产主义的终极目的——中国篇》</b></h2>
 <h4 align="center"><b>手机版、视频版、音频版、电子书等各种版本下载</b></h4>
+
 ******
 #### 以下是新唐人电视台根据大纪元原文所录制的视频，并且镶崁在epub格式电子书里面，只要下载电子书，可以很方便地阅读、聆听或观赏。</p>
 #### 阅读电子书，如果是安卓系统，您需要安装APP，建议您使用 <a href="https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily&hl=zh_cn" target="_blank">reasily</a>
@@ -41,6 +42,7 @@
 
 ******
 <h2 align="center"><b>視頻下載：</b></h2>
+
 ******
 <table>
 </td>
