@@ -30,7 +30,7 @@
 
 ******
 <h2 align="center"><b>《九评》编辑部：《共产主义的终极目的——中国篇》</b></h2>
-<h4 align="center"><b>手机版、视频版、音频版、电子书等各种版本下载</b></h4>
+<h4 align="center"><b>本栏提供手机版、视频版、音频版、电子书等各种版本下载</b></h4>
 
 ******
 #### 以下是新唐人电视台根据大纪元原文所录制的视频，并且镶崁在epub格式电子书里面，只要下载电子书，可以很方便地阅读、聆听或观赏。</p>
@@ -41,9 +41,14 @@
 #### 至于firefox 插件， 建议使用 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/" target="_blank">epubReader</a>
 
 ******
-<h2 align="center"><b>視頻下載：</b></h2>
+ <h2 align="center"><b> 音频下载：</b></h2>
+
+<a  href="https://github.com/sodore/dsds/blob/master/book/ultiGoalCmCN8k (1).epub?raw=true"><h3 align="center">希望之声音频版 (mp3) </a></h3>
 
 ******
+
+<h2 align="center"><b>視頻下載：</b></h2>
+
 <table>
 </td>
 </tr>
@@ -96,13 +101,11 @@
 
 </table >
 
-******
 
- <h2 align="center"><b> 音频下载：</b></h2>
 
-<a  href="https://github.com/sodore/dsds/blob/master/book/ultiGoalCmCN8k (1).epub?raw=true"><h3 align="center">希望之声音频版 (mp3) </a></h3>
 
-******
+
+
 
 
 
