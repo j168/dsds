@@ -54,8 +54,6 @@
 	<td><a href="https://github.com/sodore/dsds/blob/master/pdf/Tekan_V24_P32_GB.pdf?raw=true"><h4 align="center">PDF高清杂志简体版</a></h4></td>
 	<td><a href="https://github.com/sodore/dsds/blob/master/pdf/Tekan_V24_P32_TC.pdf?raw=true"><h4 align="center">PDF高清杂志正体版</a></h4></td>
 	
-******
-
 </tr>
 </table>
 
