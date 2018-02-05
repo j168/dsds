@@ -45,7 +45,7 @@
 <h2 align="center"><b>全书下载：</b></h2>
 
 <table>
-
+<tr>
 	<td><a href="https://github.com/sodore/dsds/blob/master/pdf/JPN-S-V2-171216.pdf?raw=true"><h4 align="center">PDF简体版</a><br></h4></td>
 	<td><a href="https://github.com/sodore/dsds/blob/master/pdf/JPN-T-V2-171216.pdf?raw=true"><h4 align="center">PDF正体版</a><br></h4></td>
 	<td><a href="https://github.com/sodore/dsds/blob/master/pdf/JPN-S-V2-171216D.docx?raw=true"><h4 align="center">WORD简体版</a></h4></td>
@@ -54,7 +54,7 @@
 	<td><a href="https://github.com/sodore/dsds/blob/master/pdf/Tekan_V24_P32_GB.pdf?raw=true"><h4 align="center">PDF高清杂志简体版</a></h4></td>
 	<td><a href="https://github.com/sodore/dsds/blob/master/pdf/Tekan_V24_P32_TC.pdf?raw=true"><h4 align="center">PDF高清杂志正体版</a></h4></td>
 	
-
+</tr>
 </table>
 
  <h2 align="center"><b> 音频下载：</b></h2>
