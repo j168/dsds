@@ -94,7 +94,7 @@
 	<a href="https://github.com/sodore/dsds/blob/master/pdf/JPN-T-V2-171216.pdf?raw=true"><h4 align="center">PDF正体版</a><br></h4>
 	<a href="https://github.com/sodore/dsds/blob/master/pdf/JPN-S-V2-171216D.docx?raw=true"><h4 align="center">WORD简体版</a></h4>
 	<a href="https://github.com/sodore/dsds/blob/master/pdf/JPN-T-V2-171216D.docx?raw=true"><h4 align="center">WORD正体版</a></h4>
-	<a href="https://github.com/sodore/dsds/blob/master/pdf/JPN-S-V2-171216D_GB2312.txt?raw=true"><h4 align="center">简体字TXT文本</a></h4>
+	<a href="https://github.com/sodore/dsds/blob/master/pdf/JPN-S-V2-171216D_GB2312.rar?raw=true"><h4 align="center">简体字TXT文本</a></h4>
 	<a href="https://github.com/sodore/dsds/blob/master/pdf/Tekan_V24_P32_GB.pdf?raw=true"><h4 align="center">PDF高清杂志简体版</a></h4>
 	<a href="https://github.com/sodore/dsds/blob/master/pdf/Tekan_V24_P32_TC.pdf?raw=true"><h4 align="center">PDF高清杂志正体版</a></h4>
 	
