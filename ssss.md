@@ -78,7 +78,7 @@ feng</p></td>
 为了照顾大陆广大的朋友，神韵过去很多年都在农历除夕和元宵节播放神韵当年的节目，这是中国大陆独享的。今年会不会有不清楚，但是因为是锁大陆IP，而且必须透过翻墙软件才能看到。为了服务朋友，所以特别提醒大家先下载翻墙软件，熟悉使用方式。并请收藏  https://git.io/goal 这个网址，取得IP更新资讯，届时才能再度访问这个页面。 2018年线上是否播放神韵、播放方法，都会在这公布 。
 
  <h1 align="center">中国朋友 收看新唐人全球華人新年晚會的方法</h1>
- <h5 align="center">请密切关注  届时有線上播放神韵  新唐人电视台会公布  也会在这公布</h5>
+ <h4 align="center">请密切关注  届时有線上播放神韵 会在这公布 新唐人电视台也会公布 </h4>
  
 <table>
   <tr>
@@ -99,7 +99,7 @@ feng</p></td>
 
 <table>
  <div align="center"><h1>下载翻墙软件</h1></div>
-
+<h4 align="center">先准备好翻墙软件  届时便能顺利观看神韵晚会喔!</h4>
 
 <tr>
 	
@@ -132,15 +132,16 @@ feng</p></td>
 
 <td><a href="https://github.com/sodore/dsds/blob/master/dong/iNTD_TV.apk?raw=true"><h4 align="center">新唐人安卓版INTD TV</a></h4></td>
 
-</tr>
-</table>
-
-
-<table>
-<tr>
 <td><a href="https://github.com/sodore/dsds/blob/master/dong/Tekan_V24_P32_TC.pdf?raw=true"><h4 align="center">翻墙软件使用说明 (EPUB 格式电子书 )</a></h4></td>
+
+
 </tr>
 </table>
+
+
+
+
+
 
 
 
