@@ -107,7 +107,7 @@ feng</p></td>
 <a href="https://github.com/sodore/dsds/blob/master/dong/fg....764p.zip?raw=true"><h4 align="center">自由门 桌机版 zip</a><br></h4></td>
 	
 
-<td><a href="https://github.com/sodore/dsds/blob/master/dong/g--764p.exe?raw=true"><h4 align="center">自由门 桌机版 exe</a><br></h4></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/dong/fg--764p.exe?raw=true"><h4 align="center">自由门 桌机版 exe</a><br></h4></td>
 	
 
 <td><a href="https://github.com/sodore/dsds/blob/master/dong/fgma--dd.apk?raw=true"><h4 align="center">自由门  安卓版  apk</a></h4></td>
