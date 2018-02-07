@@ -97,32 +97,50 @@ feng</p></td>
 
  <h1 align="center">下载翻墙软件</h1>
 
-
+<table>
 <tr>
 	
 <td>
-<a href="https://github.com/sodore/dsds/blob/master/pdf/JPN-S-V2-171216.pdf?raw=true"><h4 align="center">PDF简体版</a><br></h4></td>
+<a href="https://github.com/sodore/dsds/blob/master/dong/fg....764p.zip?raw=true"><h4 align="center">自由门 桌机版 zip</a><br></h4></td>
 	
 
-<td><a href="https://github.com/sodore/dsds/blob/master/pdf/JPN-T-V2-171216.pdf?raw=true"><h4 align="center">PDF正体版</a><br></h4></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/dong/g--764p.exe?raw=true"><h4 align="center">自由门 桌机版 exe</a><br></h4></td>
 	
 
-<td><a href="https://github.com/sodore/dsds/blob/master/pdf/JPN-S-V2-171216D.docx?raw=true"><h4 align="center">WORD简体版</a></h4></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/dong/fgma--dd.apk?raw=true"><h4 align="center">自由门  安卓版  apk</a></h4></td>
+	</tr>
+</table>
+
+
+<table>
+<tr>
+<td><a href="https://github.com/sodore/dsds/blob/master/dong/u1704.zip?raw=true"><h4 align="center">无界 桌机版 zip</a></h4></td>
 	
 
-<td><a href="https://github.com/sodore/dsds/blob/master/pdf/JPN-T-V2-171216D.docx?raw=true"><h4 align="center">WORD正体版</a></h4></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/dong/u1704.exe?raw=true"><h4 align="center">无界 桌机版 exe</a></h4></td>
 	
 
-<td><a href="https://github.com/sodore/dsds/blob/master/pdf/JPN-S-V2-171216D_GB2312.rar?raw=true"><h4 align="center">简体字TXT文本</a></h4></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/dong/um4.2a.apk?raw=true"><h4 align="center">无界 安卓版  apk</a></h4></td>
+
+</tr>
+</table>
+
+
+<table>
+<tr>
+<td><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true"><h4 align="center">爱博电视桌机版(*特别推荐*)</a></h4></td>
 	
+<td><a href="https://github.com/sodore/dsds/blob/master/video/zfzx.mp4?raw=true"><h4 align="center">爱博桌机板安裝教学</a></h4></td>
 
-<td><a href="https://github.com/sodore/dsds/blob/master/pdf/Tekan_V24_P32_GB.pdf?raw=true"><h4 align="center">PDF高清杂志简体版</a></h4></td>
-	
+<td><a href="https://github.com/sodore/dsds/blob/master/dong/iNTD_TV.apk?raw=true"><h4 align="center">新唐人安卓版INTD TV</a></h4></td>
 
-<td><a href="https://github.com/sodore/dsds/blob/master/pdf/Tekan_V24_P32_TC.pdf?raw=true"><h4 align="center">PDF高清杂志正体版</a></h4></td>
-	
+</tr>
+</table>
 
 
+<table>
+<tr>
+<td><a href="https://github.com/sodore/dsds/blob/master/dong/Tekan_V24_P32_TC.pdf?raw=true"><h4 align="center">翻墙软件使用说明 (EPUB 格式电子书 )</a></h4></td>
 </tr>
 </table>
 
