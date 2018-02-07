@@ -128,7 +128,7 @@ feng</p></td>
 <tr>
 <td><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true"><h4 align="center">爱博电视桌机版 (特别推荐)</a></h4></td>
 	
-<td><a href="https://github.com/sodore/dsds/blob/master/video/zfzx.mp4?raw=true"><h4 align="center">爱博电视桌机板 (安裝教学)</a></h4></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/video/ippotvm.mp4?raw=true"><h4 align="center">爱博电视桌机板 (安裝教学)</a></h4></td>
 
 <td><a href="https://github.com/sodore/dsds/blob/master/dong/iNTD_TV.apk?raw=true"><h4 align="center">新唐人电视 (安卓版)</a></h4></td>
 
