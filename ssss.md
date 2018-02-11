@@ -1,11 +1,11 @@
 <div align="center">
-<IMG SRC="sy/151120.jpg" width=800></p>
+<IMG SRC="sy/151120.jpg" width=880></p>
   </div>
 
   <h1 align="center"><b>新唐人新年期间播出2018全球华人新年晚会</b></h1>
 
 <div align="center">
-<IMG SRC="sy/2017_SY_CHINA_-0000406-600x400.jpg" width=800></p>
+<IMG SRC="sy/2017_SY_CHINA_-0000406-600x400.jpg" width=880></p>
   </div>
   
   <h3>【新唐人北京时间2018年02月11日讯】神韵艺术团世界巡回演出，场场爆满一票难求。中国新年期间新唐人电视台将独家播出2018新唐人全球华人新年晚会——神韵晚会，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。
@@ -88,10 +88,10 @@
 <hr>
 
 
-<h1 align="center"><b>「一场必看的演出」</b></h1>
+<h1 align="center"><b>「一场必看的演出」「震撼世人」</b></h1>
 
 <div align="center">
-<IMG SRC="sy/2018-02-06_232909.jpg" width=600></p>
+<IMG SRC="sy/2018-02-06_232909.jpg" width=880></p>
   </div>
 
 五千年来，神传文化滋养了中国大地。神韵通过令人赞叹的舞蹈和音乐，恢复和弘扬了这璀璨的文化
@@ -102,7 +102,7 @@
 <h1 align="center"><b>神韵在林肯连续14场演出一票难求</b></h1>
 
 <div align="center">
-<IMG SRC="sy/2018-02-06_233110.jpg" width=600></p>
+<IMG SRC="sy/2018-02-06_233110.jpg" width=880></p>
   </div>
 
 作为美国最高级别的演艺场所，林肯中心也是提供世界文化交流的重要舞台，所有优秀的艺术家以在这里演出为荣。2018年1月，林肯中心迎来难得一遇的盛事——以弘扬中国传统文化为宗旨的神韵艺术团在此连续上演14场演出，且场场售罄，在加座之后仍一票难求，成为轰动纽约艺术界的奇观。
@@ -162,7 +162,7 @@
 
  <div align="center"><h1>下载翻墙软件</h1></div>
 <h3 align="center">先准备好翻墙软件  届时便能顺利观看神韵晚会喔!</h3>
-<h3 align="center">观赏神韵特别推荐这款{爱博电视桌机版}，平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。</h3>
+
 
 <table>
 <tr>
@@ -202,6 +202,7 @@
 </tr>
 </table>
 
+<h3 align="center">观赏神韵特别推荐这款{爱博电视桌机版}，平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。</h3><p></p>
 
 <div align="center"><h1>韩星5号的播出参数</h1></div><p></p>
 <img src="https://github.com/gofun72/telove/blob/master/img/shen/star5.jpg" style="max-width:100%;" width="880"><p>
