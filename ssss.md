@@ -88,7 +88,7 @@
 <hr>
 
 
-<h1 align="center"><b>「一场必看的演出」「震撼世人」</b></h1>
+<h1 align="center"><b>「一场必看的演出  震撼世人」</b></h1>
 
 <div align="center">
 <IMG SRC="sy/2018-02-06_232909.jpg" width=880></p>
@@ -203,7 +203,7 @@
 </table>
 
 <h3 align="center">观赏神韵特别推荐这款{爱博电视桌机版}，平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。</h3><p></p>
-
+<hr>
 <div align="center"><h1>韩星5号的播出参数</h1></div><p></p>
 <img src="https://github.com/gofun72/telove/blob/master/img/shen/star5.jpg" style="max-width:100%;" width="880"><p>
 
