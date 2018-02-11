@@ -12,13 +12,13 @@
 </h3><p></p>
 
 <h3>五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌！</h3>
-<h3> 这是中国大陆独享的，只限于中国大陆地区收看，必须透过翻墙软件才能看到。为了服务中国朋友，特别提醒大家先下载翻墙软件，熟悉使用方式。届时便能顺利观看神韵晚会喔!</h3>并请锁定中国频道这个网址：<a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">http://www.ntdtv.com/xtr/gb/tv_ch1china.html</a><h3>
+<h3> 这是中国大陆独享的，只限于中国大陆地区收看，必须透过翻墙软件才能看到。为了服务中国朋友，特别提醒大家先下载翻墙软件，熟悉使用方式。届时便能顺利观看神韵晚会喔!并请锁定{唐人电视台}中国频道这个网址：<a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">http://www.ntdtv.com/xtr/gb/tv_ch1china.html</a><h3>
 
-<h4><a href="http://www.shenyun.com">海外观众如要观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com</a></h4>
+<h4><a href="http://www.shenyun.com">海外观众如要观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com</a></h4><p></p>
   
 <div align="center"><h1>请大家告诉大家，错过可能得等到元宵节回放！</h1></div>  
 
-<div align="center"><h1><a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">大陆频道播出时间如下：</a></h1></div>
+<div align="center"><h1><a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">{唐人电视台}大陆频道播出时间如下：</a></h1></div>
 <div align="center"><h1>新年晚会</h1></div><p></p>
 
 
@@ -36,6 +36,7 @@
 <tr style="background:lightyellow;text-align:center">
 	<td>02/15 除夕</td>
 	<td>23:00-02:00</td>
+	<td>新年晚会 首播 180分钟</td>
 </tr>
 </table>
 
