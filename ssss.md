@@ -163,7 +163,7 @@
 
 </table>
 
- <div align="center"><h1>下载翻墙软件</h1></div>
+ <div align="center"><h1>下载翻墙软件(完全免费 .安全. 无毒)</h1></div>
 <h3 align="center">先准备好翻墙软件  届时便能顺利观看神韵晚会喔!</h3>
 
 
