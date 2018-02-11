@@ -1,6 +1,6 @@
 
 <div align="center">
-<IMG SRC="sy/19-2.jpg" width=600></p>
+<IMG SRC="sy/2017_SY_CHINA_-0000406-600x400.jpg" width=600></p>
   </div>
 <h1 align="center"><b>「一场必看的演出」</b></h1>
 
