@@ -85,9 +85,12 @@
 </table>
 
 
+
+
+<div align="center">
+<IMG SRC="sy/SYSO-600x338.jpg" width=880></p>
+  </div>
 <hr>
-
-
 <h1 align="center"><b>「一场必看的演出     震撼世人」</b></h1>
 
 <div align="center">
