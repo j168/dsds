@@ -205,7 +205,7 @@
 </tr>
 </table>
 
-<h3 align="center">观赏神韵特别推荐这款{爱博电视桌机版}，平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。</h3><p></p>
+<h3>观赏神韵特别特别推荐这款<a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true">爱博电视桌机版</a>，平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。</h3>
 <hr>
 <div align="center"><h1>韩星5号的播出参数</h1></div><p></p>
 <img src="https://github.com/gofun72/telove/blob/master/img/shen/star5.jpg" style="max-width:100%;" width="880"><p>
