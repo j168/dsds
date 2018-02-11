@@ -1,3 +1,6 @@
+<div align="center">
+<IMG SRC="sy/151120.jpg" width=600></p>
+  </div>
 
   <h2 align="center"><b>新唐人新年期间播出2018全球华人新年晚会</b></h2>
 
