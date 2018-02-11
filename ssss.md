@@ -12,14 +12,15 @@
 </h3><p></p>
 
 <h3>五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌！</h3>
-<h3> 这是中国大陆独享的，只限于中国大陆地区收看，必须透过翻墙软件才能看到。为了服务中国朋友，特别提醒大家先下载翻墙软件，熟悉使用方式。届时便能顺利观看神韵晚会喔!并请锁定{唐人电视台}中国频道这个网址：<a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">http://www.ntdtv.com/xtr/gb/tv_ch1china.html</a><h3>
+<hr>
+<h3> 这是中国大陆独享的，只限于中国大陆地区收看，必须透过翻墙软件才能看到。为了服务中国朋友，特别提醒大家先下载翻墙软件，熟悉使用方式。届时便能顺利观看神韵晚会喔!并请锁定{新唐人电视台}中国频道这个网址：<a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">http://www.ntdtv.com/xtr/gb/tv_ch1china.html</a><h3>
 
 <h4><a href="http://www.shenyun.com">海外观众如要观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com</a></h4><p></p>
   
 <hr>
 
-<div align="center"><h1><a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">{唐人电视台}大陆频道播出时间如下：</a></h1></div>
-<div align="center"><h3>请大家告诉大家，错过可能得等到元宵节回放！</h3></div>  
+<div align="center"><h1><a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">{新唐人电视台}大陆频道播出时间如下：</a></h1></div>
+<div align="center"><h2>请大家告诉大家，错过可能得等到元宵节回放！</h2></div>  
 <div align="center"><h1>新年晚会</h1></div><p></p>
 
 
@@ -153,15 +154,17 @@
 	<tr>
 <td>4、大陆观众还可通过翻墙软件登录动态网和无界浏览，使用爱博电视之新唐人中国频道收看。
 	<tr>
-<td>5、观赏神韵特别特别推荐这款 爱博电视桌机版，平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。
+<td>5、观赏神韵特别推荐这款{爱博电视桌机版}，平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。
 	
   </tr>
 
-<table>
+</table>
+
  <div align="center"><h1>下载翻墙软件</h1></div>
 <h3 align="center">先准备好翻墙软件  届时便能顺利观看神韵晚会喔!</h3>
 <h3 align="center">观赏神韵特别推荐这款{爱博电视桌机版}，平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。</h3>
 
+<table>
 <tr>
 	
 <td>
@@ -200,7 +203,49 @@
 </table>
 
 
+<div align="center"><h1>韩星5号的播出参数</h1></div><p></p>
+<img src="https://github.com/gofun72/telove/blob/master/img/shen/star5.jpg" style="max-width:100%;" width="880"><p>
 
+<table>
+<tr style="background:lightyellow;text-align:center">
+	<td width="450">Frequency(频率)</td>
+	<td width="440">12618.35 MHz(如果接收机不能输入小数，则取整数) </td>
+</tr>
+<tr>
+	<td>Pol(极化)</td>
+	<td>V(垂直)</td>
+</tr>
+<tr>
+	<td>Symbol Rate(符率)</td>
+	<td>3900 ks/s</td>
+</tr>
+<tr>
+	<td>FEC</td>
+	<td>1/2</td>
+</tr>
+<tr>
+	<td>Video PID（视频）</td>
+	<td>0257</td>
+</tr>
+<tr>
+	<td>Audio PID（音频）</td>
+	<td>0258</td>
+</tr>
+<tr>
+	<td>Clock PID（时钟）</td>
+	<td>0257</td>
+</tr>
+</table>
+
+
+【新唐人北京时间2018年01月08日讯】因为韩星5号卫星寿命到期，其播出已经由韩星5A号接替。卫星位置和新唐人电视的播出参数不变, 卫星接收天线不需要作任何调整。如果由于天线安装松动，造成指向不准，可以微调。预计东北地区信号会有所增强，内陆部分地区信号会有所减弱。在内陆地区如果发现收视比以前困难，请告知新唐人电视台。待卫星状况稳定后，我们会根据情况提供相应建议。 
+
+
+
+谘询电话001-800-558-9045，或电邮至feedback@ntdtv.com。   
+
+新唐人电视台 
+2018年1月8日
 
 
 
