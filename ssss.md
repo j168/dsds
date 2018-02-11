@@ -1,11 +1,11 @@
 <div align="center">
-<IMG SRC="sy/151120.jpg" width=600></p>
+<IMG SRC="sy/151120.jpg" width=800></p>
   </div>
 
   <h1 align="center"><b>新唐人新年期间播出2018全球华人新年晚会</b></h1>
 
 <div align="center">
-<IMG SRC="sy/2017_SY_CHINA_-0000406-600x400.jpg" width=600></p>
+<IMG SRC="sy/2017_SY_CHINA_-0000406-600x400.jpg" width=800></p>
   </div>
   
   <h3>【新唐人北京时间2018年02月11日讯】神韵艺术团世界巡回演出，场场爆满一票难求。中国新年期间新唐人电视台将独家播出2018新唐人全球华人新年晚会——神韵晚会，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。
@@ -16,9 +16,10 @@
 
 <h4><a href="http://www.shenyun.com">海外观众如要观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com</a></h4><p></p>
   
-<div align="center"><h1>请大家告诉大家，错过可能得等到元宵节回放！</h1></div>  
+<hr>
 
 <div align="center"><h1><a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">{唐人电视台}大陆频道播出时间如下：</a></h1></div>
+<div align="center"><h3>请大家告诉大家，错过可能得等到元宵节回放！</h3></div>  
 <div align="center"><h1>新年晚会</h1></div><p></p>
 
 
@@ -83,7 +84,7 @@
 </table>
 
 
-
+<hr>
 
 
 <h1 align="center"><b>「一场必看的演出」</b></h1>
@@ -153,15 +154,13 @@
 <td>4、大陆观众还可通过翻墙软件登录动态网和无界浏览，使用爱博电视之新唐人中国频道收看。
 	<tr>
 <td>5、观赏神韵特别特别推荐这款 爱博电视桌机版，平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。
-	<tr>
-<td>6、很多用户询问IOS（iPhone,iPad)如何翻墙，可以试一试打开无界分享，将IOS wifi 的HTTP代理设置成无界代理(手动)。
-普通的HTTP代理不支持加密，iPhone,iPad 与无界浏览之间的传输是不加密的，所以建议在家里的WIFI使用。
-</td>
+	
   </tr>
 
 <table>
  <div align="center"><h1>下载翻墙软件</h1></div>
 <h3 align="center">先准备好翻墙软件  届时便能顺利观看神韵晚会喔!</h3>
+<h3 align="center">观赏神韵特别推荐这款{爱博电视桌机版}，平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。</h3>
 
 <tr>
 	
@@ -202,11 +201,7 @@
 
 
 
-<table>
-<tr>
-<td><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true"><h4>爱博电视桌机版</a></h4></td><h4>观赏神韵特别特别推荐这款，平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。</h4>
-</tr>
-</table>
+
 
 
 
