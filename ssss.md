@@ -19,9 +19,9 @@
   
 <hr>
 
-<div align="center"><h1><a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">{新唐人电视台}大陆频道播出时间如下：</a></h1></div>
+<div align="center"><h1><a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">{新唐人电视台}中国频道播出时间如下：</a></h1></div>
 <div align="center"><h2>请大家告诉大家，错过可能得等到元宵节回放！</h2></div>  
-<div align="center"><h1>新年晚会(大陆频道)</h1></div><p></p>
+<div align="center"><h1>新年晚会(中国频道)</h1></div><p></p>
 
 
 <table width = 90%>
@@ -60,7 +60,7 @@
 					<td>新年晚会 重播 180分钟</td>
 				</tr>
 </table><p></p>
-<div align="center"><h1>神韵交响乐团(大陆频道)</h1></div><p></p>
+<div align="center"><h1>神韵交响乐团(中国频道)</h1></div><p></p>
 <table width = 90%>
 				<tr style="background:lightyellow;text-align:center">
 					<td width="220">日期</td>
@@ -69,17 +69,17 @@
 				</tr>
 				<tr style="background:lightyellow;text-align:center">
 					<td>02/16 大年初一</td>
-					<td>20:00-</td>
+					<td>20:00</td>
 					<td>神韵交响乐团2017年演出</td>
 				</tr>
 				<tr style="background:lightyellow;text-align:center">
 					<td>02/17 大年初二</td>
-					<td>08:30-</td>
+					<td>08:30</td>
 					<td>神韵交响乐团2017年演出</td>
 				</tr>
 				<tr style="background:lightyellow;text-align:center">
 					<td>02/17 大年初二</td>
-					<td>17:00-</td>
+					<td>17:00</td>
 					<td>神韵交响乐团2017年演出</td>
 				</tr>
 </table>
