@@ -16,9 +16,9 @@
 
 <table>
 <tr>
- <td width="330"><h3>自由门</h3></td>
- <td width="250"><a href='https://github.com/sodore/dsds/blob/master/dong/free--764p.zip?raw=true'><h3>桌机版.zip</a></h3></td>
- <td width="250"><a href='https://github.com/sodore/dsds/blob/master/dong/fgma--dd.apk?raw=true'><h3>安卓版.apk</a></h3></td>
+ <td width="350">自由门</td>
+ <td width="250"><a href='https://github.com/sodore/dsds/blob/master/dong/free--764p.zip?raw=true'>桌机版.zip</a></td>
+ <td width="250"><a href='https://github.com/sodore/dsds/blob/master/dong/fgma--dd.apk?raw=true'>安卓版.apk</a></td>
  </tr>
 	
 <tr>
