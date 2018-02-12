@@ -16,7 +16,7 @@
 <hr>
  <h1 align="center"><b>下載 翻牆軟件</b></p>
 
-<table align="center">>
+<table align="center">
   <tr>
 	<td>自由门</td>
 	<td>无界</td>
