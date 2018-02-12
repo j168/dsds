@@ -30,13 +30,13 @@
 </tr>
 <tr style="text-align:center">
 	<td>无界浏览</td>
-	<td>桌机版.zip</td>
-	<td>安卓版.apk</td>
+	<td><a href='https://github.com/sodore/dsds/tree/master/dong/u1--7.04a.zip?raw=true'>桌机版.zip</a></td>
+	<td><a href='https://github.com/sodore/dsds/tree/master/dong/um4.2a.apk?raw=true'>安卓版.apk</a></td>
 </tr>
 <tr style="text-align:center">
 	<td>iPPOTV（爱博电视）</td>
-	<td>安装软件</td>
-                                    <td>安装教学</td>
+	<td><a href='https://github.com/sodore/dsds/tree/master/dong/Green_iPPOTV.exe?raw=true'>安装软件</a></td>
+	<td><a href='https://github.com/sodore/dsds/tree/master/video/ippotvm.mp4?raw=true'>安装教学.mp4</a></td>
 </tr>
 </table>
 <p></p>	
