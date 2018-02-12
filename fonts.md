@@ -23,7 +23,7 @@
 
 <table width = 90%>
 <tr style="text-align:center">
-	<td width="350">自由门</td>
+	<td>自由门</a></td>
 	<td width="300">桌机版.zip</td>
 	<td width="300">安卓版.apk</td>
 </tr>
