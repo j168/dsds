@@ -16,14 +16,9 @@
 <hr>
  <h1 align="center"><b>下載 翻牆軟件</b></p>
 
-
-
-
-
-
 <table width = 90%>
 <tr style="text-align:center">
-	<td width="350">自由门翻墙软件</td>
+	<td width="350">自由门</td>
 	<td width="300"><a href='https://github.com/sodore/dsds/tree/master/dong/free--764p.zip?raw=true'>桌机版.zip</a></td>
 	<td width="300"><a href='https://github.com/sodore/dsds/tree/master/dong/fgma--dd.apk?raw=true'>安卓版.apk</a></td>
 	
@@ -40,3 +35,16 @@
 </tr>
 </table>
 <p></p>	
+
+
+
+
+
+
+
+
+
+
+
+
+
