@@ -53,7 +53,7 @@ iNTD TV 为用户提供高清晰的画质，通过 iNTD TV 您可以方便地收
 
 <hr>
 
-<img src="images/2018-02-13_024911.jpg" width=880></p>
+<img src="images/2018-02-13_025348.jpg" width=880></p>
 
 
 <p>建议您各种翻墙(破网)软件轮换用；旧版本的翻墙软件也留存，有时候新版本的不好用试试旧版本的说不定还能行。封锁较严重地区，找到代理服务器的时间可能稍长。若您不能解压 zip或 rar压缩文件，请下载 Winrar安装软件<a href='https://github.com/sodore/dsds/blob/master/dong/wrar35b2sc.zip?raw=true'>wrar35b2sc.exe(999KB)</a>, 双击并执行安装 Winrar后，鼠标右键点击 zip或 rar压缩文件，选择“解压文件…”或“解压到当前文件夹”等命令，即可解压压缩文件。</p>
