@@ -8,7 +8,7 @@
 
 <img src="images/2018-02-13_025348.jpg" width=880></p>
 
-<img src="images/2018-02-13_031922.jpg" width=880></p>
+<img src="images/2018-02-13_033107.jpg" width=880></p>
 
  <h1 align="center"><b>下載 翻牆軟件</b></p>
 
