@@ -23,25 +23,23 @@
  <td width="300"><a href='https://github.com/sodore/dsds/blob/master/dong/fgma--dd.apk?raw=true'>安卓版.apk</a></td>
  </tr>
 	
-<tr style="text-align:center">
+<tr>
  <td>无界浏览</td>
  <td><a href='https://github.com/sodore/dsds/blob/master/dong/u1--7.04a.zip?raw=true'>桌机版.zip</a></td>
  <td><a href='https://github.com/sodore/dsds/blob/master/dong/um4.2a.apk?raw=true'>安卓版.apk</a></td>
 </tr>
-<tr style="text-align:center">
+<tr>
  <td>iPPOTV（爱博电视）</td>
  <td><a href='https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true'>安装软件</a></td>
  <td><a href='https://github.com/sodore/dsds/blob/master/video/ippotvm.mp4?raw=true'>安装教学.mp4</a></td>
 </tr>
 </table>
-<p></p> 
 
 <table>
 <tr>
 <td>无界、自由门桌机和手机使用说明，含爱博电视使用说明视频。<a href='https://github.com/sodore/dsds/blob/master/book/s-fangqian.epub?raw=true'>请下载epub 电子书</a></td>
 	</tr>	
 	</table>
-<p></p> 
 
 <table>
 <tr>
@@ -51,7 +49,7 @@ iNTD TV 为用户提供高清晰的画质，通过 iNTD TV 您可以方便地收
 	</tr>
 	
 </table>
-<p></p> 
+
 
 <hr>
 <h1 align="center"><b>在大陆，自由门和无界浏览是非常流行的翻墙软件。</b></p>
