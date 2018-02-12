@@ -45,9 +45,9 @@
 
 <table width = 90%>
 <tr style="text-align:center">
-	<td width="220">自由门</td>
-	<td width="220">桌机版.zip</td>
-	<td width="440">安卓版.apk</td>
+	<td width="300">自由门</td>
+	<td width="300">桌机版.zip</td>
+	<td width="300">安卓版.apk</td>
 </tr>
 <tr style="text-align:center">
 	<td>无界</td>
