@@ -19,19 +19,19 @@
 <table align="center">
   <tr>
 	<td>自由门</td>
-	<td>无界</td>
+	<td>桌机版.zip </td>
+	<td>安卓版.apk</td>
+	
+  </tr>
+  <tr>
+	<td> 无界  </td>
+	<td>桌机版.zip</td>
+	<td>安卓版.apk</td>
+	
+  </tr>
+  <tr>
 	<td>iPPOTV（爱博电视）</td>
-	
-  </tr>
-  <tr>
-	<td>桌机版    </td>
-	<td>桌机版</td>
 	<td>安装软件</td>
-	
-  </tr>
-  <tr>
-	<td>安卓版</td>
-	<td>安卓版</td>
 	<td>安装教学</td>
 	
   </tr>
