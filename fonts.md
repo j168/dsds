@@ -3,7 +3,7 @@
 </div>
 <hr>
 <div align=center>
-<img src="images/2018-02-12_162617.jpg" width=680></p>
+<img src="images/2018-02-12_204711.jpg" width=680></p>
 </div>
 <hr>
 <div align=center>
