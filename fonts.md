@@ -24,12 +24,12 @@
 <table width = 90%>
 <tr style="text-align:center">
 	<td width="350">自由门翻墙软件</td>
-	<td><a href='https://github.com/sodore/dsds/tree/master/dong/free--764p.zip?raw=true' width="350">桌机版.zip</a></td>
-	<td><a href='https://github.com/sodore/dsds/tree/master/dong/fgma--dd.apk?raw=true' width="350">安卓版.apk</a></td>
+	<td width="300"><a href='https://github.com/sodore/dsds/tree/master/dong/free--764p.zip?raw=true'>桌机版.zip</a></td>
+	<td width="300"><a href='https://github.com/sodore/dsds/tree/master/dong/fgma--dd.apk?raw=true'>安卓版.apk</a></td>
 	
 </tr>
 <tr style="text-align:center">
-	<td>无界</td>
+	<td>无界浏览</td>
 	<td>桌机版.zip</td>
 	<td>安卓版.apk</td>
 </tr>
