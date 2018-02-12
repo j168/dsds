@@ -33,6 +33,17 @@
  <td><a href='https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true'>安装软件</a></td>
  <td><a href='https://github.com/sodore/dsds/blob/master/video/ippotvm.mp4?raw=true'>安装教学.mp4</a></td>
 </tr>
+	
+<tr>
+<td>无界、自由门桌机和手机使用说明，含爱博电视使用说明视频，请下载epub 电子书。<a href='https://github.com/sodore/dsds/blob/master/book/s-fangqian.epub?raw=true'>epub 电子书</a></td>
+	</tr>	
+	
+	<tr>
+<td>iNTD TV 是专为 Android TV 和 Android 平板电脑用户设计的免费网络电视应用软件。Android 手机用户也可以安装并在 WiFi 环境下使用 iNTD TV。
+iNTD TV 为用户提供高清晰的画质，通过 iNTD TV 您可以方便地收看中文电视新唐人的直播电视。
+<a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TV.apk?raw=true'>请下载新唐人电视 (安卓版)</a></td>
+	</tr>
+	
 </table>
 <p></p> 
 
@@ -42,12 +53,12 @@
 
 <h3>建议您各种翻墙(破网)软件轮换用；旧版本的翻墙软件也留存，有时候新版本的不好用试试旧版本的说不定还能行。封锁较严重地区，找到代理服务器的时间可能稍长。若您不能解压 zip或 rar压缩文件，请下载 Winrar安装软件<a href='https://github.com/sodore/dsds/blob/master/dong/wrar35b2sc.zip?raw=true'>wrar35b2sc.exe(999KB)</a>, 双击并执行安装 Winrar后，鼠标右键点击 zip或 rar压缩文件，选择“解压文件…”或“解压到当前文件夹”等命令，即可解压压缩文件。</h3>
 
-
+<hr>
 
 <h1 align="center"><b>翻墙特别推荐使用: iPPOTV (爱博电视)</b></p>
 
 
-<h3><p>目前大陆的政经风云变幻莫测，爱博电视第一时间不经过滤的全方位传播海内外新闻焦点。不断优化革新，爱博电视成为大陆用户流畅收看及时视频资讯的可靠平台。安装爱博电视软体之后，不需要再用其他翻墙软体，打开爱博电视即可及时收看收听包括“新唐人电视台”，“希望之声”和“美国之音”在内的电视及广播节目。</h3></p>
+<h3><p>(爱博电视)是桌机版的软件，在桌机上全频观看会更清楚。目前大陆的政经风云变幻莫测，爱博电视第一时间不经过滤的全方位传播海内外新闻焦点。不断优化革新，爱博电视成为大陆用户流畅收看及时视频资讯的可靠平台。安装爱博电视软体之后，不需要再用其他翻墙软体，打开爱博电视即可及时收看收听包括“新唐人电视台”，“希望之声”和“美国之音”在内的电视及广播节目。</h3></p>
 	
 	
 <h1 align="center"><b>特别提醒</b></p>
