@@ -38,7 +38,7 @@
 
 <table>
 <tr>
-<td>无界、自由门桌机和手机使用说明，含爱博电视使用说明视频，请下载epub 电子书。<a href='https://github.com/sodore/dsds/blob/master/book/s-fangqian.epub?raw=true'>epub 电子书</a></td>
+<td>无界、自由门桌机和手机使用说明，含爱博电视使用说明视频。<a href='https://github.com/sodore/dsds/blob/master/book/s-fangqian.epub?raw=true'>请下载epub 电子书</a></td>
 	</tr>	
 	</table>
 <p></p> 
@@ -53,6 +53,7 @@ iNTD TV 为用户提供高清晰的画质，通过 iNTD TV 您可以方便地收
 </table>
 <p></p> 
 
+<hr>
 <h1 align="center"><b>在大陆，自由门和无界浏览是非常流行的翻墙软件。</b></p>
 
 <h3>提醒你，使用翻墙软件时，请关闭其它网站网页，并请暂时关闭国产杀毒软件（如瑞星、金山 、360）或“绿坝”等，它会阻止软件的运行，并说有病毒，这是国内在有意拦截突破封锁的通道，那是封锁的伎俩, 不让人民知道真相，请安心使用，没有病毒。<h3></p>
