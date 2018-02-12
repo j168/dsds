@@ -16,30 +16,25 @@
 <hr>
  <h1 align="center"><b>下載 翻牆軟件</b></p>
 
-<table>
-<tr  width="880">
-	<td  width="350">自由门</td>
-	<td  width="300">桌机版.zip</td>
-	<td  width="230">安卓版.apk</td>
+<table width = 90%>
+<tr style="text-align:center">
+ <td width="350">自由门</td>
+ <td width="300"><a href='https://github.com/sodore/dsds/tree/master/dong/free--764p.zip?raw=true'>桌机版.zip</a></td>
+ <td width="300"><a href='https://github.com/sodore/dsds/tree/master/dong/fgma--dd.apk?raw=true'>安卓版.apk</a></td>
+ 
 </tr>
-	<tr>
-	<td>自由门</td>
-	<td><a href='https://github.com/sodore/dsds/tree/master/dong/free--764p.zip?raw=true'>桌机版.zip</a></td>
-	<td><a href='https://github.com/sodore/dsds/tree/master/dong/fgma--dd.apk?raw=true'>安卓版.apk</a></td>
-	
+<tr style="text-align:center">
+ <td>无界浏览</td>
+ <td><a href='https://github.com/sodore/dsds/tree/master/dong/u1--7.04a.zip?raw=true'>桌机版.zip</a></td>
+ <td><a href='https://github.com/sodore/dsds/tree/master/dong/um4.2a.apk?raw=true'>安卓版.apk</a></td>
 </tr>
-<tr>
-	<td>无界浏览</td>
-	<td><a href='https://github.com/sodore/dsds/tree/master/dong/u1--7.04a.zip?raw=true'>桌机版.zip</a></td>
-	<td><a href='https://github.com/sodore/dsds/tree/master/dong/um4.2a.apk?raw=true'>安卓版.apk</a></td>
-</tr>
-<tr>
-	<td>iPPOTV（爱博电视）</td>
-	<td><a href='https://github.com/sodore/dsds/tree/master/dong/Green_iPPOTV.exe?raw=true'>安装软件</a></td>
-	<td><a href='https://github.com/sodore/dsds/tree/master/video/ippotvm.mp4?raw=true'>安装教学.mp4</a></td>
+<tr style="text-align:center">
+ <td>iPPOTV（爱博电视）</td>
+ <td><a href='https://github.com/sodore/dsds/tree/master/dong/Green_iPPOTV.exe?raw=true'>安装软件</a></td>
+ <td><a href='https://github.com/sodore/dsds/tree/master/video/ippotvm.mp4?raw=true'>安装教学.mp4</a></td>
 </tr>
 </table>
-<p></p>	
+<p></p> 
 
 <h1 align="center"><b>在大陆，自由门和无界浏览是非常流行的翻墙软件。</b></p>
 
