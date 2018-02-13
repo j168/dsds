@@ -50,6 +50,7 @@
 <hr>
 <img src="images/2018-02-13_115533.jpg"></p>
 
+ <img src="images/2018-02-13_110530.jpg"></p>
  
 <a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TV.apk?raw=true' align="center">请下载免费的iNTD软体: 新唐人电视 iNTD TV (安卓版)</a>
 	
@@ -58,7 +59,12 @@
 
 <hr>
 
-建议您各种翻墙(破网)软件轮换用；旧版本的翻墙软件也留存，有时候新版本的不好用试试旧版本的说不定还能行。封锁较严重地区，找到代理服务器的时间可能稍长。若您不能解压 zip或 rar压缩文件，请下载 Winrar安装软件<a href='https://github.com/sodore/dsds/blob/master/dong/wrar35b2sc.zip?raw=true'>wrar35b2sc.exe(999KB)</a>, 双击并执行安装 Winrar后，鼠标右键点击 zip或 rar压缩文件，选择“解压文件…”或“解压到当前文件夹”等命令，即可解压压缩文件。
+<a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TV.apk?raw=true' align="center">若您不能解压 zip或 rar压缩文件，请下载 Winrar安装软件</a>
+
+<img src="images/2018-02-13_132320.jpg"></p>
+
+
+
 
 
 
