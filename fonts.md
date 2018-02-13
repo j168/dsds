@@ -51,7 +51,7 @@
 
 <table>
 <td>
-<a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TV.apk?raw=true'><h3 align="center">请下载: 新唐人电视 iNTD TV (安卓版)</a></h3></td>
+<a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TV.apk?raw=true' align="center" >请下载: 新唐人电视 iNTD TV (安卓版)</a></td>
 	
 </table>
 
