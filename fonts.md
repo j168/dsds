@@ -65,9 +65,18 @@
  <img src="images/2018-02-13_110530.jpg"></p></div>
  
  <table>
-<td><h1><a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TV.apk?raw=true' align="center">请下载免费的iNTD软体: 新唐人电视 iNTD TV (安卓版)</a></h1></td> </table>
-	
-<img src="images/2018-02-13_124121.jpg" width=880></p>
+<td><a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TV.apk?raw=true' align="center">提供免费的(iNTD 软体)下载: 新唐人电视 iNTD TV (安卓版)</a></td> </table>
+
+
+<h1 align="center"><b> iNTD是专为智能手机和平板电脑设计和开发的软体</b></h1>
+<h2 style="text-align: center;">中国大陆用户也可以通过安卓产品直接收看新唐人</h2>
+
+<h2 style="text-align: center;"> 下载免费的iNTD软体，可以收看新唐人24小时直播电视，新闻和节目视频点播，及各种及时的新闻资讯。</h2>
+<h2 style="text-align: center;"> 新闻资讯，带给您最及时的新闻报导，热门话题的论述和解析，让您随时了解发生在世界各地的生活故事，娱乐休闲趣事……。</h2>
+  <h2 style="text-align: center;"> 只要有智能手机或平板电脑在您的手中，就可以通过iNTD及时了解世界动态，获悉最新的视频和文字资讯。 </h2>      
+  <h2 style="text-align: center;"> 新唐人多个直播频道，配有最新的节目预告，让您不会错过期待收看的节目。几十套精彩视频点播节目，新唐人新闻、新闻评论、热点访谈、娱乐、天下名人趣事、消费生活、儿童教育、中医健康……等。</h2>      
+  <h2 style="text-align: center;"> iNTD的点播功能让您选择您所喜爱的节目，根据您的时间随时收看。iNTD TV是可用于多屏幕安卓系统的应用程序，可以用于安卓机顶盒，平板电脑和手机。</h2>      
+<h2 style="text-align: center;">有Android 产品的用户可以到Google Play免费下载安装iNTD TV。</h2>      
 
 
 <hr>
