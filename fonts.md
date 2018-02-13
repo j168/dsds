@@ -1,16 +1,16 @@
-<img src="images/2018-02-13_020011.jpg" width=880></p>
+<img src="images/2018-02-13_020011.jpg"></p>
 
-<img src="images/2018-02-12_152004.jpg" width=880></p>
+<img src="images/2018-02-12_152004.jpg"></p>
 
-<img src="images/2018-02-13_021319.jpg" width=880></p>
+<img src="images/2018-02-13_021319.jpg"></p>
 
-<img src="images/2018-02-11_233923.jpg" width=880></p>
+<img src="images/2018-02-11_233923.jpg"></p>
 
-<img src="images/2018-02-13_025348.jpg" width=880></p>
+<img src="images/2018-02-13_025348.jpg"></p>
 
-<img src="images/2018-02-13_033107.jpg" width=880></p>
+<img src="images/2018-02-13_033107.jpg"></p>
 
-<img src="images/2018-02-13_033904.jpg" width=880></p>
+<img src="images/2018-02-13_033904.jpg"></p>
 
  <h1 align="center"><b>下載 翻牆軟件</b></p>
 
