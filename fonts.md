@@ -1,6 +1,6 @@
 <h1 align="center"><b>下載 翻牆軟件</b>
 
-<table>
+
 
  <td><a href='https://github.com/sodore/dsds/blob/master/dong/free--764p.zip?raw=true'><h4 align="center">自由门.桌机版.zip</a><br></h4></td>
  <td><a href='https://github.com/sodore/dsds/blob/master/dong/fgma--dd.apk?raw=true'>自由门.安卓版.apk</a></td>
