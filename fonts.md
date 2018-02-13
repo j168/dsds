@@ -65,11 +65,11 @@
  <img src="images/2018-02-13_110530.jpg"></p></div>
  
  <table>
-<td><a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TV.apk?raw=true' align="center">提供免费的(iNTD 软体)下载: 新唐人电视 iNTD TV (安卓版)</a></td> </table>
+<td><h1><a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TV.apk?raw=true' align="center">提供免费的(iNTD 软体)下载: 新唐人电视 iNTD TV (安卓版)</a></h1></td> </table>
 
 
 <h1 align="center"><b> iNTD是专为智能手机和平板电脑设计和开发的软体</b></h1>
-<h2 style="text-align: center;">中国大陆用户也可以通过安卓产品直接收看新唐人</h2>
+<h2 align="center"><b> 中国大陆用户也可以通过安卓产品直接收看新唐人</h2>
 
 <h2 style="text-align: center;"> 下载免费的iNTD软体，可以收看新唐人24小时直播电视，新闻和节目视频点播，及各种及时的新闻资讯。</h2>
 <h2 style="text-align: center;"> 新闻资讯，带给您最及时的新闻报导，热门话题的论述和解析，让您随时了解发生在世界各地的生活故事，娱乐休闲趣事……。</h2>
@@ -84,8 +84,10 @@
 <table>
 <td><h1>若您不能解压 zip或 rar压缩文件，<a href='https://github.com/sodore/dsds/blob/master/dong/wrar35b2sc.exe?raw=true' align="center">请下载 Winrar安装软件</td></h1></a></table>
 
-<img src="images/2018-02-13_132320.jpg" width=880></p>
-
+<h2 style="text-align: center;"> 建议您各种翻墙(破网)软件轮换用；旧版本的翻墙软件也留存，有时候新版本的不好用试试旧版本的说不定还能行。</h2>
+<h2 style="text-align: center;"> 封锁较严重地区，找到代理服务器的时间可能稍长。</h2>
+  <h2 style="text-align: center;"> 若您不能解压 zip或 rar压缩文件，请下载 Winrar安装软件wrar35b2sc.exe(999KB), 双击并执行安装 Winrar后，鼠标右键点击 zip或 rar压缩文件，选择“解压文件…”或“解压到当前文件夹”等命令，即可解压压缩文件。</h2>      
+  
 
 <img src="images/2018-02-13_134647.jpg" width=880 >
 
