@@ -47,16 +47,13 @@
 
 <img src="images/2018-02-13_033904.jpg" width=880></p>
 
+<hr>
 <img src="images/2018-02-13_115533.jpg"></p>
 
  
 <a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TV.apk?raw=true' align="center">请下载免费的iNTD软体: 新唐人电视 iNTD TV (安卓版)</a>
 	
-
-
 <img src="images/2018-02-13_124121.jpg" width=880></p>
-
-
 
 
 <hr>
