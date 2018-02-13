@@ -22,42 +22,31 @@
 
  <h1 align="center"><b>下載 翻牆軟件</b></p>
 
-<table border="0" width="60%" align="center" bordercolor="gold">
-<tr>
-	<td width=350;></td>
-	<td width=250;>桌机版.zip</td>
-	<td width=250;>安卓版.apk</td>
-	</tr>
-	<tr>
-	<td>自由门</td>
- <td><a href='https://github.com/sodore/dsds/blob/master/dong/free--764p.zip?raw=true'>桌机版.zip</a></td>
- <td><a href='https://github.com/sodore/dsds/blob/master/dong/fgma--dd.apk?raw=true'>安卓版.apk</a></td>
- </tr>
-	
-<tr>
- <td>无界浏览</td>
- <td><a href='https://github.com/sodore/dsds/blob/master/dong/u1--7.04a.zip?raw=true'>桌机版.zip</a></td>
- <td><a href='https://github.com/sodore/dsds/blob/master/dong/um4.2a.apk?raw=true'>安卓版.apk</a></td>
-</tr>
-<tr>
- <td>iPPOTV（爱博电视）</td>
- <td><a href='https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true'>安装软件</a></td>
- <td><a href='https://github.com/sodore/dsds/blob/master/video/ippotvm.mp4?raw=true'>安装教学.mp4</a></td>
-</tr>
+<table>
+
+ <td><a href='https://github.com/sodore/dsds/blob/master/dong/free--764p.zip?raw=true'>自由门.桌机版.zip</a></td>
+ <td><a href='https://github.com/sodore/dsds/blob/master/dong/fgma--dd.apk?raw=true'>自由门.安卓版.apk</a></td>
+
+ <td><a href='https://github.com/sodore/dsds/blob/master/dong/u1--7.04a.zip?raw=true'>无界浏览.桌机版.zip</a></td>
+ <td><a href='https://github.com/sodore/dsds/blob/master/dong/um4.2a.apk?raw=true'>无界浏览.安卓版.apk</a></td>
 </table>
 
 <table>
-<tr>
+ <td>iPPOTV（爱博电视）</td>
+ <td><a href='https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true'>iPPOTV（爱博电视）.安装软件</a></td>
+ <td><a href='https://github.com/sodore/dsds/blob/master/video/ippotvm.mp4?raw=true'>iPPOTV（爱博电视）.安装教学.mp4</a></td>
+
+</table>
+
+<table>
+
 <td>无界、自由门桌机和手机使用说明，含爱博电视使用说明视频。<a href='https://github.com/sodore/dsds/blob/master/book/s-fangqian.epub?raw=true'>请下载epub 电子书</a></td>
-	</tr>	
 	</table>
 
 <table>
-<tr>
 <td>iNTD TV 是专为 Android TV 和 Android 平板电脑用户设计的免费网络电视应用软件。Android 手机用户也可以安装并在 WiFi 环境下使用 iNTD TV。
 iNTD TV 为用户提供高清晰的画质，通过 iNTD TV 您可以方便地收看中文电视新唐人的直播电视。
 <a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TV.apk?raw=true'>请下载新唐人电视 (安卓版)</a></td>
-	</tr>
 	
 </table>
 
