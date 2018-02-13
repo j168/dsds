@@ -22,11 +22,11 @@
 
  <h1 align="center"><b>下載 翻牆軟件</b></p>
 
-<table border="0" width="60%" align="center" bordercolor="gold">
+<table>
 <tr>
  <td width="350">自由门</td>
- <td width="250"><a href='https://github.com/sodore/dsds/blob/master/dong/free--764p.zip?raw=true'>桌机版.zip</a></td>
- <td width="250"><a href='https://github.com/sodore/dsds/blob/master/dong/fgma--dd.apk?raw=true'>安卓版.apk</a></td>
+ <td width="250"><a href='https://github.com/sodore/dsds/blob/master/dong/free--764p.zip?raw=true'>桌机版.zip</a><br></td>
+ <td width="250"><a href='https://github.com/sodore/dsds/blob/master/dong/fgma--dd.apk?raw=true'>安卓版.apk</a><br></td>
  </tr>
 	
 <tr>
