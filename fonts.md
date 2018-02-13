@@ -61,10 +61,10 @@
 
 <a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TV.apk?raw=true' align="center">若您不能解压 zip或 rar压缩文件，请下载 Winrar安装软件</a>
 
-<img src="images/2018-02-13_132320.jpg"></p>
+<img src="images/2018-02-13_132320.jpg" width=880></p>
 
 
-<img src="images/2018-02-13_134647.jpg">
+<img src="images/2018-02-13_134647.jpg" width=880 >
 
 
 
