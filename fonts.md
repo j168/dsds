@@ -51,11 +51,11 @@
 
 <table>
 <td>
-<a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TV.apk?raw=true'>请下载: 新唐人电视 iNTD TV (安卓版)</a></td>
+<a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TV.apk?raw=true'><h3 align="center">请下载: 新唐人电视 iNTD TV (安卓版)</a></h3></td>
 	
 </table>
 
-
+<img src="images/2018-02-13_124121.jpg" width=880></p>
 
 
 
