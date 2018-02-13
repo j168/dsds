@@ -88,7 +88,7 @@
 <h2 style="text-align: center;"> 封锁较严重地区，找到代理服务器的时间可能稍长。</h2>
   <h2 style="text-align: center;"> 若您不能解压 zip或 rar压缩文件，请下载 Winrar安装软件wrar35b2sc.exe(999KB), 双击并执行安装 Winrar后，鼠标右键点击 zip或 rar压缩文件，选择“解压文件…”或“解压到当前文件夹”等命令，即可解压压缩文件。</h2>      
   
-
-<img src="images/2018-02-13_134647.jpg" width=880 >
+<hr>
+<img src="images/2018-02-13_134647.jpg" width=600 >
 
 
