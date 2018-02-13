@@ -50,7 +50,7 @@
 <img src="images/2018-02-13_115533.jpg"></p>
 
 <table>
-<td>
+<td align="center" >
 <a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TV.apk?raw=true'>请下载免费的iNTD软体: 新唐人电视 iNTD TV (安卓版)</a></td>
 	
 </table>
