@@ -65,7 +65,7 @@
  <img src="images/2018-02-13_110530.jpg"></p></div>
  
  <table>
-<td><h2 align=center><a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TV.apk?raw=true' align="center">请下载免费的iNTD软体: 新唐人电视 iNTD TV (安卓版)</a></h2></td> </table>
+<td><h1><a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TV.apk?raw=true' align="center">请下载免费的iNTD软体: 新唐人电视 iNTD TV (安卓版)</a></h1></td> </table>
 	
 <img src="images/2018-02-13_124121.jpg" width=880></p>
 
@@ -73,7 +73,7 @@
 <hr>
 
 <table>
-<td><h2 align=center>若您不能解压 zip或 rar压缩文件，<a href='https://github.com/sodore/dsds/blob/master/dong/wrar35b2sc.exe?raw=true' align="center">请下载 Winrar安装软件</td></h2></a></table>
+<td><h1>若您不能解压 zip或 rar压缩文件，<a href='https://github.com/sodore/dsds/blob/master/dong/wrar35b2sc.exe?raw=true' align="center">请下载 Winrar安装软件</td></h1></a></table>
 
 <img src="images/2018-02-13_132320.jpg" width=880></p>
 
