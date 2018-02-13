@@ -24,7 +24,7 @@
 
 <table>
 
- <td><a href='https://github.com/sodore/dsds/blob/master/dong/free--764p.zip?raw=true'>自由门.桌机版.zip</a></td>
+ <td><a href='https://github.com/sodore/dsds/blob/master/dong/free--764p.zip?raw=true'><h4 align="center">自由门.桌机版.zip</a><br></h4></td>
  <td><a href='https://github.com/sodore/dsds/blob/master/dong/fgma--dd.apk?raw=true'>自由门.安卓版.apk</a></td>
 
  <td><a href='https://github.com/sodore/dsds/blob/master/dong/u1--7.04a.zip?raw=true'>无界浏览.桌机版.zip</a></td>
@@ -32,7 +32,6 @@
 </table>
 
 <table>
- <td>iPPOTV（爱博电视）</td>
  <td><a href='https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true'>iPPOTV（爱博电视）.安装软件</a></td>
  <td><a href='https://github.com/sodore/dsds/blob/master/video/ippotvm.mp4?raw=true'>iPPOTV（爱博电视）.安装教学.mp4</a></td>
 
