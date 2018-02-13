@@ -5,6 +5,18 @@
 <div align=center>
 <img src="images/2018-02-12_152004.jpg" width=780></p></div>
 
+<h1 align="center"><b>下載 翻牆軟件</b></p>
+
+<table>
+
+ <td><a href='https://github.com/sodore/dsds/blob/master/dong/free--764p.zip?raw=true'><h4 align="center">自由门.桌机版.zip</a><br></h4></td>
+ <td><a href='https://github.com/sodore/dsds/blob/master/dong/fgma--dd.apk?raw=true'>自由门.安卓版.apk</a></td>
+
+ <td><a href='https://github.com/sodore/dsds/blob/master/dong/u1--7.04a.zip?raw=true'>无界浏览.桌机版.zip</a></td>
+ <td><a href='https://github.com/sodore/dsds/blob/master/dong/um4.2a.apk?raw=true'>无界浏览.安卓版.apk</a></td>
+</table>
+
+
 <div align=center>
 <img src="images/2018-02-13_021319.jpg" width=780></p></div>
 
