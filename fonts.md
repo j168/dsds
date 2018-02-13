@@ -58,12 +58,11 @@
   <h2 style="text-align: center;"> 爱博电视具有使用的人越多，突破封锁和观看效果越好的特点。另外，爱博电视采用传输加密技术，保护用户个人资讯，使用安全可靠。欢迎广大用户测试使用并提出回馈建议：support@starp2p.com </h2>      
 
 <hr>
+<div align=center>
+<img src="images/2018-02-13_115533.jpg"></p></div>
 
-
-<hr>
-<img src="images/2018-02-13_115533.jpg"></p>
-
- <img src="images/2018-02-13_110530.jpg"></p>
+<div align=center>
+ <img src="images/2018-02-13_110530.jpg"></p></div>
  
 <a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TV.apk?raw=true' align="center">请下载免费的iNTD软体: 新唐人电视 iNTD TV (安卓版)</a>
 	
