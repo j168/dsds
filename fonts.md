@@ -65,7 +65,7 @@
  <img src="images/2018-02-13_110530.jpg"></p></div>
  
  <table>
-<td><h1><a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TVsp1.apk?raw=true' align="center">提供免费的(iNTD 软体)下载: 新唐人电视 iNTD TV (安卓版)</a></h1></td> </table>
+<td><h1><a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TVsp1 .apk?raw=true' align="center">提供免费的(iNTD 软体)下载: 新唐人电视 iNTD TV (安卓版)</a></h1></td> </table>
 
 
 <h1 align="center"><b> iNTD是专为智能手机和平板电脑设计和开发的软体</b></h1>
