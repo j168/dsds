@@ -197,7 +197,7 @@
 	
 <td><a href="https://github.com/sodore/dsds/blob/master/video/ippotvm.mp4?raw=true"><h4 align="center">爱博电视桌机板 (安裝教学)</a></h4></td>
 
-<td><a href="https://github.com/sodore/dsds/blob/master/dong/iNTD_TV.apk?raw=true"><h4 align="center">新唐人电视 (安卓版)</a></h4></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/dong/iNTD_TVsp1 .apk?raw=true"><h4 align="center">新唐人电视 (安卓版)</a></h4></td>
 
 <td><a href="https://github.com/sodore/dsds/blob/master/book/s-fangqian.epub?raw=true"><h4 align="center">翻墙软件使用说明 (EPUB 格式 )</a></h4></td>
 
