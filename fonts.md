@@ -1,3 +1,6 @@
+<div align=center>
+<img src="images/2018-02-19.jpg">
+</div>
 
 <img src="images/2018-02-13_020011.jpg" width=880></p>
 
