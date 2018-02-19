@@ -1,4 +1,6 @@
-
+<div align=center>
+<img src="images/2018-02-19.jpg">
+</div>
 
 <div align=center>
 <img src="images/4.jpg">
