@@ -3,7 +3,7 @@
   </div>
 
 <div align="center">
-<IMG SRC="sy/2018-02-22_142834.jpg" width=880></p>
+<IMG SRC="images/2018-02-22_142834.jpg" width=880></p>
   </div>
 
 <div align="center">
