@@ -107,13 +107,11 @@
 	<td><a href="https://github.com/sodore/dsds/blob/master/book/goalCh12.epub?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-04_234915.jpg" width="265"  border="0" alt=""></a></td>
 </tr>
 <tr>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/book/goalCh4.epub?raw=true">【共产主义的终极目的】10.epub</a></center></td>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/book/goalCh4.epub?raw=true">【共产主义的终极目的】10. epub</a></center></td>
 	<td><center><a href="https://github.com/sodore/dsds/blob/master/book/goalCh5.epub?raw=true">【共产主义的终极目的】11. epub</a></center></td>
 	<td><center><a href="https://github.com/sodore/dsds/blob/master/book/goalCh6.epub?raw=true">【共产主义的终极目的】12. epub</a></center></td>
 </tr>
 	
-<td><center>&nbsp;</center></td>
-</tr>
 </table>
 
 
