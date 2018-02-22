@@ -65,6 +65,8 @@
 
 <h2 align="center"><b>視頻下載：</b></h2>
 
+<h4>以下是新唐人电视台根据大纪元原文所录制的视频，并且镶崁在epub格式电子书里面，只要下载电子书，可以很方便地阅读、聆听或观赏。</b></h4>
+
 <table>
 </td>
 </tr>
@@ -108,7 +110,7 @@
 </tr>
 <tr>
 
-<td><a href="https://github.com/sodore/dsds/blob/master/video/goalCh1s.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-04_234915.jpg" width="265"  border="0" alt=""></a></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/video/goalCh1s.mp4?raw=true"><width="265"  border="0" alt=""></a></td>
 	
 <td><a href="https://github.com/sodore/dsds/blob/master/video/goalCh2s.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-04_234915.jpg" width="265"  border="0" alt=""></a></td>
 
