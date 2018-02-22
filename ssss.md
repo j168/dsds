@@ -2,7 +2,9 @@
 <IMG SRC="sy/151120.jpg" width=880></p>
   </div>
 
-  <h1 align="center"><b>新唐人新年期间播出2018全球华人新年晚会</b></h1>
+<div align="center">
+<IMG SRC="sy/2018-02-22_142834.jpg" width=880></p>
+  </div>
 
 <div align="center">
 <IMG SRC="sy/2017_SY_CHINA_-0000406-600x400.jpg" width=880></p>
@@ -20,7 +22,7 @@
 <hr>
 
 <div align="center"><h1><a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">{新唐人电视台}中国频道播出时间如下：</a></h1></div>
-<div align="center"><h2>请大家告诉大家，错过可能得等到元宵节回放！</h2></div>  
+<div align="center"><h2>往年元宵节还会有一场回放，请大家告诉大家，错过可能得等一年！</h2></div>  
 <div align="center"><h1>新年晚会(中国频道)</h1></div><p></p>
 
 
