@@ -97,7 +97,7 @@
 </tr>
 
 <tr>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/book/goalCh7.epub?raw=true">【共产主义的终极目的】（7）. epub</a></center></td>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/book/goalCh7.epub?raw=true">【共产主义的终极目的】（17）. epub</a></center></td>
 	<td><center><a href="https://github.com/sodore/dsds/blob/master/book/goalCh8.epub?raw=true">【共产主义的终极目的】（8）. epub</a></center></td>
 	<td><center><a href="https://github.com/sodore/dsds/blob/master/book/goalCh9.epub?raw=true">【共产主义的终极目的】（9）. epub</a></center></td>
 	
