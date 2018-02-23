@@ -6,7 +6,7 @@
 <IMG SRC="images/2018-02-22_142834.jpg" width=880></p>
   </div>
 
-<h1 align="center">观看神韵影片精彩介绍,请下载电子书: <a href="https://github.com/sodore/dsds/blob/master/book/gala2018.epub?raw=true">gala2018.epub </a>或使用此连结观赏神韵影片精彩介绍 http://1.163.120.75/sy/  </h1>                                
+<h2 align="center">观看神韵影片精彩介绍,请下载电子书: <a href="https://github.com/sodore/dsds/blob/master/book/gala2018.epub?raw=true">gala2018.epub </a>或使用此连结观赏神韵影片精彩介绍 http://1.163.120.75/sy/  </h2>                                
 
 
 
