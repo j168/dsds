@@ -59,6 +59,72 @@
 ******
  <h2 align="center"><b>音频(mp3)下载：</b></h2>
 
+<table>
+</td>
+</tr>
+<tr>
+	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh1.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh2.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh3.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
+</tr>
+<tr>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh1.mp3?raw=true">【共产主义的终极目的】（1）. mp3</a></center></td>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh2.mp3?raw=true">【共产主义的终极目的】（2）. mp3</a></center></td>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh3.mp3?raw=true">【共产主义的终极目的】（3）. mp3</a></center></td>
+</tr>
+<tr>
+	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh4.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh5.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh6.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
+</tr>
+<tr>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh4.mp3?raw=true">【共产主义的终极目的】（4）. mp3</a></center></td>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh5.mp3?raw=true">【共产主义的终极目的】（5）. mp3</a></center></td>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh6.mp3?raw=true">【共产主义的终极目的】（6）. mp3</a></center></td>
+</tr>
+<tr>
+	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh7.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh8.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh9.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
+</tr>
+
+<tr>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh7.mp3?raw=true">【共产主义的终极目的】（7）. mp3</a></center></td>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh8.mp3?raw=true">【共产主义的终极目的】（8）. mp3</a></center></td>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh9.mp3?raw=true">【共产主义的终极目的】（9）. mp3</a></center></td>
+	
+<tr>
+	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh10.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh11.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh12.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
+</tr>
+<tr>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh10.mp3?raw=true">【共产主义的终极目的】10. mp3</a></center></td>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh11.mp3?raw=true">【共产主义的终极目的】11. mp3</a></center></td>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh12.mp3?raw=true">【共产主义的终极目的】12. mp3</a></center></td>
+</tr>
+	
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <table>	
 <tr>
 
