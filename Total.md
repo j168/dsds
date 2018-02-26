@@ -58,6 +58,7 @@
 
 ******
  <h2 align="center"><b>音频(mp3)下载：</b></h2>
+<h2 align="center">鼠标右键单击”另存新檔”既可观看</h2>
 
 <table>
 </td>
@@ -105,61 +106,6 @@
 </tr>
 	
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table>	
-<tr>
-
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh1.mp3?raw=true"><h4 align="center">共产主义的终极目的(1).mp3</a></td><br></h4>
-
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh2.mp3?raw=true"><h4 align="center">共产主义的终极目的(2).mp3</a></td><br></h4>
-
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh3.mp3?raw=true"><h4 align="center">共产主义的终极目的(3).mp3</a></td><br></h4>
-
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh4.mp3?raw=true"><h4 align="center">共产主义的终极目的(4).mp3</a><br></h4></td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh5.mp3?raw=true"><h4 align="center">共产主义的终极目的(5).mp3</a><br></h4></td>
-
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh6.mp3?raw=true"><h4 align="center">共产主义的终极目的(6).mp3</a><br></h4></td>
-
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh7.mp3?raw=true"><h4 align="center">共产主义的终极目的(7).mp3</a><br></h4></td>
-
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh8.mp3?raw=true"><h4 align="center">共产主义的终极目的(8).mp3</a><br></h4></td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh9.mp3?raw=true"><h4 align="center">共产主义的终极目的(9).mp3</a><br></h4></td>
-
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh10.mp3?raw=true"><h4 align="center">共产主义的终极目的(10).mp3</a><br></h4></td>
-
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh11.mp3?raw=true"><h4 align="center">共产主义的终极目的(11).mp3</a><br></h4></td>
-
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh12.mp3?raw=true"><h4 align="center">共产主义的终极目的(12).mp3</a><br></h4></td>
-
-
-</tr>
-</table>
-
 
  <h2 align="center"><b>镶崁在epub格式电子书里面，方便阅读、聆听。</b></h2>
 <a  href="https://github.com/sodore/dsds/blob/master/book/ultiGoalCmCN8k (1).epub?raw=true"><h3 align="center">下载全部 EPUB鑲崁8k(MP3) </a></h3>
