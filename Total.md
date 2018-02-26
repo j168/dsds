@@ -60,11 +60,11 @@
 
 <table>
 <tr>
-	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh1.mp3?raw=true"><h4 align="center">《共产主义的终极目的》序言</a><br></h4></td>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh1.mp3?raw=true"><h4 align="center">《共产主义的终极目的》序言</a></h4></td></center>
 
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh2.mp3?raw=true"><h4 align="center">共产主义的终极目的 (1)</a><br></h4></td>
+<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh2.mp3?raw=true"><h4 align="center">共产主义的终极目的 (1)</a></h4></td></center>
 
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh3.mp3?raw=true"><h4 align="center">共产主义的终极目的 (2)</a><br></h4></td>
+<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh3.mp3?raw=true"><h4 align="center">共产主义的终极目的 (2)</a></h4></td></center>
 
 <td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh3.mp3?raw=true"><h4 align="center">共产主义的终极目的 (3)</a><br></h4></td>
 
