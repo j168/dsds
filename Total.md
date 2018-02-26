@@ -61,31 +61,31 @@
 
 <table>
 <tr>
-	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh1.mp3?raw=true"><h4 align="center"> 《共产主义的终极目的》序言</a><br></h4></td>
+	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh1.mp3?raw=true"><h4 align="center">《共产主义的终极目的》序言</a><br></h4></td>
 
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh2.mp3?raw=true"><h4 align="center"> 共产主义的终极目的 (1)</a><br></h4></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh2.mp3?raw=true"><h4 align="center">共产主义的终极目的 (1)</a><br></h4></td>
 
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh3.mp3?raw=true"><h4 align="center"> 共产主义的终极目的 (2)</a><br></h4></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh3.mp3?raw=true"><h4 align="center">共产主义的终极目的 (2)</a><br></h4></td>
 
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh3.mp3?raw=true"><h4 align="center"> 共产主义的终极目的 (3)</a><br></h4></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh3.mp3?raw=true"><h4 align="center">共产主义的终极目的 (3)</a><br></h4></td>
 
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh4.mp3?raw=true"><h4 align="center"> 共产主义的终极目的 (4)</a><br></h4></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh4.mp3?raw=true"><h4 align="center">共产主义的终极目的 (4)</a><br></h4></td>
 
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh5.mp3?raw=true"><h4 align="center"> 共产主义的终极目的 (5)</a><br></h4></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh5.mp3?raw=true"><h4 align="center">共产主义的终极目的 (5)</a><br></h4></td>
 
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh6.mp3?raw=true"><h4 align="center"> 共产主义的终极目的 (6)</a><br></h4></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh6.mp3?raw=true"><h4 align="center">共产主义的终极目的 (6)</a><br></h4></td>
 
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh7.mp3?raw=true"><h4 align="center"> 共产主义的终极目的 (7)</a><br></h4></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh7.mp3?raw=true"><h4 align="center">共产主义的终极目的 (7)</a><br></h4></td>
 
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh8.mp3?raw=true"><h4 align="center"> 共产主义的终极目的 (8)</a><br></h4></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh8.mp3?raw=true"><h4 align="center">共产主义的终极目的 (8)</a><br></h4></td>
 
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh9.mp3?raw=true"><h4 align="center"> 共产主义的终极目的 (9)</a><br></h4></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh9.mp3?raw=true"><h4 align="center">共产主义的终极目的 (9)</a><br></h4></td>
 
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh10.mp3?raw=true"><h4 align="center"> 共产主义的终极目的 (10)</a><br></h4></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh10.mp3?raw=true"><h4 align="center">共产主义的终极目的 (10)</a><br></h4></td>
 
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh11.mp3?raw=true"><h4 align="center"> 共产主义的终极目的 (11)</a><br></h4></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh11.mp3?raw=true"><h4 align="center">共产主义的终极目的 (11)</a><br></h4></td>
 
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh12.mp3?raw=true"><h4 align="center"> 共产主义的终极目的 (12)</a><br></h4></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh12.mp3?raw=true"><h4 align="center">共产主义的终极目的 (12)</a><br></h4></td>
 
 
 </tr>
@@ -202,6 +202,39 @@
 
 
 <h3 align="center"><b>《共产主义的终极目的》新书即将出版</b></h3>
+
+【大纪元2018年01月21日讯】（大纪元记者唐薇报导）2018年元月，博大出版社发布书讯：《九评》编辑部新书《共产主义的终极目的》即将出版。
+
+《共产主义的终极目的——中国篇》是继《九评共产党》之后的又一宏篇巨制，自2017年11月19日起在大纪元新闻网首发，赢得广大读者的赞誉。
+
+去年适逢十月革命百年，中外学者都撰写文章，剖析共产主义的本质，反思共产主义在过去一百多年里给人类带来的灾难。纵观当下全球时局，中共的统治令大陆满目疮痍、乱象丛生、道德崩溃，在世界许多地区，共产主义思潮仍在渗透、肆虐，对和平与文明构成威胁。
+
+
+此际，《九评》编辑部郑重推出新著，撕破红潮黑幕——“共产主义来自何处？共产主义的本质究竟是什么？对这些根本问题的答案，现在是揭开谜底的时候了。”
+
+“共产主义不是一种学说、一种社会制度，它是一个邪灵，其目的是通过毁灭文化、败坏道德来毁灭全人类。”（《共产主义的终极目的——中国篇》序言）
+
+《九评》编辑部以独特的视角、前所未有的高度，结合历史与现实，深入剖析共产主义对人类文化与道德的破坏，以及共产党意欲摧毁中国社会与全世界的邪恶图谋，让人们更加清醒地认识共产主义的危害，使世人真正受益。
+
+读者表示，这本书宛如救世良方，振聋发聩。网友留言抒发感想：“写的太好了，含着泪读，中国人太可怜了”，“希望这一系列的文章能唤醒中国人，尽快传播。”
+
+“中国人只有彻底觉醒，彻底摒弃共产邪恶主义、共产邪党，回归传统，回归神，中华民族才能复兴！一个背离神的民族怎么能够得到神的护佑？！无神论是共产邪灵毁灭人类的圈套！”
+
+上海维权律师郑恩宠说：“这本书犹如一颗彗星，照亮了黑幕下的中国。不管您持有什么立场、什么观点，每个人都应该静下心来，把这本书认真的读一遍，因为它可以帮助你独立思考。”
+
+旅美时事评论员唐靖远指出，“共产主义的最终目的，就是破坏人对神的信仰，让人不相信神，甚至去否定神，这样它才能够切断人与神的联系。人一旦失去了和神的联系，人就只能被共产邪灵所操控。”
+
+原中国政法大学人文学院哲学系教授游兆和表示，“这本书帮助世人认清共产主义的邪恶本质，认清它的一系列计划、路线图及各种手段，也警示中华民族、人类文明面临着巨大的危机，同时指明出路。”
+
+纽约时事评论员朱明博士表示，今天的人类，在表面上享受着科技发达、物质繁荣，而实际上却受困于道德下滑所导致的种种难题败象。若想寻求转机，重获生机，必须反躬自省，重视精神层面的净化和提升，而在此过程中，彻底清除共产主义思想的毒害，至关重要。
+
+2004年11月，《九评》编辑部发表《九评共产党》，第一次全面说清了共产党的邪恶本质，以及中共给中华民族带来的深重苦难与危机。迄今，《九评共产党》已经被翻译成30多种语言，在许多国家出版，广受政要学者推荐，被誉为“一部深刻透析共产主义、至少深刻影响百年的著作”。《九评》提供了摒弃共产主义的重要理论根据，有力地推动了全球去共化运动，开启了大陆民众退出中共的“三退”大潮，为人类做出了巨大贡献。
+
+13年后，《共产主义的终极目的——中国篇》问世，传送高瞻远瞩的论述；该书下部《世界篇》也将在近期推出，引人期待。有读者说：“《九评共产党》就像九把斩妖利剑，斩了红魔共产党；《共产主义的终极目的》就像金色的阳光，将彻底解体中共邪灵。”
+
+责任编辑：高义
+
+
 
 
 
