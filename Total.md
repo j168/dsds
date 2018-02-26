@@ -61,7 +61,7 @@
 
 
  <h2 align="center"><b>epub格式电子书，方便阅读、聆听。</b></h2>
-<a href="https://github.com/sodore/dsds/blob/master/book/goalmp3Np.epub?raw=true"><h3 align="center">音频版 mp3 epub简体版全书</a></h3>
+<a href="https://github.com/sodore/dsds/blob/master/book/goalmp3Npr.epub?raw=true"><h3 align="center">音频版 mp3 epub简体版全书</a></h3>
 
 
 ******
