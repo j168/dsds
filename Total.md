@@ -201,6 +201,7 @@
 
 ******
 <h1 align="center"><b>《共产主义的终极目的》新书即将出版</b></h1>
+<h4 align="center"; "color:red;">《共产主义的终极目的》新书封面。（博大出版社）</h4>
 
 <div align=center>
 <img src="images/booket2.jpg">
