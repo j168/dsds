@@ -90,7 +90,7 @@
   
 <hr>
 
-<img src="images/2018-02-23_164855.jpg" width=880></p>
+
 
 <div align=center>
 <img src="images/2018-02-13_134647.jpg" width=600 >
