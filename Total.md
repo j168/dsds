@@ -29,7 +29,7 @@
 
 ******
 <h2 align="center"><b>《九评》编辑部：《共产主义的终极目的——中国篇》</b></h2>
-<h4 align="center"><b>本栏提供手机版、视频版、音频版、电子书等各种版本下载</b></h4>
+<h3 align="center"><b>本栏免费提供手机版、视频版、音频版、电子书等各种版本下载</b></h3>
 
 ******
 #### 以下是新唐人电视台根据大纪元原文所录制的视频，并且镶崁在epub格式电子书里面，只要下载电子书，可以很方便地阅读、聆听或观赏。</p>
@@ -60,16 +60,16 @@
 
 <table>
 <tr>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh1.mp3?raw=true">《共产主义的终极目的》序言.mp3</a></td></center>
+	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh1.mp3?raw=true"><h4 align="center">《共产主义的终极目的》序言.mp3</a></h4></td>
 
-<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh2.mp3?raw=true">共产主义的终极目的(1).mp3</a></td></center>
+<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh2.mp3?raw=true"><h4 align="center">共产主义的终极目的(1).mp3</a></td></h4>
 
-<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh3.mp3?raw=true">共产主义的终极目的(2).mp3</a></td></center>
-
-<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh3.mp3?raw=true">共产主义的终极目的(3).mp3</a></td></center>
+<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh3.mp3?raw=true"><h4 align="center">共产主义的终极目的(2).mp3</a></td></h4>
 </tr>
 
 <tr>
+<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh3.mp3?raw=true"><h4 align="center">共产主义的终极目的(3).mp3</a></td></h4>
+
 <td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh4.mp3?raw=true"><h4 align="center">共产主义的终极目的(4).mp3</a><br></h4></td>
 
 <td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh5.mp3?raw=true"><h4 align="center">共产主义的终极目的 (5)</a><br></h4></td>
