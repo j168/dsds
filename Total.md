@@ -59,55 +59,9 @@
 ******
  <h2 align="center"><b>音频(mp3)下载：</b></h2>
 
-<table>
-</td>
-</tr>
-<tr>
-	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh1.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
-	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh2.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
-	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh3.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
-</tr>
-<tr>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh1.mp3?raw=true">（1）. mp3</a></center></td>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh2.mp3?raw=true">（2）. mp3</a></center></td>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh3.mp3?raw=true">（3）. mp3</a></center></td>
-</tr>
-<tr>
-	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh4.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
-	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh5.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
-	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh6.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
-</tr>
-<tr>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh4.mp3?raw=true">（4）. mp3</a></center></td>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh5.mp3?raw=true">（5）. mp3</a></center></td>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh6.mp3?raw=true">（6）. mp3</a></center></td>
-</tr>
-<tr>
-	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh7.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
-	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh8.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
-	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh9.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
-</tr>
-
-<tr>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh7.mp3?raw=true">（7）. mp3</a></center></td>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh8.mp3?raw=true">（8）. mp3</a></center></td>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh9.mp3?raw=true">（9）. mp3</a></center></td>
-	
-<tr>
-	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh10.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
-	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh11.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
-	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh12.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
-</tr>
-<tr>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh10.mp3?raw=true">（10）. mp3</a></center></td>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh11.mp3?raw=true">（11）. mp3</a></center></td>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh12.mp3?raw=true">（12）. mp3</a></center></td>
-</tr>
-	
-</table>
 
  <h2 align="center"><b>镶崁在epub格式电子书里面，方便阅读、聆听。</b></h2>
-<a  href="https://github.com/sodore/dsds/blob/master/book/goalmp3Np.epub?raw=true"><h3 align="center">下载全部 EPUB鑲崁8k(MP3) </a></h3>
+<a  href="https://github.com/sodore/dsds/blob/master/book/goalmp3Np.epub?raw=true"><h3 align="center">下载EPUB 鑲崁8k(MP3) </a></h3>
 
 
 ******
