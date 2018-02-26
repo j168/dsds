@@ -60,8 +60,8 @@
  <h2 align="center"><b>音频(mp3)下载：</b></h2>
 
 
- <h2 align="center"><b>镶崁在epub格式电子书里面，方便阅读、聆听。</b></h2>
-<a  href="https://github.com/sodore/dsds/blob/master/book/goalmp3Np.epub?raw=true"><h3 align="center">下载EPUB 鑲崁8k(MP3) </a></h3>
+ <h2 align="center"><b>epub格式电子书，方便阅读、聆听。</b></h2>
+<a href="https://github.com/sodore/dsds/blob/master/book/goalmp3Np.epub?raw=true"><h3 align="center">音频版 mp3 epub简体版全书</a></h3>
 
 
 ******
