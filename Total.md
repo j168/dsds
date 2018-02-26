@@ -59,8 +59,11 @@
  <h2 align="center"><b> 音频(mp3)下载：</b></h2>
 
 <table>
+</td>
+</tr>
+	
 <tr>
-	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh1.mp3?raw=true"><h4 align="center">共产主义的终极目的  序言.mp3</a></h4><br></td>
+	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh1.mp3?raw=true"><h4 align="center">共产主义的终极目的  序言.mp3</a></td><br></h4>
 
 <td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh2.mp3?raw=true"><h4 align="center">共产主义的终极目的(1).mp3</a></td><br></h4>
 
