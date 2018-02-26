@@ -110,9 +110,9 @@
 	<td><a href="https://github.com/sodore/dsds/blob/master/video/goalCh3s.epub?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/imgad.jpg" width="265"  border="0" alt=""></a></td>
 </tr>
 <tr>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/video/goalCh1s.epub?raw=true">【共产主义的终极目的】（1）. epub</a></center></td>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/video/goalCh2s.epub?raw=true">【共产主义的终极目的】（2）. epub</a></center></td>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/video/goalCh3s.epub?raw=true">【共产主义的终极目的】（3）. epub</a></center></td>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/video/goalCh1s.epub?raw=true">【共产主义的终极目的】（1）. mp4</a></center></td>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/video/goalCh2s.epub?raw=true">【共产主义的终极目的】（2）. mp4</a></center></td>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/video/goalCh3s.epub?raw=true">【共产主义的终极目的】（3）. mp4</a></center></td>
 </tr>
 <tr>
 	<td><a href="https://github.com/sodore/dsds/blob/master/video/goalCh4s.epub?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/imgad.jpg" width="265"  border="0" alt=""></a></td>
@@ -120,9 +120,9 @@
 	<td><a href="https://github.com/sodore/dsds/blob/master/video/goalCh6s.epub?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/imgad.jpg" width="265"  border="0" alt=""></a></td>
 </tr>
 <tr>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/video/goalCh4s.epub?raw=true">【共产主义的终极目的】（4）. epub</a></center></td>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/video/goalCh5s.epub?raw=true">【共产主义的终极目的】（5）. epub</a></center></td>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/video/goalCh6s.epub?raw=true">【共产主义的终极目的】（6）. epub</a></center></td>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/video/goalCh4s.epub?raw=true">【共产主义的终极目的】（4）. mp4</a></center></td>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/video/goalCh5s.epub?raw=true">【共产主义的终极目的】（5）. mp4</a></center></td>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/video/goalCh6s.epub?raw=true">【共产主义的终极目的】（6）. mp4</a></center></td>
 </tr>
 <tr>
 	<td><a href="https://github.com/sodore/dsds/blob/master/video/goalCh7s.epub?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/imgad.jpg" width="265"  border="0" alt=""></a></td>
@@ -131,9 +131,9 @@
 </tr>
 
 <tr>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/video/goalCh7s.epub?raw=true">【共产主义的终极目的】（7）. epub</a></center></td>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/video/goalCh8s.epub?raw=true">【共产主义的终极目的】（8）. epub</a></center></td>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/video/goalCh9s.epub?raw=true">【共产主义的终极目的】（9）. epub</a></center></td>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/video/goalCh7s.epub?raw=true">【共产主义的终极目的】（7）. mp4</a></center></td>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/video/goalCh8s.epub?raw=true">【共产主义的终极目的】（8）. mp4</a></center></td>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/video/goalCh9s.epub?raw=true">【共产主义的终极目的】（9）. mp4</a></center></td>
 	
 <tr>
 	<td><a href="https://github.com/sodore/dsds/blob/master/video/goalCh10s.epub?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/imgad.jpg" width="265"  border="0" alt=""></a></td>
@@ -141,28 +141,17 @@
 	<td><a href="https://github.com/sodore/dsds/blob/master/video/goalCh12s.epub?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/imgad.jpg" width="265"  border="0" alt=""></a></td>
 </tr>
 <tr>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/video/goalCh10s.epub?raw=true">【共产主义的终极目的】10. epub</a></center></td>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/video/goalCh11s.epub?raw=true">【共产主义的终极目的】11. epub</a></center></td>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/video/goalCh12s.epub?raw=true">【共产主义的终极目的】12. epub</a></center></td>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/video/goalCh10s.epub?raw=true">【共产主义的终极目的】10. mp4</a></center></td>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/video/goalCh11s.epub?raw=true">【共产主义的终极目的】11. mp4</a></center></td>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/video/goalCh12s.epub?raw=true">【共产主义的终极目的】12. mp4</a></center></td>
 </tr>
 	
 </table>
 
 
+******
 
-
-
-
-
-
-
-
-
-
-
-
-
-<h4>以下是新唐人电视台根据大纪元原文所录制的视频，并且镶崁在epub格式电子书里面，只要下载电子书，可以很方便地阅读、聆听或观赏。</b></h4>
+<h4>以下是视频镶崁在epub格式电子书里面，只要下载电子书，可以很方便地阅读、聆听或观赏。</b></h4>
 
 <table>
 </td>
@@ -184,7 +173,7 @@
 </tr>
 <tr>
 	<td><center><a href="https://github.com/sodore/dsds/blob/master/book/goalCh4.epub?raw=true">【共产主义的终极目的】（4）. epub</a></center></td>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/book/goalCh5.epub?raw=true">【共产主义的终极目的】（5）. epub</a></center></td>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/book/goalCh5.epub?raw=true">【共产主义的终极目的】（5）.epub</a></center></td>
 	<td><center><a href="https://github.com/sodore/dsds/blob/master/book/goalCh6.epub?raw=true">【共产主义的终极目的】（6）. epub</a></center></td>
 </tr>
 <tr>
