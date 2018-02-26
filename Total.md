@@ -58,7 +58,6 @@
 
 ******
  <h2 align="center"><b>音频(mp3)下载：</b></h2>
-<h4 align="center">鼠标右键单击”另存新檔”既可观看</h4>
 
 <table>
 </td>
@@ -74,9 +73,9 @@
 	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh3.mp3?raw=true">（3）. mp3</a></center></td>
 </tr>
 <tr>
-	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh4.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_183804.jpg" width="265"  border="0" alt=""></a></td>
-	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh5.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_183804.jpg" width="265"  border="0" alt=""></a></td>
-	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh6.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_183804.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh4.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh5.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh6.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
 </tr>
 <tr>
 	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh4.mp3?raw=true">（4）. mp3</a></center></td>
@@ -84,9 +83,9 @@
 	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh6.mp3?raw=true">（6）. mp3</a></center></td>
 </tr>
 <tr>
-	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh7.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_183804.jpg" width="265"  border="0" alt=""></a></td>
-	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh8.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_183804.jpg" width="265"  border="0" alt=""></a></td>
-	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh9.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_183804.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh7.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh8.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh9.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
 </tr>
 
 <tr>
@@ -95,9 +94,9 @@
 	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh9.mp3?raw=true">（9）. mp3</a></center></td>
 	
 <tr>
-	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh10.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_183804.jpg" width="265"  border="0" alt=""></a></td>
-	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh11.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_183804.jpg" width="265"  border="0" alt=""></a></td>
-	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh12.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_183804.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh10.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh11.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh12.mp3?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-02-26_181528.jpg" width="265"  border="0" alt=""></a></td>
 </tr>
 <tr>
 	<td><center><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh10.mp3?raw=true">（10）. mp3</a></center></td>
