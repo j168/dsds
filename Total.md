@@ -60,7 +60,7 @@
 
 <table>
 <tr>
-	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh1.mp3?raw=true"><h4 align="center">《共产主义的终极目的》序言.mp3</a></h4><br></td>
+	<td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh1.mp3?raw=true"><h4 align="center">共产主义的终极目的  序言.mp3</a></h4><br></td>
 
 <td><a href="https://github.com/sodore/dsds/blob/master/audio/8k_goalCh2.mp3?raw=true"><h4 align="center">共产主义的终极目的(1).mp3</a></td><br></h4>
 
