@@ -43,7 +43,7 @@
 </tr>
 <tr style="background:lightyellow;text-align:center">
 	<td>03/03 (正月十六)</td>
-	<td>17:30-18:30</td>
+	<td>17:00-18:30</td>
 	<td>神韵交响乐团</td>
 	
 </tr>
