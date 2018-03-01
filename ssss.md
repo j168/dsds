@@ -3,21 +3,14 @@
   </div>
 
 
- <h2>新唐人元宵节播出2017年神韵交响音乐会</h2>
+ <div align="center"><h2><a href="http://qq.leucas.men/blogs/gIm6uPCL_gS9A/Cj2aqksXnp7/k0/rqJ9QrX/mA8m9/lyrUr/veVtV9sj8/ImBdevF/Avn2QUMa1/e.html">新唐人元宵节播出2017年神韵交响音乐会</h2></a></div>
   
-
-<h2 align="center">观看神韵影片精彩介绍,请下载电子书: <a href="https://github.com/sodore/dsds/blob/master/book/gala2018.epub?raw=true">gala2018.epub </a><br />或使用此连结观赏神韵影片精彩介绍 http://61.228.119.155/sy/  </h2>                                
-
-
 
 <div align="center">
 <IMG SRC="sy/2017_SY_CHINA_-0000406-600x400.jpg" width=880></p>
   </div>
   
-  <h3>【新唐人北京时间2018年02月11日讯】神韵艺术团世界巡回演出，场场爆满一票难求。中国新年期间新唐人电视台将独家播出2018新唐人全球华人新年晚会——神韵晚会，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。
-</h3><p></p>
-
-
+ 
 <h3>【新唐人北京时间2018年02月27日讯】3月2日是正月十五元宵节。新唐人电视台将播出〝神韵交响乐团2017年演出〞。在大陆、纽约、美西、欧洲等全球五个频道播放。新唐人网站与电视台同时播放。</h3>
 
 <h3>神韵交响乐团以洪大的交响乐再现中华音乐传统，由中国器乐领衔，搭配西方经典曲目，重现失传的美声唱法，带给您前所未有的启迪。相关播出时间安排如下：</h3>
@@ -27,7 +20,7 @@
 
 <hr>
 
-<div align="center"><h1><a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">2018元宵节{2017年神韵交响乐团} 播出时间如下：</a></h1></div>
+<div align="center"><h1><a href="http://qq.leucas.men/blogs/gIm6uPCL_gS9A/Cj2aqksXnp7/k0/rqJ9QrX/mA8m9/lyrUr/veVtV9sj8/ImBdevF/Avn2QUMa1/e.html">2018元宵节{2017年神韵交响乐团} 播出时间如下：</a></h1></div>
 <div align="center"><h2>请大家告诉大家，错过可能得等一年！</h2></div>  
 
 
