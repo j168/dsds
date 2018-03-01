@@ -31,18 +31,18 @@
 	<td width="440">备注</td>
 </tr>
 <tr style="background:lightyellow;text-align:center">
-	<td>03/02   元宵节</td>
+	<td>03/02 (元宵节)</td>
 	<td>21:30-23:00</td>
 	<td>神韵交响乐团</td>
 </tr>
 <tr style="background:lightyellow;text-align:center">
-	<td>03/03   正月十六</td>
+	<td>03/03 (正月十六)</td>
 	<td>08:30-10:00</td>
 	<td>神韵交响乐团</td>
 	
 </tr>
 <tr style="background:lightyellow;text-align:center">
-	<td>03/03   正月十六</td>
+	<td>03/03 (正月十六)</td>
 	<td>17:30-18:30</td>
 	<td>神韵交响乐团</td>
 	
