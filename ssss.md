@@ -108,6 +108,7 @@
 
 <td><a href="https://github.com/sodore/dsds/blob/master/book/s-fangqian.epub?raw=true"><h4 align="center">翻墙软件使用说明 (EPUB 格式 )</a></h4></td>
 
+<h2 align="center">观看神韵影片精彩介绍,请下载电子书: <a href="https://github.com/sodore/dsds/blob/master/book/gala2018.epub?raw=true">gala2018.epub </a></h2>
 
 </tr>
 </table>
