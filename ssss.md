@@ -10,7 +10,7 @@
 <IMG SRC="sy/p8711531a681780116.jpg" width=880></p>
   </div>
   
- <div align="center"><h2><a href="http://qq.leucas.men/blogs/gIm6uPCL_gS9A/Cj2aqksXnp7/k0/rqJ9QrX/mA8m9/lyrUr/veVtV9sj8/ImBdevF/Avn2QUMa1/e.html">演出时间</h2></a></div>
+ <div align="center"><h1><a href="http://qq.leucas.men/blogs/gIm6uPCL_gS9A/Cj2aqksXnp7/k0/rqJ9QrX/mA8m9/lyrUr/veVtV9sj8/ImBdevF/Avn2QUMa1/e.html">演出时间</h1></a></div>
 <h3>【新唐人北京时间2018年02月27日讯】3月2日是正月十五元宵节。新唐人电视台将播出〝神韵交响乐团2017年演出〞。在大陆、纽约、美西、欧洲等全球五个频道播放。新唐人网站与电视台同时播放。</h3>
 
 <h3>神韵交响乐团以洪大的交响乐再现中华音乐传统，由中国器乐领衔，搭配西方经典曲目，重现失传的美声唱法，带给您前所未有的启迪。相关播出时间安排如下：</h3>
@@ -20,7 +20,7 @@
 
 <hr>
 
-<div align="center"><h2><a href="http://qq.leucas.men/blogs/gIm6uPCL_gS9A/Cj2aqksXnp7/k0/rqJ9QrX/mA8m9/lyrUr/veVtV9sj8/ImBdevF/Avn2QUMa1/e.html">2018元宵节{2017年神韵交响乐团} 大陆频道播出时间</a></h2></div>
+<div align="center"><h2><a href="http://qq.leucas.men/blogs/gIm6uPCL_gS9A/Cj2aqksXnp7/k0/rqJ9QrX/mA8m9/lyrUr/veVtV9sj8/ImBdevF/Avn2QUMa1/e.html">大陆频道播出时间</a></h2></div>
 <div align="center"><h2>请大家告诉大家，错过可能得等一年！</h2></div>  
 
 
@@ -31,7 +31,7 @@
 	<td width="440">备注</td>
 </tr>
 <tr style="background:lightyellow;text-align:center">
-	<td>03/02 正月十五元宵节</td>
+	<td>03/02 元宵节</td>
 	<td>21:30-23:00</td>
 	<td>神韵交响乐团</td>
 </tr>
@@ -51,7 +51,7 @@
 
 
 
- <h2 align="center"><a href="http://qq.leucas.men/blogs/gIm6uPCL_gS9A/Cj2aqksXnp7/k0/rqJ9QrX/mA8m9/lyrUr/veVtV9sj8/ImBdevF/Avn2QUMa1/e.html">收视方法</a></h2>
+ <h1 align="center"><a href="http://qq.leucas.men/blogs/gIm6uPCL_gS9A/Cj2aqksXnp7/k0/rqJ9QrX/mA8m9/lyrUr/veVtV9sj8/ImBdevF/Avn2QUMa1/e.html">收视方法</a></h1>
 
  
 <table>
@@ -72,7 +72,7 @@
 
 
  <div align="center">
-<a href="https://github.com/sodore/dsds/blob/master/fonts.md">翻墙软件(完全免费 .安全. 无毒)下载点及教学电子书</a></h2></div>
+<a href="https://github.com/sodore/dsds/blob/master/fonts.md"><h1>翻墙软件(完全免费 .安全. 无毒)下载点及教学电子书</a></h1></div>
 
 <table>
 <tr>
@@ -112,7 +112,7 @@
 </tr>
 </table>
 
-<h3>观赏神韵特别特别推荐这款<a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true">爱博电视桌机版</a>，平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。</h3>
+<h3>推荐通过爱博电视收看新唐人中国频道<a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true">爱博电视桌机版</a>，请选用中国频道400，平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。</h3>
 <hr>
 <div align="center"><h1>韩星5号的播出参数</h1></div><p></p>
 <img src="https://github.com/gofun72/telove/blob/master/img/shen/star5.jpg" style="max-width:100%;" width="880"><p>
