@@ -112,7 +112,7 @@
 </tr>
 </table>
 
-<h3>推荐通过爱博电视收看新唐人中国频道<a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true">爱博电视桌机版</a>，请选用中国频道400，平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。</h3>
+<h3>推荐通过爱博电视收看新唐人中国频道，<a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true">爱博电视桌机版</a>，请选用中国频道400，平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。</h3>
 <hr>
 <div align="center"><h1>韩星5号的播出参数</h1></div><p></p>
 <img src="https://github.com/gofun72/telove/blob/master/img/shen/star5.jpg" style="max-width:100%;" width="880"><p>
