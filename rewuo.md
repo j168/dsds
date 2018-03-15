@@ -4,7 +4,7 @@
 <img src="images/4964.jpg">
 </div>
 <div align=center>
-<img src="images/6363.jpg">
+<img src="images/6363-ss.jpg">
 </div>
 
 <div align=center>
