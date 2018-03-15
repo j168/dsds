@@ -8,7 +8,7 @@
 </div>
  <hr>
 <div align=center>
-<img src="images/6363-ss.jpg">
+<img src="images/6363-ss.jpg"width=800>
 </div>
 <hr>
 <div align=center>
