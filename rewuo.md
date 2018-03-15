@@ -1,4 +1,7 @@
-
+<div align=center>
+<img src="images/004526.jpg">
+</div>
+ <hr>
 
 <div align=center>
 <img src="images/4964.jpg">
