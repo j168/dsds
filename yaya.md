@@ -77,9 +77,9 @@
 <hr>
 <h1 align="center"><a href="http://qq.leucas.men/9/?raw=true">第五套功法：神通加持法</a></h1>
 <div align=center>
-<img src="images/l01_3_big.jpg">
+<img src="images/l01_3_big.jpg" width=800>
 </div>
-</p>
+
 ### 神通加持法属于静功修炼法，是用佛之手印转法轮，加持神通（包括功能）与功力的多项同修功法。
 
 
