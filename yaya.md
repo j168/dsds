@@ -83,6 +83,20 @@
 <div align=center>神通加持法属于静功修炼法，是用佛之手印转法轮，加持神通（包括功能）与功力的多项同修功法。</div>
 <hr>
 
+<table>
+<tr>
+  <h4 align=center><a href="http://qq.leucas.men/7/?raw=true">访问明慧网　了解真实讯息</a></h4>
+  ▊ 明慧网（www.minghui.org）成立于1999 年6 月，是法轮功学员信息交流的平台。其中有法轮功学员的修炼经历；有明白法轮功真相而受益者的故事；有中共对法轮功学员迫害的案例报道……联合国人权报告多次引用明慧网案例，谴责中共对法轮功学员任意监禁和酷刑致死；并要求停止迫害。</P>
+  ▊ 访问明慧网: <a href="http://qq.leucas.men/7/?raw=true">http://qq.leucas.men/7/</a></P>
+  ▊ 阅读大法书,教功录像,请访问法轮大法网站: <a href="http://qq.leucas.men/9/?raw=true">http://qq.leucas.men/9/</a></P>
+  
+  </tr>
+</table>
+
+
+
+
+
 <div align=center>
 <img src="images/6363-ss.jpg"width=700>
 </div>
