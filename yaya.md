@@ -84,14 +84,14 @@
 <hr>
 
 <table>
-<tr>
+
   <td>
-  <h3 align=center><a href="http://qq.leucas.men/7/?raw=true">访问明慧网　了解真实讯息</a></h3>
+  <h2 align=center><a href="http://qq.leucas.men/7/?raw=true">访问明慧网　了解真实讯息</a></h2>
   ▊ 明慧网（www.minghui.org）成立于1999 年6 月，是法轮功学员信息交流的平台。其中有法轮功学员的修炼经历；有明白法轮功真相而受益者的故事；有中共对法轮功学员迫害的案例报道……联合国人权报告多次引用明慧网案例，谴责中共对法轮功学员任意监禁和酷刑致死；并要求停止迫害。</P>
-  ▊<h4 align="center"> 访问明慧网: <a href="http://qq.leucas.men/7/?raw=true"align=center>http://qq.leucas.men/7/</a></h4></P>
-  ▊ <h4 align="center">阅读大法书,教功录像,请访问法轮大法网站: <a href="http://qq.leucas.men/9/?raw=true"align=center>http://qq.leucas.men/9/</a></h4></P>
+ <h3 align="center"> <a href="http://qq.leucas.men/7/?raw=true"align=center> ◇ 访问明慧网:http://qq.leucas.men/7/</a></h3></P>
+ <h3 align="center"><a href="http://qq.leucas.men/9/?raw=true"align=center> ◇ 阅读大法书,教功录像,请访问法轮大法网站: http://qq.leucas.men/9/</a></h3></P>
     </td>
- </tr>
+ 
 </table>
 
 <hr>
