@@ -23,7 +23,6 @@
 <img src="images/135309.jpg">
 </div>
 
-<a href="http://qq.leucas.men/9/?raw=true"><h2 align="center">改变全球上亿人心灵与命运</a></h2>
 <hr>
 
 <div align=center>
