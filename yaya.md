@@ -84,12 +84,12 @@
 <hr>
 
 <div align=center>
-<img src="images/174917.jpg" width=700>
+<img src="images/174917.jpg">
 </div>
 <hr>
 修炼法轮功由于心性道德提升、祛病健身功效显著，人传人、心传心，洪传遍及五大洲114个国家和地区，包括不同肤色、不同种族、不同阶层的修炼者。使全世界超过一亿人身心受益。
 
-
+<h1 align="center"><a href="http://qq.leucas.men/7/?raw=true">洪传全球五大洲 享誉国际</a></h1>
 
 
 
