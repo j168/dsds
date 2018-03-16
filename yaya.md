@@ -52,7 +52,7 @@
 <div align=center>
 <img src="images/day-01.jpg">
 </div>
-<h3 align="center">诀：身神合一，动静随机；顶天独尊，千手佛立。</h3>
+<h5 align="center">诀：身神合一，动静随机；顶天独尊，千手佛立。</h5>
 
 
 
