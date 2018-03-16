@@ -218,11 +218,19 @@
 </div>
 法轮大法像一股清流，从中国流传出在海外蓬勃发展。大法所提倡的“真善忍”被许多国家的有识之士视为全人类的共同行为规范和道德基石。许多西方人诚挚地说：“法轮大法属于全世界，世界需要真、善、忍。”并纷纷向法轮大法修炼者表示敬意，认为法轮功学员才是世界的希望和未来。</P>
 
+<div align=center>
+<img src="images/taibeipaizi-02.jpg"width=550>
+</div>
+<div align=center>台湾六千多名法轮功学员于排字结束后举行集体大炼功</div>
 
+<div align=center>
+<img src="images/081813.jpg"width=550>
+</div>
+<div align=center>印度德里警校千名学生学炼法轮功</div>
 
-
-
-
-
+<div align=center>
+<img src="images/sco-05.jpg"width=550>
+</div>
+<div align=center>四百多名法轮功学员在旧金山市府前排字炼功</div>
 
 
