@@ -71,7 +71,7 @@
 <hr>
 <h1 align="center"><a href="http://qq.leucas.men/9/?raw=true">第四套功法：法轮周天法</a></h1>
 <div align=center>
-<img src="images/yilanpark.jpg" width=700>
+<img src="images/day-03.jpg" width=700>
 </div>
 <div align=center>法轮周天法是使人体能量大面积流动，不是一条脉或几条脉在走，而是从人体的阴面整面循环到阳面，往复不停，远远地超出了一般通脉法或大小周天。</div>
 <hr>
