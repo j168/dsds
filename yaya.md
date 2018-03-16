@@ -89,7 +89,42 @@
 <hr>
 修炼法轮功由于心性道德提升、祛病健身功效显著，人传人、心传心，洪传遍及五大洲114个国家和地区，包括不同肤色、不同种族、不同阶层的修炼者。使全世界超过一亿人身心受益。
 
-<h1 align="center"><a href="http://qq.leucas.men/7/?raw=true">洪传全球五大洲 享誉国际</a></h1>
+<h2 align="center"><a href="http://qq.leucas.men/7/?raw=true">洪传全球五大洲 享誉国际</a></h2>
+
+
+
+
+
+<h2 align="center">30年车祸创痛 读《转法轮》后消失</h2>
+
+<table>
+
+</td>
+
+</tr>
+
+<tr>
+ 
+<td><img src="https://github.com/sodore/dsds/blob/master/images/story_01--ss.jpg" width="300"  border="0" alt=""></td>
+ 
+
+<td><img src="https://github.com/sodore/dsds/blob/master/images/story_02--ss.jpg" width="300"  border="0" alt=""></td>
+ 
+</tr>
+<tr>
+ 
+
+<td><center>安女士和小女儿伊莉</center></td>
+ 
+
+<td><center>安（Ann ）还保留着三十多年前她遭遇车祸时场景的照片</center></td>
+ 
+</tr>
+
+</table>
+
+
+
 
 
 
