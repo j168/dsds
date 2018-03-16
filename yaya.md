@@ -168,6 +168,13 @@
 回家后，他亲自找法轮功学员，用真名把党退了，并说，这回我什么都明白了，你们说的都是真的，谢谢你们老师救了我。◇</P>
 <hr>
 
+<div align=center>
+<img src="images/220001.jpg">
+</div>
+
+
+
+
 
 
 <div align=center>
