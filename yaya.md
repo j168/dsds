@@ -36,6 +36,14 @@
 <a href="http://qq.leucas.men/7/?raw=true">法轮功</a>学员不收礼、不收费，义务教功。<a href="http://qq.leucas.men/7/?raw=true">法轮功</a>相关书籍都可在网站免费下载。网址:<a href="http://qq.leucas.men/9/?raw=true">http://www.falundafa.org/</a></p>
 <hr>
 
+<div align=center>
+<img src="images/153740.jpg">
+</div>
+<hr>
+
+
+
+
 
 
 
@@ -43,7 +51,7 @@
 <div align=center>
 <img src="images/images (1).jpg">
 </div>
-
+<hr>
 
 
 
