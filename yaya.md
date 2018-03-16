@@ -63,6 +63,28 @@
 
 <hr>
 
+<h1 align="center"><a href="http://qq.leucas.men/9/?raw=true">第三套功法：贯通两极法</a></h1>
+<div align=center>
+<img src="images/hsa0002.jpg">
+</div>
+贯通两极法是将宇宙之能量和体内之能量混合贯通之法。炼这套功法时，吐纳量很大，可使修炼者在极短的时间内达到净化身体的目的；同时，还可在冲灌中开顶，也能在冲灌中打开脚下人体之通道。
+<hr>
+<h1 align="center"><a href="http://qq.leucas.men/9/?raw=true">第四套功法：法轮周天法</a></h1>
+<div align=center>
+<img src="images/day-03.jpg">
+</div>
+法轮周天法是使人体能量大面积流动，不是一条脉或几条脉在走，而是从人体的阴面整面循环到阳面，往复不停，远远地超出了一般通脉法或大小周天。
+<hr>
+<h1 align="center"><a href="http://qq.leucas.men/9/?raw=true">第五套功法：神通加持法</a></h1>
+<div align=center>
+<img src="images/l01_3_big.jpg">
+</div>
+神通加持法属于静功修炼法，是用佛之手印转法轮，加持神通（包括功能）与功力的多项同修功法。
+
+
+
+
+
 
 
 
