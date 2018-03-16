@@ -45,22 +45,23 @@
 
 <a href="http://qq.leucas.men/7/?raw=true">法轮大法</a>修炼主意识，自己得功。炼功不讲地点、时间、方位，也不讲收功。五套功法简单易学。为修炼者提供了最方便、最快、最好的、也是最难得的修炼法门。
 
-<h2 align="center"><a href="http://qq.leucas.men/9/?raw=true">第一套功法：佛展千手法</a></h2>
-
-佛展千手法这套动作的核心就是疏展，打通能量淤塞的地方，调动体内和皮下之能量强烈运动，自动的大量吸收宇宙中的能量，使修炼者一上来就达到百脉皆通。
+<h1 align="center"><a href="http://qq.leucas.men/9/?raw=true">第一套功法：佛展千手法</a></h1>
 
 <div align=center>
 <img src="images/day-01.JPG">
 </div>
-<h4 align="center">诀：身神合一，动静随机；顶天独尊，千手佛立。</h4>
+佛展千手法这套动作的核心就是疏展，打通能量淤塞的地方，调动体内和皮下之能量强烈运动，自动的大量吸收宇宙中的能量，使修炼者一上来就达到百脉皆通。
 
+<hr>
 
+<h1 align="center"><a href="http://qq.leucas.men/9/?raw=true">第二套功法：法轮桩法</a></h1>
 
+<div align=center>
+<img src="images/day-02.jpg">
+</div>
+法轮桩法属于静桩法，由四个抱轮动作组成。常炼法轮桩法可使修炼者全身全部贯通，是生慧增力，提高层次，加持神通的全修方法。
 
-
-
-
-
+<hr>
 
 
 
