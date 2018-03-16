@@ -279,10 +279,11 @@
 <table>
 
   <td>
-  <h2 align=center><a href="http://qq.leucas.men/7/?raw=true">突破網絡封鎖了解真相</a></h2>
-  <h3 align="center"> <a href="http://qq.leucas.men/7/?raw=true"align=center> ◇ 访问明慧网:http://qq.leucas.men/7/</a></h3></P>
+  <h2 align=center><a href="http://qq.leucas.men/7/?raw=true">欢迎访问明慧网 了解真相</a></h2>
+  明慧网，探寻健康、道德、家庭、社会等问题的真相与出路，给人生开启希望之门！明慧网并及时报道中共江泽民集团迫害法轮功的事实。联合国人权报告多次引用明慧网案例并要求停止迫害。明慧网：www.minghui.org （中国大陆的朋友需“翻墙”访问 ） （推荐使用ie，火狐，chrome等非国产浏览器访问！）
+    <h3 align="center"> <a href="http://qq.leucas.men/7/?raw=true"align=center> ◇ 访问明慧网:http://qq.leucas.men/7/</a></h3></P>
   <h3 align="center"><a href="http://qq.leucas.men/9/?raw=true"align=center> ◇ 阅读大法书,教功录像,请访问法轮大法网站: http://qq.leucas.men/9/</a></h3></P>
-  <h3 align="center"><a href="https://git.io/ysys?raw=true"align=center>◇ 翻墙软件下载: https://git.io/ysys  </a></h3></P>
+ <h3 align="center"><a href="https://git.io/ysys?raw=true"align=center>◇ 翻墙软件下载: https://git.io/ysys  </a></h3></P>
  
   
     </td>
