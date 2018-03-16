@@ -232,5 +232,26 @@
 <img src="images/sco-05.jpg"width=550>
 </div>
 <div align=center>四百多名法轮功学员在旧金山市府前排字炼功</div>
+<hr>
+
+<div align=center>
+<img src="images/233946.jpg">
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
