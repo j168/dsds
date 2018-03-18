@@ -287,8 +287,11 @@
   <h3 align="center"><a href="https://git.io/ysys?raw=true">◇ 翻墙软件下载: https://git.io/ysys  (一键直连 )</a></h3>
  <h3 align="center"> <a href="http://qq.leucas.men/7/?raw=true"> ◇ 访问明慧网:http://www.minghui.org  (一键直连 )</a></h3>
 <h3 align="center"><a href="http://qq.leucas.men/9/?raw=true"> ◇ 阅读大法书,教功录像,请访问法轮大法网站: http://www.falundafa.org/  (一键直连 )</a></h3>
- 
- 
+</td>
+  </table>
+
+
+
  <table>
 
 </td>
@@ -297,48 +300,25 @@
 
 <tr>
  
-<td><a href="https://github.com/sodore/dsds/blob/master/video/falun-274642.mp4?
-
-raw=true"><img 
-
-src="https://github.com/sodore/dsds/blob/master/images/90652414.jpg" width="265"  
-
-border="0" alt=""></a></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/video/falun-274642.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/90652414.jpg" width="265"  border="0" alt=""></a></td>
  
 
-<td><a 
-
-href="https://github.com/sodore/dsds/blob/master/video/FaLun_P615660.mp4?
-
-raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/532100-
-
-2.jpg" width="265"  border="0" alt=""></a></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/video/FaLun_P615660.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/532100-2.jpg" width="265"  border="0" alt=""></a></td>
  
 
-<td><a href="https://github.com/sodore/dsds/blob/master/video/falun-Lkmtt.mp4?
-
-raw=true"><img 
-
-src="https://github.com/sodore/dsds/blob/master/images/532100.jpg" width="265"  
-
-border="0" alt=""></a></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/video/falun-Lkmtt.mp4?raw=true"><img 
+src="https://github.com/sodore/dsds/blob/master/images/532100.jpg" width="265"  border="0" alt=""></a></td>
 </tr>
 
  
 <tr>
-<td><center><a 
-
-href="https://github.com/sodore/dsds/blob/master/video/falun-274642.mp4?raw=true">【什么是法轮大法】</a></center></td>
+<td><center><a href="https://github.com/sodore/dsds/blob/master/video/falun-274642.mp4?raw=true">【什么是法轮大法】</a></center></td>
  
 
-<td><center><a 
-
-href="https://github.com/sodore/dsds/blob/master/video/FaLun_P615660.mp4?raw=true">【法轮大法洪传】</a></center></td>
+<td><center><a href="https://github.com/sodore/dsds/blob/master/video/FaLun_P615660.mp4?raw=true">【法轮大法洪传】</a></center></td>
  
 
-<td><center><a 
-
-href="https://github.com/sodore/dsds/blob/master/video/falun-Lkmtt.mp4?raw=true">【多国法轮功学员集体练功】</a></center></td>
+<td><center><a href="https://github.com/sodore/dsds/blob/master/video/falun-Lkmtt.mp4?raw=true">【多国法轮功学员集体练功】</a></center></td>
 </tr>
 
 </table>
@@ -350,16 +330,10 @@ href="https://github.com/sodore/dsds/blob/master/video/falun-Lkmtt.mp4?raw=true"
  
  
  
-  <h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/video/FaLun_P615660.mp4?raw=true">视频观看: 1.法轮大法洪传   (点击下载)</a></h3>
-<h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/video/falun-274642.mp4?raw=true">视频观看: 2.什么是法轮大法   (点击下载)</a></h3>
-  <h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/video/falun-Lkmtt.mp4?raw=true">视频观看: 3.多国法轮功学员集体练功   (点击下载)</a></h3>
-  
+ 
   
 
     
-</td>
-
-</table>
 
 <hr>
 
