@@ -88,8 +88,8 @@
   <td>
   <h2 align=center><a href="http://qq.leucas.men/7/?raw=true">访问明慧网　了解真实讯息</a></h2>
   ▊ 明慧网（www.minghui.org）成立于1999 年6 月，是法轮功学员信息交流的平台。其中有法轮功学员的修炼经历；有明白法轮功真相而受益者的故事；有中共对法轮功学员迫害的案例报道……联合国人权报告多次引用明慧网案例，谴责中共对法轮功学员任意监禁和酷刑致死；并要求停止迫害。</P>
- <h3 align="center"> <a href="http://qq.leucas.men/7/?raw=true"align=center> ◇ 访问明慧网:http://www.minghui.org</a></h3></P>
- <h3 align="center"><a href="http://qq.leucas.men/9/?raw=true"align=center> ◇ 阅读大法书,教功录像,请访问法轮大法网站: http://www.falundafa.org/</a></h3></P>
+ <h3 align="center"> <a href="http://qq.leucas.men/7/?raw=true"> ◇ 访问明慧网:http://www.minghui.org  (一键直连 ) </a></h3></P>
+ <h3 align="center"><a href="http://qq.leucas.men/9/?raw=true"> ◇ 阅读大法书,教功录像,请访问法轮大法网站: http://www.falundafa.org/  (一键直连 )</a></h3></P>
     </td>
  
 </table>
@@ -286,9 +286,9 @@
   
   <h3 align="center"><a href="https://git.io/ysys?raw=true">◇ 翻墙软件下载: https://git.io/ysys  (一键直连 )</a></h3>
  
-  <h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/video/FaLun_P615660.mp4?raw=true">视频下载观看: 1.法轮大法洪传  (点击下载)</a></h3>
-<h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/video/falun-274642.mp4?raw=true">视频下载观看: 2.什么是法轮大法  (点击下载)</a></h3>
-  <h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/video/falun-Lkmtt.mp4?raw=true">视频下载观看: 3.多国法轮功学员集体练功  (点击下载)</a></h3>
+  <h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/video/FaLun_P615660.mp4?raw=true">视频观看: 1.法轮大法洪传   (点击下载)</a></h3>
+<h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/video/falun-274642.mp4?raw=true">视频观看: 2.什么是法轮大法   (点击下载)</a></h3>
+  <h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/video/falun-Lkmtt.mp4?raw=true">视频观看: 3.多国法轮功学员集体练功   (点击下载)</a></h3>
   
   <h3 align="center"> <a href="http://qq.leucas.men/7/?raw=true"> ◇ 访问明慧网:http://www.minghui.org  (一键直连 )</a></h3>
 <h3 align="center"><a href="http://qq.leucas.men/9/?raw=true"> ◇ 阅读大法书,教功录像,请访问法轮大法网站: http://www.falundafa.org/  (一键直连 )</a></h3>
