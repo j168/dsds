@@ -285,8 +285,8 @@
   <h3 align="center"> <a href="http://qq.leucas.men/7/?raw=true"align=center> ◇ 访问明慧网:http://www.minghui.org</a></h3></P>
   <h3 align="center"><a href="http://qq.leucas.men/9/?raw=true"align=center> ◇ 阅读大法书,教功录像,请访问法轮大法网站: http://www.falundafa.org/</a></h3></P>
 
- <a href="https://github.com/sodore/dsds/blob/master/dong/Chrome.zip?raw=true"><h3 align="center">Chrome-安装版.zip</a><br></h3>
-   <a href="https://github.com/sodore/dsds/blob/master/dong/Firefox.zip?raw=true"><h3 align="center">Firefox-安裝版.zip</a><br></h3>
+ <a href="https://github.com/sodore/dsds/blob/master/dong/Chrome.zip?raw=true"><h3 align="center">chrome浏览器下载:Chrome-安装版.zip</a><br></h3>
+   <a href="https://github.com/sodore/dsds/blob/master/dong/Firefox.zip?raw=true"><h3 align="center">火狐浏览器下载:Firefox-安裝版.zip</a><br></h3>
     </td>
  
 </table>
