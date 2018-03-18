@@ -312,28 +312,16 @@ src="https://github.com/sodore/dsds/blob/master/images/532100.jpg" width="265"  
 
  
 <tr>
-<td><center><a href="https://github.com/sodore/dsds/blob/master/video/falun-274642.mp4?raw=true">【什么是法轮大法】</a></center></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/video/falun-274642.mp4?raw=true"> 点击下载视频:【什么是法轮大法】</a></td>
  
 
-<td><center><a href="https://github.com/sodore/dsds/blob/master/video/FaLun_P615660.mp4?raw=true">【法轮大法洪传】</a></center></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/video/FaLun_P615660.mp4?raw=true">点击下载视频:【法轮大法洪传】</a></td>
  
 
-<td><center><a href="https://github.com/sodore/dsds/blob/master/video/falun-Lkmtt.mp4?raw=true">【多国法轮功学员集体练功】</a></center></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/video/falun-Lkmtt.mp4?raw=true">点击下载视频:【多国法轮功学员集体练功】</a></td>
 </tr>
 
 </table>
-
-
-
- 
- 
- 
- 
- 
- 
-  
-
-    
 
 <hr>
 
