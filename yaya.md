@@ -314,7 +314,7 @@ src="https://github.com/sodore/dsds/blob/master/images/radio-1.jpg" width="265" 
 
  
 <tr>
-<td><a href="https://github.com/sodore/dsds/blob/master/audio/fxlgsss-30-14.mp3?raw=true">【修炼故事：昔日江湖亡命汉-今日正道大法徒】</a></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/audio/xlgsss-30-14.mp3?raw=true">【修炼故事：昔日江湖亡命汉-今日正道大法徒】</a></td>
  
 
 <td><a href="https://github.com/sodore/dsds/blob/master/audio/xlgsss-41-27.mp3?raw=true">【修炼故事：修炼法轮功身心受益——高知篇】</a></td>
