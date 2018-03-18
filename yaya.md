@@ -285,17 +285,14 @@
    明慧网，探寻健康、道德、家庭、社会等问题的真相与出路，给人生开启希望之门！明慧网并及时报道中共江泽民集团迫害法轮功的事实。联合国人权报告多次引用明慧网案例并要求停止迫害。明慧网：www.minghui.org （中国大陆的朋友需“翻墙”访问 ） （推荐使用ie，火狐，chrome等非国产浏览器访问！）
   
   <h3 align="center"><a href="https://git.io/ysys?raw=true"align=center>◇ 翻墙软件下载: https://git.io/ysys  (一键直连 )</a></h3>
- <h3 align="center"> <a href="http://qq.leucas.men/7/?raw=true"align=center> ◇ 访问明慧网:http://www.minghui.org  (一键直连 )</a></h3>
+ 
+  <h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/video/FaLun_P615660.mp4?raw=true">视频下载观看: 1.法轮大法洪传</a></h3>
+<h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/video/falun-274642.mp4?raw=true">视频下载观看: 2.什么是法轮大法</a></h3>
+  <h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/video/falun-Lkmtt.mp4?raw=true">视频下载观看: 3.多国法轮功学员集体练功</a></h3>
+  
+  <h3 align="center"> <a href="http://qq.leucas.men/7/?raw=true"align=center> ◇ 访问明慧网:http://www.minghui.org  (一键直连 )</a></h3>
 <h3 align="center"><a href="http://qq.leucas.men/9/?raw=true"align=center> ◇ 阅读大法书,教功录像,请访问法轮大法网站: http://www.falundafa.org/  (一键直连 )</a></h3>
 
- <h2 align=center><a href="http://qq.leucas.men/7/?raw=true">视频下载观看:</a></h2>
-
-<a href="https://github.com/sodore/dsds/blob/master/video/falun-274642.mp4?raw=true"><h3 align="center">1.什么是法轮大法</a></h3>
-
-  <a href="https://github.com/sodore/dsds/blob/master/video/FaLun_P615660.mp4?raw=true"><h3 align="center">2.法轮大法洪传</a></h3>
-  
-  
-  <a href="https://github.com/sodore/dsds/blob/master/video/falun-Lkmtt.mp4?raw=true"><h3 align="center">3. 多国法轮功学员集体练功</a></h3>
     
 </td>
 
