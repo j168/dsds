@@ -307,7 +307,7 @@
  
 
 <td><a href="https://github.com/sodore/dsds/blob/master/video/falun-Lkmtt.mp4?raw=true"><img 
-src="https://github.com/sodore/dsds/blob/master/images/532100.jpg" width="265"  border="0" alt=""></a></td>
+src="https://github.com/sodore/dsds/blob/master/images/532100-1.jpg" width="265"  border="0" alt=""></a></td>
 </tr>
 
  
@@ -318,7 +318,7 @@ src="https://github.com/sodore/dsds/blob/master/images/532100.jpg" width="265"  
 <td><a href="https://github.com/sodore/dsds/blob/master/video/FaLun_P615660.mp4?raw=true">点击下载视频:【法轮大法洪传】</a></td>
  
 
-<td><a href="https://github.com/sodore/dsds/blob/master/video/falun-Lkmtt.mp4?raw=true">点击下载视频:【多国法轮功学员集体练功】</a></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/video/falun-Lkmtt.mp4?raw=true">点击下载视频:【法轮功学员集体练功】</a></td>
 </tr>
 
 </table>
