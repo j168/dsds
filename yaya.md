@@ -298,29 +298,6 @@
 
 </tr>
 
-<tr>
- 
-<td><a href="https://github.com/sodore/dsds/blob/master/video/falun-274642.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/90652414.jpg" width="265"  border="0" alt=""></a></td>
- 
-
-<td><a href="https://github.com/sodore/dsds/blob/master/video/FaLun_P615660.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/532100-2.jpg" width="265"  border="0" alt=""></a></td>
- 
-
-<td><a href="https://github.com/sodore/dsds/blob/master/video/falun-Lkmtt.mp4?raw=true"><img 
-src="https://github.com/sodore/dsds/blob/master/images/532100-1.png" width="265"  border="0" alt=""></a></td>
-</tr>
-
- 
-<tr>
-<td><a href="https://github.com/sodore/dsds/blob/master/video/falun-274642.mp4?raw=true"> 点击下载视频:【什么是法轮大法】</a></td>
- 
-
-<td><a href="https://github.com/sodore/dsds/blob/master/video/FaLun_P615660.mp4?raw=true">点击下载视频:【法轮大法洪传】</a></td>
- 
-
-<td><a href="https://github.com/sodore/dsds/blob/master/video/falun-Lkmtt.mp4?raw=true">点击下载视频:【法轮功学员集体练功】</a></td>
-</tr>
-
 
 <tr>
  
@@ -347,14 +324,32 @@ src="https://github.com/sodore/dsds/blob/master/images/radio-1.jpg" width="265" 
 </tr>
 
 
+<tr>
+ 
+<td><a href="https://github.com/sodore/dsds/blob/master/video/falun-274642.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/90652414-1.jpg" width="265"  border="0" alt=""></a></td>
+ 
+
+<td><a href="https://github.com/sodore/dsds/blob/master/video/FaLun_P615660.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/532100-22.jpg" width="265"  border="0" alt=""></a></td>
+ 
+
+<td><a href="https://github.com/sodore/dsds/blob/master/video/falun-Lkmtt.mp4?raw=true"><img 
+src="https://github.com/sodore/dsds/blob/master/images/532100-1.png" width="265"  border="0" alt=""></a></td>
+</tr>
+
+ 
+<tr>
+<td><a href="https://github.com/sodore/dsds/blob/master/video/falun-274642.mp4?raw=true"> 点击下载视频:【什么是法轮大法】</a></td>
+ 
+
+<td><a href="https://github.com/sodore/dsds/blob/master/video/FaLun_P615660.mp4?raw=true">点击下载视频:【法轮大法洪传】</a></td>
+ 
+
+<td><a href="https://github.com/sodore/dsds/blob/master/video/falun-Lkmtt.mp4?raw=true">点击下载视频:【法轮功学员集体练功】</a></td>
+</tr>
+
+
+
 </table>
-
-
-
-
-
-
-
 
 
 <hr>
