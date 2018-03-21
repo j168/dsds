@@ -45,7 +45,7 @@
 
 法轮大法修炼主意识，自己得功。炼功不讲地点、时间、方位，也不讲收功。五套功法简单易学。为修炼者提供了最方便、最快、最好的、也是最难得的修炼法门。
 
-<h1 align="center"><a href="https://git.io/ysys?raw=true">第一套功法：佛展千手法</a></h1>
+<h2 align="center"><a href="https://git.io/ysys?raw=true">第一套功法：佛展千手法</a></h2>
 
 <div align=center>
 <img src="images/day-01.JPG" width=700 >
@@ -54,7 +54,7 @@
 
 <hr>
 
-<h1 align="center"><a href="https://git.io/wnn?raw=true">第二套功法：法轮桩法</a></h1>
+<h2 align="center"><a href="https://git.io/wnn?raw=true">第二套功法：法轮桩法</a></h2>
 
 <div align=center>
 <img src="images/day-02.jpg" width=700 >
@@ -63,19 +63,19 @@
 
 <hr>
 
-<h1 align="center"><a href="https://git.io/ysys?raw=true">第三套功法：贯通两极法</a></h1>
+<h2 align="center"><a href="https://git.io/ysys?raw=true">第三套功法：贯通两极法</a></h2>
 <div align=center>
 <img src="images/hsa0002.jpg" width=700>
 </div>
 <div align=center>贯通两极法是将宇宙之能量和体内之能量混合贯通之法。炼这套功法时，吐纳量很大，可使修炼者在极短的时间内达到净化身体的目的；同时，还可在冲灌中开顶，也能在冲灌中打开脚下人体之通道。</div>
 <hr>
-<h1 align="center"><a href="https://git.io/wnn?raw=true">第四套功法：法轮周天法</a></h1>
+<h2 align="center"><a href="https://git.io/wnn?raw=true">第四套功法：法轮周天法</a></h2>
 <div align=center>
 <img src="images/day-03.jpg" width=700>
 </div>
 <div align=center>法轮周天法是使人体能量大面积流动，不是一条脉或几条脉在走，而是从人体的阴面整面循环到阳面，往复不停，远远地超出了一般通脉法或大小周天。</div>
 <hr>
-<h1 align="center"><a href="https://git.io/ysys?raw=true">第五套功法：神通加持法</a></h1>
+<h2 align="center"><a href="https://git.io/ysys?raw=true">第五套功法：神通加持法</a></h2>
 <div align=center>
 <img src="images/l01_3_big.jpg" width=700>
 </div>
