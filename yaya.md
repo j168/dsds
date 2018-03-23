@@ -19,15 +19,8 @@
 法轮大法圆容明慧，动作简练，大道至简至易，是能使修炼者返本归真的高层次修炼法门。</p>
 <hr>
 
-<h2 align="center"><a href="https://git.io/wnn?raw=true">万古奇书- 《转法轮》<b/>
+<h2 align="center"><a href="https://git.io/wnn?raw=true">万古奇书- 《转法轮》
 改变全球上亿人心灵与命运</a></h2>
-
-
-
-<div align=center>
-<img src="images/135309.jpg">
-</div>
-
 <hr>
 
 <div align=center>
@@ -41,10 +34,8 @@
 法轮功学员不收礼、不收费，义务教功。法轮功相关书籍都可在网站免费下载。网址:http://www.falundafa.org/</p>
 <hr>
 
-<div align=center>
-<img src="images/153740.jpg">
-</div>
-<hr>
+<h2 align="center"><a href="https://git.io/wnn?raw=true">动作是修炼圆满的辅助手段 五套功法简单易学</a></h2>
+
 
 法轮佛法通过佛家上乘大法的大圆满法炼动作修命。大法的动作很少，但炼的东西很多很全面。修炼是以法轮为中心。法轮是有灵性的高能量物质体，每天二十四小时在修炼者小腹部位旋转不停，打通修炼者能量淤塞的地方，不断的从宇宙中采集、演化能量，并将其转化为功，净化身体，提高层次，加持神通。修炼者虽没有时时在修炼，而法轮却在不停的炼人。是当今唯一能达到法炼人的功法。所以长功开功特别快。
 
