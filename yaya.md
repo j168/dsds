@@ -97,10 +97,7 @@
 <img src="images/6363-ss.jpg"width=700>
 </div>
 <hr>
-
-<div align=center>
-<img src="images/203147.jpg">
-</div>
+ <h2 align=center><a href="https://git.io/ysys?raw=true">关贵敏:了解生命的真谛才会拥有美好的未来</a></h2>
 
 <div align=center>
 <img src="images/809789.jpg"width=350>
