@@ -46,7 +46,7 @@
 <div align=center>
 <img src="images/london-05--ss.jpg"width=600>
 </div>
- <b align="center">图： 二零一八年三月二十四日，艾莉（Allie ，右）贝丝（Beth ）在伦敦特拉法加广场。</b>
+ <div align="center">图： 二零一八年三月二十四日，艾莉（Allie ，右）贝丝（Beth ）在伦敦特拉法加广场。</div>
  <hr>
 
 从事职业摄影的艾莉（Allie）从外地来伦敦看望好朋友贝丝（Beth），周六下午她们在途径特拉法加广场时，被法轮功学员庆祝三亿中国人退出中共的讲真相活动所吸引，她们在初次感受法轮大法美好的同时了解到中共对法轮功的迫害，深受震撼，谴责中共迫害法轮功，认为有必要让所有人知道法轮功真相。
@@ -66,12 +66,12 @@
 <div align=center>
 <img src="images/london-06--ss.jpg"width=600>
 </div>
- <b align="center">图： 二零一八年三月二十四日，在伦敦特拉法加广场，来伦敦游玩的苏格兰教师理查德（Richard）签名反对中共迫害。</b>
+ <div align="center">图： 二零一八年三月二十四日，在伦敦特拉法加广场，来伦敦游玩的苏格兰教师理查德（Richard）签名反对中共迫害。</div>
  <hr>
 <div align=center>
 <img src="images/london-09--ss.jpg"width=600>
 </div>
-<b align="center">图：二零一八年三月二十四日，两个从巴西来伦敦旅游的女孩名支持法轮功反迫害。</b>
+<div align="center">图：二零一八年三月二十四日，两个从巴西来伦敦旅游的女孩名支持法轮功反迫害。</div>
  <hr>
 
 
