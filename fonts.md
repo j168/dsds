@@ -32,7 +32,7 @@
 
 <table>
 
-<td width="880"  border="0" alt="" align="center">无界、自由门桌机和手机使用说明，含爱博电视使用说明视频。<a href='https://github.com/sodore/dsds/blob/master/book/s-fangqian.epub?raw=true'>请下载epub 电子书</a></td>
+<td width="880"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/book/s-fangqian.epub?raw=true'>无界、自由门桌机和手机使用说明，含爱博电视使用说明视频。请下载epub 电子书</a></td>
 	</table>
 <p></p>
 
