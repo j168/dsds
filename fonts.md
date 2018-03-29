@@ -1,11 +1,11 @@
+<div align="center">
+<img src="images/2018-02-12_152004.jpg" width=880></p></div>
+<div align="center">
+<img src="images/p1546941a375985250-ss.jpg" width=600 ></p></div>
 
-<img src="images/2018-02-12_152004.jpg" width=880></p>
-
-<img src="images/p1546941a375985250-ss.jpg" width=600 ></p>
 
 
-
-<h1 align="center"><b>下載 翻牆軟件</b></p>
+<h2 align="center"><b>下載 翻牆軟件</b></h2>
 
 <table>
 
@@ -19,9 +19,10 @@
 <p></p>
 
 <hr>
-<img src="images/2018-02-13_021319.jpg" width=880></p>
+<div align="center">
+<img src="images/2018-02-13_021319.jpg" width=600></p></div>
 
-<h1 align="center"><b>下載 安装软件</b></p>
+<h2 align="center"><b>下載 安装软件</b></h2>
 
 <table>
  <td><a href='https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true'>iPPOTV（爱博电视）.安装软件</a></td>
@@ -59,13 +60,13 @@
 
 <hr>
 <div align=center>
-<img src="images/2018-02-13_115533.jpg"></p></div>
+<img src="images/2018-02-13_115533.jpg" width=600></p></div>
 
 <div align=center>
- <img src="images/2018-02-13_110530.jpg"></p></div>
+ <img src="images/2018-02-13_110530.jpg" width=600></p></div>
  
  <table>
-<td><h2><a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TVsp1 .apk?raw=true' align="center">提供免费的(iNTD 软体)下载: 新唐人电视 iNTD TV (安卓版)</a></h2></td> </table>
+<td><h2><a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TVsp1 .apk?raw=true' align="center" width=880>提供免费的(iNTD 软体)下载: 新唐人电视 iNTD TV (安卓版)</a></h2></td> </table>
 
 
 <h2 align="center"><b> iNTD是专为智能手机和平板电脑设计和开发的软体</b></h2>
@@ -82,7 +83,7 @@
 <hr>
 
 <table>
-<td><h2>若您不能解压 zip或 rar压缩文件，<a href='https://github.com/sodore/dsds/blob/master/dong/wrar35b2sc.exe?raw=true' align="center">请下载 Winrar安装软件</td></h2></a></table>
+<td><h2>若您不能解压 zip或 rar压缩文件，<a href='https://github.com/sodore/dsds/blob/master/dong/wrar35b2sc.exe?raw=true' align="center" width=880>请下载 Winrar安装软件</td></h2></a></table>
 
 <h3 style="text-align: center;"> 建议您各种翻墙(破网)软件轮换用；旧版本的翻墙软件也留存，有时候新版本的不好用试试旧版本的说不定还能行。</h3>
 <h3 style="text-align: center;"> 封锁较严重地区，找到代理服务器的时间可能稍长。</h3>
