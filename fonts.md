@@ -9,11 +9,11 @@
 
 <table>
 
- <td><a href='https://github.com/sodore/dsds/blob/master/dong/free--764p.zip?raw=true'>自由门.桌机版.zip</a></td>
- <td><a href='https://github.com/sodore/dsds/blob/master/dong/fgma--dd.apk?raw=true'>自由门.安卓版.apk</a></td>
+ <td   width="220"  border="0" alt="" ><a href='https://github.com/sodore/dsds/blob/master/dong/free--764p.zip?raw=true'>自由门.桌机版.zip</a></td>
+ <td width="220"  border="0" alt=""><a href='https://github.com/sodore/dsds/blob/master/dong/fgma--dd.apk?raw=true'>自由门.安卓版.apk</a></td>
 
- <td><a href='https://github.com/sodore/dsds/blob/master/dong/u1--7.04a.zip?raw=true'>无界浏览.桌机版.zip</a></td>
- <td><a href='https://github.com/sodore/dsds/blob/master/dong/um4.2a.apk?raw=true'>无界浏览.安卓版.apk</a></td>
+ <td width="220"  border="0" alt=""><a href='https://github.com/sodore/dsds/blob/master/dong/u1--7.04a.zip?raw=true'>无界浏览.桌机版.zip</a></td>
+ <td width="220"  border="0" alt=""><a href='https://github.com/sodore/dsds/blob/master/dong/um4.2a.apk?raw=true'>无界浏览.安卓版.apk</a></td>
 </table>
 
 <p></p>
@@ -25,14 +25,14 @@
 <h2 align="center"><b>下載 安装软件</b></h2>
 
 <table>
- <td><a href='https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true'>iPPOTV（爱博电视）.安装软件</a></td>
- <td><a href='https://github.com/sodore/dsds/blob/master/video/ippotvm.mp4?raw=true'>iPPOTV（爱博电视）.安装教学.mp4</a></td>
+ <td width="440"  border="0" alt=""><a href='https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true'>iPPOTV（爱博电视）.安装软件</a></td>
+ <td width="440"  border="0" alt=""><a href='https://github.com/sodore/dsds/blob/master/video/ippotvm.mp4?raw=true'>iPPOTV（爱博电视）.安装教学.mp4</a></td>
 
 </table>
 
 <table>
 
-<td>无界、自由门桌机和手机使用说明，含爱博电视使用说明视频。<a href='https://github.com/sodore/dsds/blob/master/book/s-fangqian.epub?raw=true'>请下载epub 电子书</a></td>
+<td width="880"  border="0" alt="">无界、自由门桌机和手机使用说明，含爱博电视使用说明视频。<a href='https://github.com/sodore/dsds/blob/master/book/s-fangqian.epub?raw=true'>请下载epub 电子书</a></td>
 	</table>
 <p></p>
 
@@ -66,7 +66,7 @@
  <img src="images/2018-02-13_110530.jpg" width=600></p></div>
  
  <table>
-<td><h2><a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TVsp1 .apk?raw=true' align="center" width=880>提供免费的(iNTD 软体)下载: 新唐人电视 iNTD TV (安卓版)</a></h2></td> </table>
+<td width="880"  border="0" alt=""><h2><a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TVsp1 .apk?raw=true' align="center" width=880>提供免费的(iNTD 软体)下载: 新唐人电视 iNTD TV (安卓版)</a></h2></td> </table>
 
 
 <h2 align="center"><b> iNTD是专为智能手机和平板电脑设计和开发的软体</b></h2>
@@ -83,7 +83,7 @@
 <hr>
 
 <table>
-<td><h2>若您不能解压 zip或 rar压缩文件，<a href='https://github.com/sodore/dsds/blob/master/dong/wrar35b2sc.exe?raw=true' align="center" width=880>请下载 Winrar安装软件</td></h2></a></table>
+<td width="880"  border="0" alt=""><h2>若您不能解压 zip或 rar压缩文件，<a href='https://github.com/sodore/dsds/blob/master/dong/wrar35b2sc.exe?raw=true' align="center" >请下载 Winrar安装软件</td></h2></a></table>
 
 <h3 style="text-align: center;"> 建议您各种翻墙(破网)软件轮换用；旧版本的翻墙软件也留存，有时候新版本的不好用试试旧版本的说不定还能行。</h3>
 <h3 style="text-align: center;"> 封锁较严重地区，找到代理服务器的时间可能稍长。</h3>
