@@ -1,7 +1,7 @@
 <div align="center">
 <img src="images/2018-02-12_152004.jpg" width=880></p></div>
 <div align="center">
-<img src="images/p1546941a375985250-ss.jpg" width=700 ></p></div>
+<img src="images/p1546941a375985250-ss.jpg" width=500 ></p></div>
 
 
 
@@ -20,7 +20,7 @@
 
 <hr>
 <div align="center">
-<img src="images/2018-02-13_021319.jpg" width=600></p></div>
+<img src="images/2018-02-13_021319.jpg" width=500></p></div>
 
 <h3 align="center"><b>下載 安装软件</b></h3>
 
@@ -60,10 +60,10 @@
 
 <hr>
 <div align=center>
-<img src="images/2018-02-13_115533.jpg" width=600></p></div>
+<img src="images/2018-02-13_115533.jpg" width=500></p></div>
 
 <div align=center>
- <img src="images/2018-02-13_110530.jpg" width=600></p></div>
+ <img src="images/2018-02-13_110530.jpg" width=500></p></div>
  
  <table>
 <td width="880"  border="0" alt=""><h2 align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TVsp1 .apk?raw=true' align="center" width=880>提供免费的(iNTD 软体)下载: 新唐人电视 iNTD TV (安卓版)</a></h2></td> </table>
