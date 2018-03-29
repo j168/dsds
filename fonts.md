@@ -60,7 +60,7 @@
 
 <hr>
 
-<h2 align="center" ><a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TVsp1 .apk?raw=true'> <b>新唐人移动平台 实时掌握天下事</a></b></h2>
+<h2 align="center" ><a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TVsp1 .apk?raw=true'> <b>新唐人移动平台 及时掌握天下事</a></b></h2>
 
 <div align=center>
  <img src="images/2018-02-13_110530.jpg" width=500></p></div>
