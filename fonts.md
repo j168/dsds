@@ -32,7 +32,7 @@
 
 <table>
 
-<td width="880"  border="0" alt="">无界、自由门桌机和手机使用说明，含爱博电视使用说明视频。<a href='https://github.com/sodore/dsds/blob/master/book/s-fangqian.epub?raw=true'>请下载epub 电子书</a></td>
+<td width="880"  border="0" alt="" align="center">无界、自由门桌机和手机使用说明，含爱博电视使用说明视频。<a href='https://github.com/sodore/dsds/blob/master/book/s-fangqian.epub?raw=true'>请下载epub 电子书</a></td>
 	</table>
 <p></p>
 
@@ -59,9 +59,8 @@
   爱博电视具有使用的人越多，突破封锁和观看效果越好的特点。另外，爱博电视采用传输加密技术，保护用户个人资讯，使用安全可靠。欢迎广大用户测试使用并提出回馈建议：support@starp2p.com </p>
 
 <hr>
-<div align=center>
-<img src="images/2018-02-13_115533.jpg" width=500></p></div>
 
+<h3 align="center"><b>新唐人移动平台 实时掌握天下事</b></h3>
 <div align=center>
  <img src="images/2018-02-13_110530.jpg" width=500></p></div>
  
