@@ -94,6 +94,6 @@
 
 
 <div align=center>
-<img src="images/2018-02-13_134647.jpg" width=600 >
+<img src="images/2018-02-13_134647.jpg" width=400 >
 
 </div>
