@@ -83,7 +83,7 @@
 <hr>
 
 <table>
-<td width="880"  border="0" alt=""><h2  align="center" >若您不能解压 zip或 rar压缩文件，<a href='https://github.com/sodore/dsds/blob/master/dong/wrar35b2sc.exe?raw=true'  >请下载 Winrar安装软件</td></h2></a></table>
+<td width="880"  border="0" alt=""><h3  align="center" >若您不能解压 zip或 rar压缩文件，<a href='https://github.com/sodore/dsds/blob/master/dong/wrar35b2sc.exe?raw=true'  >请下载 Winrar安装软件</td></h3></a></table>
 
  建议您各种翻墙(破网)软件轮换用；旧版本的翻墙软件也留存，有时候新版本的不好用试试旧版本的说不定还能行。</p>
  封锁较严重地区，找到代理服务器的时间可能稍长。</p>
