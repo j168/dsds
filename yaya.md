@@ -344,7 +344,7 @@ src="https://github.com/sodore/dsds/blob/master/images/532100-1.png" width="265"
 <hr>
 
 <div align=center>
-<img src="images/f-0402-2.jpg">
+<img src="images/f-0402-2.png">
 </div>
 <hr>
 
