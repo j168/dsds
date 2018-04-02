@@ -83,11 +83,11 @@
 <table>
 
   <td>
-  <h2 align=center><a href="https://git.io/ysys?raw=true">访问明慧网　了解真实讯息</a></h2>
+  <h2 align=center><a href="http://qq.leucas.men/7/?raw=true">访问明慧网　了解真实讯息</a></h2>
   ▊ 明慧网（www.minghui.org）成立于1999 年6 月，是法轮功学员信息交流的平台。其中有法轮功学员的修炼经历；有明白法轮功真相而受益者的故事；有中共对法轮功学员迫害的案例报道……联合国人权报告多次引用明慧网案例，谴责中共对法轮功学员任意监禁和酷刑致死；并要求停止迫害。（网站中国大陆的朋友需“翻墙”访问 ） （推荐使用ie，火狐，chrome等非国产浏览器访问！）</P>
   <h3 align="center"><a href="https://git.io/ysys?raw=true">◇ 翻墙软件下载: https://git.io/ysys </a></h3>
- <h3 align="center"> <a href="https://git.io/ysys?raw=true"> ◇ 访问明慧网:http://www.minghui.org   </a></h3></P>
- <h3 align="center"><a href="https://git.io/ysys?raw=true"> ◇ 阅读大法书,教功录像,请访问法轮大法网站: http://www.falundafa.org/  </a></h3></P>
+ <h3 align="center"> <a href="http://qq.leucas.men/7/?raw=true"> ◇ 访问明慧网:http://www.minghui.org   </a></h3></P>
+ <h3 align="center"><a href="http://qq.leucas.men/9/?raw=true"> ◇ 阅读大法书,教功录像,请访问法轮大法网站: http://www.falundafa.org/  </a></h3></P>
     </td>
  
 </table>
@@ -272,13 +272,13 @@
 
   
 <td>
-  <h2 align=center><a href="https://git.io/ysys?raw=true">欢迎访问明慧网 了解真相</a></h2>
+  <h2 align=center><a href="http://qq.leucas.men/7/?raw=true">欢迎访问明慧网 了解真相</a></h2>
 
    明慧网，探寻健康、道德、家庭、社会等问题的真相与出路，给人生开启希望之门！明慧网并及时报道中共江泽民集团迫害法轮功的事实。联合国人权报告多次引用明慧网案例并要求停止迫害。明慧网：www.minghui.org （中国大陆的朋友需“翻墙”访问 ） （推荐使用ie，火狐，chrome等非国产浏览器访问！）
   
   <h3 align="center"><a href="https://git.io/ysys?raw=true">◇ 翻墙软件下载: https://git.io/ysys </a></h3>
- <h3 align="center"><a href="https://git.io/ysys?raw=true">◇ 访问明慧网:http://www.minghui.org  </a></h3>
-<h3 align="center"><a href="https://git.io/ysys?raw=true"> ◇ 阅读大法书,教功录像,请访问法轮大法网站: http://www.falundafa.org/  </a></h3>
+ <h3 align="center"><a href="http://qq.leucas.men/7/?raw=true">◇ 访问明慧网:http://www.minghui.org  </a></h3>
+<h3 align="center"><a href="http://qq.leucas.men/9/?raw=true"> ◇ 阅读大法书,教功录像,请访问法轮大法网站: http://www.falundafa.org/  </a></h3>
 </td>
   </table>
 
