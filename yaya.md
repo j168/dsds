@@ -339,12 +339,15 @@ src="https://github.com/sodore/dsds/blob/master/images/532100-1.png" width="265"
 <td><a href="https://github.com/sodore/dsds/blob/master/video/falun-Lkmtt.mp4?raw=true">点击下载视频:【法轮功学员集体练功】</a></td>
 </tr>
 
-
-
 </table>
 
-
 <hr>
+
+<div align=center>
+<img src="images/f-0402-2.jpg">
+</div>
+<hr>
+
 
 <div align=center>
 <img src="images/plant.jpg">
