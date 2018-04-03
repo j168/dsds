@@ -169,7 +169,8 @@
 </table>
 
 ******
-<h1 align="center"><b>《共产主义的终极目的》新书开始发行</b></h1>
+<h2 align="center"><a href="http://qq.leucas.men/10/?raw=true">《共产主义的终极目的》新书开始发行</a></h2>
+
 
 <div align=center>
 <img src="images/booket2.jpg">
