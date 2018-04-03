@@ -83,9 +83,9 @@
 	<td><center><a href="https://github.com/sodore/dsds/blob/master/video/goalCh3s.mp4?raw=true">【共产主义的终极目的】（3）. mp4</a></center></td>
 </tr>
 <tr>
-	<td><a href="https://github.com/sodore/dsds/blob/master/video/goalCh4s.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/imgad.jpg" width="265"  border="0" alt=""></a></td>
-	<td><a href="https://github.com/sodore/dsds/blob/master/video/goalCh5s.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/imgad.jpg" width="265"  border="0" alt=""></a></td>
-	<td><a href="https://github.com/sodore/dsds/blob/master/video/goalCh6s.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/imgad.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/sodore/dsds/blob/master/video/goalCh4s.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-03-11_122242.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/sodore/dsds/blob/master/video/goalCh5s.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-03-11_122242.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/sodore/dsds/blob/master/video/goalCh6s.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-03-11_122242.jpg" width="265"  border="0" alt=""></a></td>
 </tr>
 <tr>
 	<td><center><a href="https://github.com/sodore/dsds/blob/master/video/goalCh4s.mp4?raw=true">【共产主义的终极目的】（4）. mp4</a></center></td>
@@ -93,9 +93,9 @@
 	<td><center><a href="https://github.com/sodore/dsds/blob/master/video/goalCh6s.mp4?raw=true">【共产主义的终极目的】（6）. mp4</a></center></td>
 </tr>
 <tr>
-	<td><a href="https://github.com/sodore/dsds/blob/master/video/goalCh7s.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/imgad.jpg" width="265"  border="0" alt=""></a></td>
-	<td><a href="https://github.com/sodore/dsds/blob/master/video/goalCh8s.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/imgad.jpg" width="265"  border="0" alt=""></a></td>
-	<td><a href="https://github.com/sodore/dsds/blob/master/video/goalCh9s.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/imgad.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/sodore/dsds/blob/master/video/goalCh7s.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-03-11_122242.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/sodore/dsds/blob/master/video/goalCh8s.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-03-11_122242.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/sodore/dsds/blob/master/video/goalCh9s.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-03-11_122242.jpg" width="265"  border="0" alt=""></a></td>
 </tr>
 
 <tr>
