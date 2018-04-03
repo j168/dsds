@@ -1,4 +1,4 @@
-<a href="http://qq.leucas.men/3/?raw=true"><h2 align="center">“不翻墙真是什么都不知道啊！”</a></h2>
+<a href="http://qq.leucas.men/3/?raw=true"><h1 align="center">“不翻墙真是什么都不知道啊！”</a></h1>
 
 
 <div align="center">
