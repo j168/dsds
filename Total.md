@@ -662,5 +662,11 @@
 <h2 align="center"><a href="http://qq.leucas.men/10">我要三退 </a></h2>
 <h2 align="center"><a href="http://lemna.men/st/">退党义工帮忙三退</a></h2>
 <h2 align="center"><a href="http://qq.leucas.men/10">大纪元网站自己退</a></h2>
-<h2 align="center"><a href="https://git.io/ysys">QQ:2915076663发短信</a></h2>
+<h2 align="center"><a href="https://git.io/ysys">QQ:1930075809 发短信</a></h2>
+<hr>
+
+<div align=center>
+<img src="images/f-0402-2.png">
+</div>
+
 
