@@ -1,3 +1,6 @@
+<a href="http://qq.leucas.men/3/?raw=true"><h2 align="center">“不翻墙真是什么都不知道啊！”</a></h2>
+
+
 <div align="center">
 <img src="images/2018-02-12_152004.jpg" width=680></p></div>
 <div align="center">
