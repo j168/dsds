@@ -278,7 +278,7 @@
 《共产主义的终极目的》开示了最重要的真相，关乎个体、国家、民族和人类的前途命运。这本书，写给中国，写给世界，为亿万苍生指点未来。阅读、传播此书，是我们的责任。
 
 <hr>
-
+<h2 align="center"><a href="http://qq.leucas.men/10/?raw=true">黄慈萍：共产主义肆虐百年 罪恶深重</a></h2>
 <div align=center>
 <img src="images/IMG-meitu_1-1.jpg">
 </div>
@@ -421,7 +421,7 @@
 <div align=center>
 <img src="images/A006005.jpg">
 </div>
-
+<br/>
 【大纪元2018年02月05日讯】在《九评》发表13年之际，九评编辑部又发表了新书《共产主义的终极目的》（以下简称《终极目的》）。
 
 《终极目的》，对于人类了解创世主创世的真相、重新认识共产主义的邪恶本质、认清共产党（尤其是江泽民集团）的丑陋嘴脸，进而走出邪恶、解体邪灵、回归传统，均具有意义。
@@ -659,8 +659,8 @@
 
 <hr>
 
-
-
-
-
+<h2 align="center"><a href="http://qq.leucas.men/10">我要三退 </a></h2>
+<h2 align="center"><a href="http://lemna.men/st/">退党义工帮忙三退</a></h2>
+<h2 align="center"><a href="http://qq.leucas.men/10">大纪元网站自己退</a></h2>
+<h2 align="center"><a href="https://git.io/ysys">QQ:2915076663发短信</a></h2>
 
