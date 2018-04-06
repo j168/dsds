@@ -669,7 +669,7 @@
 <hr>
 
 <div align=center>
-<img src="images/f-0402-2.png">
+<img src="images/sy-IP-orange-原底.png">
 </div>
 
 
