@@ -336,7 +336,7 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 <hr>
 
 <div align=center>
-<img src="images/圖片 11.jpg" width=880>
+<img src="images/圖片 11.jpg" width=550>
 </div>
 <hr>
 <h2 align="center"><a href="https://git.io/ysys?raw=true">天津塘沽大爆炸幸运脱险</a></h2>
