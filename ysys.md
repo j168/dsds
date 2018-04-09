@@ -32,6 +32,30 @@
 
 <hr>
 
+<h2 align=center><a href="http://qq.leucas.men/10" target="_blank">《九评共产党》系列文章的题目：</a></h2>
+
+<h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之一：评共产党是什么</a></h2>
+
+<h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之二：评中国共产党是怎样起家的</a></h2>
+
+<h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之三: 评中国共产党的暴政</a></h2>
+
+<h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之四：评共产党是反宇宙的力量</a></h2>
+
+<h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之五：评江泽民与中共相互利用迫害法轮功</a></h2>
+
+<h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之六：评中国共产党破坏民族文化</a></h2>
+
+<h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之七：评中国共产党的杀人历史</a></h2>
+
+<h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之八：评中国共产党的邪教本质</a></h2>
+
+<h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之九：评中国共产党的流氓本性</a></h2>
+
+
+
+
+
 
 
 
