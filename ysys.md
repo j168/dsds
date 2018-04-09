@@ -17,7 +17,7 @@
    ■ 阅读《九评》后的中国人民认清了中共的邪恶，纷纷透过网络、电话、传真等途径在大纪元退党网站上公开声明退出中共党、团、队（简称三退），成为中国历史上一场震撼人心的精神觉醒运动。</p>
 
 <hr>
-
+<h2 align=center><a href="http://qq.leucas.men/10" target="_blank">【公告】大纪元发表系列社论《九评共产党》</a></h2>
 在前苏联和东欧各国共产党政权倒台十几年后的今天，世界共产主义运动早已被全世界所唾弃，中国共产党走入坟墓也只是一个时间的问题。</p>
 
 但是中共在彻底垮台之前，却力图将其命运与具有五千年文明历史的中华古国绑在一起，这是我们民族的大不幸。如何看待共产党，如何过渡到一个没有共产党的社会，如何延续我们民族的薪火传承，已经是摆在中国人民面前的一个具体问题了。</p>
@@ -29,28 +29,29 @@
 “无可奈何花落去”，现今苟延残喘的共产政权已经日暮途穷，它们的崩溃指日可待。在其彻底灭亡之前，我们有必要全面反思和揭露这个集古今中外邪恶之大全的最大邪教组织，让仍旧被共产政权欺骗的人们认清它十恶俱全的本质，从精神上肃清共产党的流毒，从心理上摆脱共产邪灵的控制，跳出恐惧的枷锁，放弃对共产党的一切幻想。</p>
 
 中国共产党的统治是中国历史上最黑暗，也最荒谬的一页，又以江泽民发动的对“真善忍”的镇压最为邪恶。这场运动给中共的棺材钉上了最后一颗钉子。反思这段历史，是为了让这样的悲剧永不再发生。同时我们每一个人也能由此省思自己的内心世界，是否很多本不该发生的悲剧却因为我们的懦弱和妥协而得以成全。</p>
-
+大纪元编辑部敬告</p>
+2004年11月18日</p>
 <hr>
 
-<h2 align=center><a href="http://qq.leucas.men/10" target="_blank">《九评共产党》系列文章的题目：</a></h2>
+<h2 align=center><a href="http://qq.leucas.men/10" target="_blank">《九评共产党》系列文章 多文本下载：</a></h2>
 
-<h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之一：评共产党是什么</a></h2>
+<h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之一：评共产党是什么</a></h3>
 
-<h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之二：评中国共产党是怎样起家的</a></h2>
+<h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之二：评中国共产党是怎样起家的</a></h3>
 
-<h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之三: 评中国共产党的暴政</a></h2>
+<h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之三: 评中国共产党的暴政</a></h3>
 
-<h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之四：评共产党是反宇宙的力量</a></h2>
+<h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之四：评共产党是反宇宙的力量</a></h3>
 
-<h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之五：评江泽民与中共相互利用迫害法轮功</a></h2>
+<h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之五：评江泽民与中共相互利用迫害法轮功</a></h3>
 
-<h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之六：评中国共产党破坏民族文化</a></h2>
+<h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之六：评中国共产党破坏民族文化</a></h3>
 
-<h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之七：评中国共产党的杀人历史</a></h2>
+<h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之七：评中国共产党的杀人历史</a></h3>
 
-<h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之八：评中国共产党的邪教本质</a></h2>
+<h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之八：评中国共产党的邪教本质</a></h3>
 
-<h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之九：评中国共产党的流氓本性</a></h2>
+<h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之九：评中国共产党的流氓本性</a></h3>
 
 
 
