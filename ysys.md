@@ -35,9 +35,15 @@
 
 <table>
 <tr>
-	<td><a href="https://github.com/sodore/dsds/blob/master/pdf/9pinggb_A4.pdf?raw=true">PDF(简体版)</a></td>
-	<td><a href="https://github.com/sodore/dsds/blob/master/audio/9ping1a-16k.mp3?raw=true">镶崁16k mp3 电子书(简体版)</a></td>
-	<td>ePub是在手持阅读设备（包括手机等）上最受支持的电子书格式，很多手持设备自带的阅读器都支持ePub而无需安装额外软件，苹果手机自带的阅读器iBooks，以及安卓手机上谷歌的阅读器软件“Play 图书”（Play Books）软件都很好的支持ePub格式。ePub格式的电子书能自动根据阅读器屏幕的大小，手持方向等实时排版以获得优化的阅读效果。读者可以在ePub书里添加书签、注释，改变字体及大小，能搜索，非常方便。</td>
+	<td width=200><a href="https://github.com/sodore/dsds/blob/master/pdf/9pinggb_A4.pdf?raw=true">PDF(简体版)</a></td>
+	<td width=200 ><a href="https://github.com/sodore/dsds/blob/master/audio/9ping1a-16k.mp3?raw=true">镶崁16k mp3 电子书(简体版)</a></td>
+	<td>ePub是在手持阅读设备（包括手机等）上最受支持的电子书格式，很多手持设备自带的阅读器都支持ePub而无需安装额外软件。</p>
+	阅读电子书，如果是安卓系统，您需要安装APP，建议您使用 <a href="https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily&hl=zh_cn" target="_blank">reasily</a>
+如果是苹果的装置，本身自带的 ibook就能开启 。</p>
+如果是桌机，假如作业系统是 win10， 那么自带的 Edge 可以开启。</p>
+否则要安装 chrome 的插件 <a href="https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl"  target="_blank">readium</a>,才能阅读。
+至于firefox 插件， 建议使用 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/" target="_blank">epubReader</a>
+</td>
 </tr>
 </table>
 
