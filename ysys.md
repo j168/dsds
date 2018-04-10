@@ -7,8 +7,6 @@
 <img src="images/9Pnew1.jpg"width=880>
 </div>
 
-
-
 <h2 align=center><a href="http://qq.leucas.men/10" target="_blank">《九评共产党》震惊世界</a></h2>
     ■ 2004 年 11 月，海外媒体“大纪元时报”推出了系列社论《九评共产党》，震惊世界。全书剖析了祸害人类数十载的共产主义运动，其深邃之思维、醒世之慧言令人叹为观止。</p>
     ■《九评》已被翻译成英、日、德、法、韩、俄、西班牙、越南及意大利等二十七种语言，发表不久在国际社会上引起了很大反响。对帮助世界各国人民认清中共的本质起到了巨大的作用。</p>
@@ -30,10 +28,19 @@
 
 中国共产党的统治是中国历史上最黑暗，也最荒谬的一页，又以江泽民发动的对“真善忍”的镇压最为邪恶。这场运动给中共的棺材钉上了最后一颗钉子。反思这段历史，是为了让这样的悲剧永不再发生。同时我们每一个人也能由此省思自己的内心世界，是否很多本不该发生的悲剧却因为我们的懦弱和妥协而得以成全。</p>
 大纪元编辑部敬告</p>
-2004年11月18日</p>
+2004年11月18日 http://dajiyuan.com </p>
 <hr>
 
 <h2 align=center><a href="http://qq.leucas.men/10" target="_blank">《九评共产党》系列文章 多文本下载：</a></h2>
+
+
+<TR>
+<TD><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/ultiGoalCmCN8k.epub?raw=true">镶崁8k mp3 epub简体版电子书</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCmChina.epub?raw=true">epub简体版电子书</a>，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/twUltiGoalCmChina.epub?raw=true">epub正体版电子书，<a href="https://github.com/goodabc/GCC/blob/master/GCC/mp3/goal8K.zip?raw=true">希望之声声音档(mp3)，<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/goalmp4Npf.epub?raw=true">新唐人电视台视频播报版 epub 下载</a></TD>
+</TR>
+
+
+
+
 
 <h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之一：评共产党是什么</a></h3>
 
