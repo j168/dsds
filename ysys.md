@@ -47,9 +47,15 @@
 </tr>
 </table>
 
+希望之声 声音档(mp3)
 
-
-
+<table>
+<tr> 
+<td width=100><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-3/425-1.jpg?raw=true"><a href="http://qq.leucas.men/2" target="_blank">九评之一：评共产党是什么</a></td>
+	
+<td width=100><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-3/425-1.jpg?raw=true"><a href="http://qq.leucas.men/2" target="_blank">九评之二：评中国共产党是怎样起家的</a></td>
+	
+	
 
 <h3 align=center><a href="http://qq.leucas.men/2" target="_blank">九评之一：评共产党是什么</a></h3>
 
