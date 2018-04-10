@@ -51,7 +51,7 @@
 <table>
 <tr>
 <td>
-<img src="images/2018-04-08_220357.jpg" width=200> </td>
+<img src="images/2_224210.jpg" width=200> </td>
 	<td width=550><h3><a href="http://qq.leucas.men/2" target="_blank">九评之一：评共产党是什么</a></h3></td>
 <td><a href="https://github.com/sodore/dsds/blob/master/audio/9ping1a-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
@@ -99,10 +99,12 @@
 
 <hr>
 
+<div align=center>
+<img src="images/圖片 1.png"width=880>
+</div>
 
 
 
 
 
 
-<h2 align=center>《九评共产党》下载</h2>
