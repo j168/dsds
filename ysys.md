@@ -46,7 +46,8 @@
 </td>
 </tr>
 </table>
-
+<hr>
+  <h2 align=center><a href="http://qq.leucas.men/10" target="_blank">(希望之声)音频(mp3).下载</a></h2>
 <table>
 <tr>
 <td>
@@ -94,10 +95,9 @@
 <td width=550><h3><a href="http://qq.leucas.men/2" target="_blank">九评之九：评中国共产党的流氓本性</a></h3></td>
 <td><a href="https://github.com/sodore/dsds/blob/master/audio/9ping9a-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
-
 </table>
 
-
+<hr>
 
 
 
