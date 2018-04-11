@@ -452,8 +452,9 @@ src="https://github.com/sodore/dsds/blob/master/images/532100-1.png" width="265"
 
 <hr>
 
+
 <div align=center>
-<img src="images/sy-IP-orange-原底.jpg" width=880>
+<img src="images/圖片 19.png" width=880>
 </div>
 <hr>
 
