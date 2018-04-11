@@ -261,7 +261,7 @@
 
 <hr>
 
-<h2 align=center><a href="http://qq.leucas.men/3" target="_blank">三退洪势 新闻报导</a></h2>
+<h2 align=center><a href="http://qq.leucas.men/3" target="_blank">三退洪势 新闻报导 点击及时观看</a></h2>
 
 <table>
 
