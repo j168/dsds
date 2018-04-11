@@ -281,7 +281,7 @@
 <tr>
  <td><center><a href="https://github.com/sodore/dsds/blob/master/video/015706.mp4?raw=true">贺三亿人三退 解体中共 指日可待</a></center></td>
 	
-<td><center><a href="https://github.com/sodore/dsds/blob/master/video/015900.mp4?raw=true">伟大的中国人终将摆脱中共 各国声援三退</a></center></td>
+<td><center><a href="https://github.com/sodore/dsds/blob/master/video/015900.mp4?raw=true">伟大的中国人终将摆脱中共</a></center></td>
 	
 <td><center><a href="https://github.com/sodore/dsds/blob/master/video/016918.mp4?raw=true">悉尼研讨会 揭露共产主义败坏人类</a></center></td>
 </tr>
@@ -295,9 +295,9 @@
 </tr>
 
 <tr>
-<td><center><a href="https://github.com/sodore/dsds/blob/master/video/20180318_014942.mp4?raw=true">香港庆祝三亿人三退大游行 陆客震撼</a></center></td>
+<td><center><a href="https://github.com/sodore/dsds/blob/master/video/20180318_014942.mp4?raw=true">香港庆祝三亿人三退 陆客震撼</a></center></td>
 
-<td><center><a href="https://github.com/sodore/dsds/blob/master/video/016186.mp4?raw=true">从610到退党 郝凤军：良知指引下的救赎</a></center></td>
+<td><center><a href="https://github.com/sodore/dsds/blob/master/video/016186.mp4?raw=true"> 郝凤军：良知指引下的救赎</a></center></td>
 
 <td><center><a href="https://github.com/sodore/dsds/blob/master/video/a24bc0e0b8.mp4?raw=true">三退小问答</a></center></td>
 </tr>
@@ -338,6 +338,11 @@
 
 </table>
 
+<h2 align="center"><a href="http://qq.leucas.men/10">我要三退 </a></h2>
+<h2 align="center"><a href="http://lemna.men/st/">退党义工帮忙三退</a></h2>
+<h2 align="center"><a href="http://qq.leucas.men/10">大纪元网站自己退</a></h2>
+<h2 align="center"><a href="https://git.io/ysys">QQ:1930075809 发短信</a></h2>
+<hr>
 
 
 
