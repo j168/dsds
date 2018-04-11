@@ -31,6 +31,12 @@
 2004年11月18日 http://dajiyuan.com </p>
 <hr>
 
+<div align=center>
+<img src="images/圖片 20.png"width=880>
+</div>
+<hr>
+
+
 <h2 align=center><a href="http://qq.leucas.men/10" target="_blank">《九评共产党》系列文章 多文本下载：</a></h2>
 
 <table>
@@ -51,12 +57,12 @@
 <table>
 <tr>
 <td>
-<img src="images/2_224210.jpg" width=200> </td>
+<img src="images/2018-04-11_125802.jpg" width=200> </td>
 	<td width=550><h3><a href="http://qq.leucas.men/2" target="_blank">九评之一：评共产党是什么</a></h3></td>
 <td><a href="https://github.com/sodore/dsds/blob/master/audio/9ping1a-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
 <td>
-<img src="images/2018-04-08_220357.jpg" width=200>  </td>
+<img src="images/2018-04-11_125802.jpg" width=200>  </td>
 <td width=550><h3><a href="http://qq.leucas.men/2" target="_blank">九评之二：评中国共产党是怎样起家的</a></h3></td>
 <td><a href="https://github.com/sodore/dsds/blob/master/audio/9ping2a-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
