@@ -263,11 +263,20 @@
 
 <h2 align=center><a href="http://qq.leucas.men/3" target="_blank">三退洪势 新闻报导</a></h2>
 
+<table>
 
+</td>
 
+</tr>
 
+<tr>
+ 
+<td><a href="https://github.com/sodore/dsds/blob/master/video/015706.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/video/015706.mp4" width="265"  border="0" alt=""></a></td>
+</tr>
 
-
+<tr>
+ <td><center><a href="https://github.com/sodore/dsds/blob/master/book/goalCh1.epub?raw=true">贺三亿人三退 解体中共 指日可待</a></center></td>
+</tr>
 
 
 
