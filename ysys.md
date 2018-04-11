@@ -271,7 +271,7 @@
 
 <tr>
  
-<td><a href="https://github.com/sodore/dsds/blob/master/video/015706.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/video/015706.mp4" width="265"  border="0" alt=""></a></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/video/015706.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/20180326_015706_0.jpg" width="265"  border="0" alt=""></a></td>
 </tr>
 
 <tr>
