@@ -276,32 +276,7 @@
 <td><a href="https://github.com/sodore/dsds/blob/master/video/015900.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-3-13-ny-brooklyn.jpg" width="265"  border="0" alt=""></a></td>
 
 <td><a href="https://github.com/sodore/dsds/blob/master/video/016918.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/5-6.jpg" width="265"  border="0" alt=""></a></td>
-
-<td><a href="https://github.com/sodore/dsds/blob/master/video/20180318_014942.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/d4e5d94b728a.jpg" width="265"  border="0" alt=""></a></td>
-
-<td><a href="https://github.com/sodore/dsds/blob/master/video/016186.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/p8765071a600648183.jpg" width="265"  border="0" alt=""></a></td>
-
-<td><a href="https://github.com/sodore/dsds/blob/master/video/a24bc0e0b8.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/292076.jpg" width="265"  border="0" alt=""></a></td>
-
-<td><a href="https://github.com/sodore/dsds/blob/master/video/015814.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/ak478923.jpg" width="265"  border="0" alt=""></a></td>
-
-<td><a href="https://github.com/sodore/dsds/blob/master/video/a895ST.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-3-13-ny.jpg" width="265"  border="0" alt=""></a></td>
-
-<td><a href="https://github.com/sodore/dsds/blob/master/video/016201.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/621571820.jpg" width="265"  border="0" alt=""></a></td>
-
-<td><a href="https://github.com/sodore/dsds/blob/master/video/074172.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/p8600131a538707922.jpg" width="265"  border="0" alt=""></a></td>
-
-<td><a href="https://github.com/sodore/dsds/blob/master/video/a156879a.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/a380385311.jpg" width="265"  border="0" alt=""></a></td>
-
-<td><a href="https://github.com/sodore/dsds/blob/master/video/012366.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/xp3zqzqu-6.jpg" width="265"  border="0" alt=""></a></td>
-
-
 </tr>
-
-
-
-
-
 
 <tr>
  <td><center><a href="https://github.com/sodore/dsds/blob/master/video/015706.mp4?raw=true">贺三亿人三退 解体中共 指日可待</a></center></td>
@@ -309,19 +284,50 @@
 <td><center><a href="https://github.com/sodore/dsds/blob/master/video/015900.mp4?raw=true">伟大的中国人终将摆脱中共 各国声援三退</a></center></td>
 	
 <td><center><a href="https://github.com/sodore/dsds/blob/master/video/016918.mp4?raw=true">悉尼研讨会 揭露共产主义败坏人类</a></center></td>
-	
+</tr>
+
+<tr>
+<td><a href="https://github.com/sodore/dsds/blob/master/video/20180318_014942.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/d4e5d94b728a.jpg" width="265"  border="0" alt=""></a></td>
+
+<td><a href="https://github.com/sodore/dsds/blob/master/video/016186.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/p8765071a600648183.jpg" width="265"  border="0" alt=""></a></td>
+
+<td><a href="https://github.com/sodore/dsds/blob/master/video/a24bc0e0b8.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/292076.jpg" width="265"  border="0" alt=""></a></td>
+</tr>
+
+<tr>
 <td><center><a href="https://github.com/sodore/dsds/blob/master/video/20180318_014942.mp4?raw=true">香港庆祝三亿人三退大游行 陆客震撼</a></center></td>
 
 <td><center><a href="https://github.com/sodore/dsds/blob/master/video/016186.mp4?raw=true">从610到退党 郝凤军：良知指引下的救赎</a></center></td>
 
 <td><center><a href="https://github.com/sodore/dsds/blob/master/video/a24bc0e0b8.mp4?raw=true">三退小问答</a></center></td>
+</tr>
 
+<tr>
+<td><a href="https://github.com/sodore/dsds/blob/master/video/015814.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/ak478923.jpg" width="265"  border="0" alt=""></a></td>
+
+<td><a href="https://github.com/sodore/dsds/blob/master/video/a895ST.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/2018-3-13-ny.jpg" width="265"  border="0" alt=""></a></td>
+
+<td><a href="https://github.com/sodore/dsds/blob/master/video/016201.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/621571820.jpg" width="265"  border="0" alt=""></a></td>
+</tr>
+
+<tr>
 <td><center><a href="https://github.com/sodore/dsds/blob/master/video/015814.mp4?raw=true">“三退”是和平解体中共的上善之法</a></center></td>
 
 <td><center><a href="https://github.com/sodore/dsds/blob/master/video/a895ST.mp4?raw=true">3亿-三退是件甚么事</a></center></td>
 
 <td><center><a href="https://github.com/sodore/dsds/blob/master/video/016201.mp4?raw=true">全民弃共 体制内人士诉心声</a></center></td>
+</tr>
 
+<tr>
+<td><a href="https://github.com/sodore/dsds/blob/master/video/074172.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/p8600131a538707922.jpg" width="265"  border="0" alt=""></a></td>
+
+<td><a href="https://github.com/sodore/dsds/blob/master/video/a156879a.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/a380385311.jpg" width="265"  border="0" alt=""></a></td>
+
+<td><a href="https://github.com/sodore/dsds/blob/master/video/012366.mp4?raw=true"><img src="https://github.com/sodore/dsds/blob/master/images/xp3zqzqu-6.jpg" width="265"  border="0" alt=""></a></td>
+</tr>
+
+
+<tr>
 <td><center><a href="https://github.com/sodore/dsds/blob/master/video/074172.mp4?raw=true">【禁闻】美国会研讨谴中共迫害 声援退党潮</a></center></td>
 
 <td><center><a href="https://github.com/sodore/dsds/blob/master/video/a156879a.mp4?raw=true">【禁闻】大纪元：抛弃中共 重塑中华民族辉煌</a></center></td>
@@ -329,6 +335,7 @@
 <td><center><a href="https://github.com/sodore/dsds/blob/master/video/012366.mp4?raw=true">【禁闻】〝三退〞录音：中共太腐败 迟早要完</a></center></td>
 
 </tr>
+
 </table>
 
 
