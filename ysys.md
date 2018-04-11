@@ -108,7 +108,7 @@
 <hr>
 
 <div align=center>
-<img src="images/38481973.jpg"width=880>
+<img src="images/38481973.jpg"width=550>
 </div>
 
 <h2 align=center><a href="http://qq.leucas.men/3" target="_blank">辛灏年：九评共产党带来翻天覆地的变化</a></h2>
@@ -132,9 +132,9 @@
 其次他认为《九评》富有前瞻性，〝十年前《九评》就把革命的历史使命提到了讲台上、提到国人心中。《九评》揭露了共产党的历史，揭露了共产党的现实，十年来中国大陆的发展，证明《九评》所讲得内容完全是正确的。《九评》所揭示的革命方向和革命的对象都是正确的。〞
 
 <div align=center>
-<img src="images/38481973.jpg"width=880>
+<img src="images/20150104012918391.jpg"width=550>
 </div>
-<div align=center>辛灏年2014年10月在旧金山〝《九评》十周年研讨会〞上发表演讲<div>
+<div align=center>辛灏年2014年10月在旧金山〝《九评》十周年研讨会〞上发表演讲</div>
 
 <b>从四个性质看中共没改</b>
 
