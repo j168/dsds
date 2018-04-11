@@ -345,8 +345,8 @@
 <hr>
 
 
-<a href="https://git.io/ysys">突破网络封锁 https://git.io/ysys</a>  这个链接国内不屏蔽，请妥为收藏，可以下载所有最新版翻墙软件，如自由门、无界、爱博、iNTD等。
+■ <a href="https://git.io/ysys">突破网络封锁 https://git.io/ysys</a>  这个链接国内不屏蔽，请妥为收藏，可以下载所有最新版翻墙软件，如自由门、无界、爱博、iNTD等。
 
 
-
+■ <a href="https://git.io/toto">《共产主义的终极目的——中国篇》https://git.io/toto 视频、音频和电子书,请妥为收藏，下载观看。
 
