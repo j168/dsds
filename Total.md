@@ -669,7 +669,7 @@
 <hr>
 
 <div align=center>
-<img src="images/圖片 2.png">
+<img src="images/圖片 2.png" width=880>
 </div>
 
 
