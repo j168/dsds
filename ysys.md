@@ -60,48 +60,48 @@
 <tr>
 <td>
 <img src="images/2018-04-11_125802.jpg" width=100 > </td>
-<td width=650 ><h3><a href="http://qq.leucas.men/2" target="_blank">九评之一：评共产党是什么</a></h3></td>
+<td width=650 ><h3><a href="https://git.io/toto" target="_blank">九评之一：评共产党是什么</a></h3></td>
 <td width=130 ><a href="https://github.com/sodore/dsds/blob/master/audio/9ping1a-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
 <td>
 <img src="images/2018-04-11_125802.jpg" width=100>  </td>
-<td width=650><h3><a href="http://qq.leucas.men/2" target="_blank">九评之二：评中国共产党是怎样起家的</a></h3></td>
-<td width=130><a href="https://github.com/sodore/dsds/blob/master/audio/9ping2a-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=650><h3><a href="https://git.io/toto" target="_blank">九评之二：评中国共产党是怎样起家的</a></h3></td>
+<td width=130><a href="https://github.com/sodore/dsds/blob/master/audio/9ping2-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
 <td>
 <img src="images/2018-04-11_125802.jpg" width=100>  </td>
-<td width=650><h3><a href="http://qq.leucas.men/2" target="_blank">九评之三: 评中国共产党的暴政</a></h3></td>
-<td width=130><a href="https://github.com/sodore/dsds/blob/master/audio/9ping3a-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=650><h3><a href="https://git.io/toto" target="_blank">九评之三: 评中国共产党的暴政</a></h3></td>
+<td width=130><a href="https://github.com/sodore/dsds/blob/master/audio/9ping3-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
 <td>
 <img src="images/2018-04-11_125802.jpg" width=100>  </td>
-<td width=650><h3><a href="http://qq.leucas.men/2" target="_blank">九评之四：评共产党是反宇宙的力量</a></h3></td>
-<td width=130><a href="https://github.com/sodore/dsds/blob/master/audio/9ping4a-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=650><h3><a href="https://git.io/toto" target="_blank">九评之四：评共产党是反宇宙的力量</a></h3></td>
+<td width=130><a href="https://github.com/sodore/dsds/blob/master/audio/9ping4-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
 <td>
 <img src="images/2018-04-11_125802.jpg" width=100>  </td>
-<td width=650><h3><a href="http://qq.leucas.men/2" target="_blank">九评之五：评江泽民与中共相互利用迫害法轮功</a></h3></td>
-<td width=130><a href="https://github.com/sodore/dsds/blob/master/audio/9ping5a-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=650><h3><a href="https://git.io/toto" target="_blank">九评之五：评江泽民与中共相互利用迫害法轮功</a></h3></td>
+<td width=130><a href="https://github.com/sodore/dsds/blob/master/audio/9ping5-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
 <td>
 <img src="images/2018-04-11_125802.jpg" width=100>  </td>
-<td width=650><h3><a href="http://qq.leucas.men/2" target="_blank">九评之六：评中国共产党破坏民族文化</a></h3></td>
-<td width=130><a href="https://github.com/sodore/dsds/blob/master/audio/9ping6a-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=650><h3><a href="https://git.io/toto" target="_blank">九评之六：评中国共产党破坏民族文化</a></h3></td>
+<td width=130><a href="https://github.com/sodore/dsds/blob/master/audio/9ping6-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
 <td>
 <img src="images/2018-04-11_125802.jpg" width=100>  </td>
-<td width=650><h3><a href="http://qq.leucas.men/2" target="_blank">九评之七：评中国共产党的杀人历史</a></h3></td>
-<td width=130><a href="https://github.com/sodore/dsds/blob/master/audio/9ping7a-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=650><h3><a href="https://git.io/toto" target="_blank">九评之七：评中国共产党的杀人历史</a></h3></td>
+<td width=130><a href="https://github.com/sodore/dsds/blob/master/audio/9ping7-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
 <td>
 <img src="images/2018-04-11_125802.jpg" width=100>  </td>
-<td width=650><h3><a href="http://qq.leucas.men/2" target="_blank">九评之八：评中国共产党的邪教本质</a></h3></td>
-<td width=130><a href="https://github.com/sodore/dsds/blob/master/audio/9ping8a-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=650><h3><a href="https://git.io/toto" target="_blank">九评之八：评中国共产党的邪教本质</a></h3></td>
+<td width=130><a href="https://github.com/sodore/dsds/blob/master/audio/9ping8-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
  <td>
 <img src="images/2018-04-11_125802.jpg" width=100>  </td>
-<td width=650><h3><a href="http://qq.leucas.men/2" target="_blank">九评之九：评中国共产党的流氓本性</a></h3></td>
-<td width=130><a href="https://github.com/sodore/dsds/blob/master/audio/9ping9a-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=650><h3><a href="https://git.io/toto" target="_blank">九评之九：评中国共产党的流氓本性</a></h3></td>
+<td width=130><a href="https://github.com/sodore/dsds/blob/master/audio/9ping9-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
 </table>
 
