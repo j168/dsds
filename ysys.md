@@ -44,7 +44,7 @@
 <table>
 <tr>
 	<td width=200><a href="https://github.com/sodore/dsds/blob/master/pdf/9pinggb_A4.pdf?raw=true">PDF(简体版).下载</a></td>
-	<td width=200 ><a href="https://github.com/sodore/dsds/blob/master/audio/9ping1a-16k.mp3?raw=true">镶崁16k mp3 电子书(简体版).下载</a></td>
+	<td width=200 ><a href="https://github.com/sodore/dsds/blob/master/book/9-mp3-jpgcdm4a5k.epub?raw=true">镶崁16k mp3 电子书(简体版).下载</a></td>
 	<td>■ ePub是在手持阅读设备（包括手机等）上最受支持的电子书格式，很多手持设备自带的阅读器都支持ePub而无需安装额外软件。</p>
 	■ 阅读电子书，如果是安卓系统，您需要安装APP，建议您使用 <a href="https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily&hl=zh_cn" target="_blank">reasily</a> </p>
 ■ 如果是苹果的装置，本身自带的 ibook就能开启 。</p>
