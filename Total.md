@@ -169,7 +169,7 @@
 </table>
 
 ******
-<h2 align="center"><a href="http://qq.leucas.men/10/?raw=true">《共产主义的终极目的》新书开始发行</a></h2>
+<h2 align="center"><a href="https://git.io/wnn?raw=true">《共产主义的终极目的》新书开始发行</a></h2>
 
 
 <div align=center>
@@ -211,7 +211,7 @@
 
 <hr>
 
-<h2 align="center"><a href="http://qq.leucas.men/10/?raw=true">高天韵：《共产主义的终极目的》是救世神书</a></h2>
+<h2 align="center"><a href="https://git.io/wnn?raw=true">高天韵：《共产主义的终极目的》是救世神书</a></h2>
 
 【大纪元2017年12月09日讯】《九评》编辑部的宏篇新著《共产主义的终极目的》震撼万千读者！一本神书、天书、宝书，开启救命天机。
 
@@ -281,7 +281,7 @@
 《共产主义的终极目的》开示了最重要的真相，关乎个体、国家、民族和人类的前途命运。这本书，写给中国，写给世界，为亿万苍生指点未来。阅读、传播此书，是我们的责任。
 
 <hr>
-<h2 align="center"><a href="http://qq.leucas.men/10/?raw=true">黄慈萍：共产主义肆虐百年 罪恶深重</a></h2>
+<h2 align="center"><a href="https://git.io/wnn?raw=true">黄慈萍：共产主义肆虐百年 罪恶深重</a></h2>
 <div align=center>
 <img src="images/IMG-meitu_1-1.jpg">
 </div>
@@ -307,7 +307,7 @@
 
 <hr>
 
-<h2 align="center"><a href="http://qq.leucas.men/10/?raw=true">《共产主义终极目的》揭中共“用欲望杀人”</a></h2>
+<h2 align="center"><a href="https://git.io/wnn?raw=true">《共产主义终极目的》揭中共“用欲望杀人”</a></h2>
 
 【大纪元2017年12月19日讯】继《九评共产党》后，大纪元又刊载了《共产主义的终极目的》，揭示了共产主义的真正本源，以及其来在世间的目的。有学者认为，回顾历史，再看现实，一切正如书中所述，共产主义的终极目的正在有步骤地进行中，他感到非常紧迫。
 
@@ -340,7 +340,7 @@
 <hr>
 
 
-<h2 align="center"><a href="http://qq.leucas.men/10/?raw=true">专访杜斌：有共产主义的地方 就有饥荒战争灾难</a></h2>
+<h2 align="center"><a href="https://git.io/wnn?raw=true">专访杜斌：有共产主义的地方 就有饥荒战争灾难</a></h2>
 
 <div align=center>
 <img src="images/5544100615.jpg">
@@ -381,7 +381,7 @@
 杜斌强调，虽然中共想采取种种方式延续共产党的命运，但都是徒劳。“共产主义就是以暴力革命、阶级仇恨还有无产阶级专政的方式来蹂躏中国人民，我觉得它已经和这个时代脱节了，不可能继续的长久的蹂躏我们的人民。”◇
 <hr>
 
-<h2 align="center"><a href="http://qq.leucas.men/10/?raw=true">共产主义渗透全球 学者：间接输血给中共</a></h2>
+<h2 align="center"><a href="https://git.io/wnn?raw=true">共产主义渗透全球 学者：间接输血给中共</a></h2>
 
 【大纪元2017年11月30日讯】前言：纪录片《蚕食美国》探究共产思潮持续变换名目，渗透美国政治、媒体、环保等多个面向，所形成的各式思潮甚至备受当今世人追捧，但是共产主义不论是否创建政体，又或是与意识形态结合，其充满仇恨与极端的本质从未改变，将使人为了自我利益的追求而迷失自我，进一步使一个国家走向腐败与衰落。
 
@@ -419,7 +419,7 @@
 共产主义靠着按需分配、层层剥削资源的模式，体现在欧美民主国家，则是靠高税收补贴各大财阀。赵培说，美国大财阀靠着共产主义模式崛起，追求自身最大利益，近十年又把资金投入中国，中共又使用这些资金迫害人民，财阀为了利益不敢吱声，如今已收到恶果，这些在中国赚得的利润无法汇出，甚至资产可能化为灰烬。
 <hr>
 
-<h2 align="center"><a href="http://qq.leucas.men/10/?raw=true">《共产主义的终极目的》是揭开创世真相的天书</a></h2>
+<h2 align="center"><a href="https://git.io/wnn?raw=true">《共产主义的终极目的》是揭开创世真相的天书</a></h2>
 
 <div align=center>
 <img src="images/A006005.jpg">
@@ -544,7 +544,7 @@
 正是看准了这一点，江泽民集团与中共邪党才形成了唇亡齿寒的互相利用关系。江泽民集团和中共邪党才成了共产邪灵用来跟创世主作对、向世人作恶、毁人不倦的犯罪工具。
 
 <hr>
-<h2 align="center"><a href="http://qq.leucas.men/10/?raw=true">《共产主义的终极目的》是揭开创世真相的天书（下）</a></h2>
+<h2 align="center"><a href="https://git.io/wnn?raw=true">《共产主义的终极目的》是揭开创世真相的天书（下）</a></h2>
 
 <div align=center>
 <img src="images/0288c5be3c177.jpg">
@@ -662,14 +662,9 @@
 
 <hr>
 
-<h2 align="center"><a href="http://qq.leucas.men/10">我要三退 </a></h2>
-<h2 align="center"><a href="http://lemna.men/st/">退党义工帮忙三退</a></h2>
-<h2 align="center"><a href="http://qq.leucas.men/10">大纪元网站自己退</a></h2>
-<h2 align="center"><a href="https://git.io/ysys">QQ:1930075809 发短信</a></h2>
-<hr>
 
 <div align=center>
-<img src="images/圖片 19.png" width=880>
+<img src="images/0408.jpg" width=880>
 </div>
 
 
