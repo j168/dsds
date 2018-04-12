@@ -7,7 +7,7 @@
 <img src="images/9Pnew1.jpg"width=880>
 </div>
 
-<h2 align=center><a href="http://qq.leucas.men/10" target="_blank">《九评共产党》震惊世界</a></h2>
+<h2 align=center><a href="https://git.io/toto" target="_blank">《九评共产党》震惊世界</a></h2>
     ■ 2004 年 11 月，海外媒体“大纪元时报”推出了系列社论《九评共产党》，震惊世界。全书剖析了祸害人类数十载的共产主义运动，其深邃之思维、醒世之慧言令人叹为观止。</p>
     ■《九评》已被翻译成英、日、德、法、韩、俄、西班牙、越南及意大利等二十七种语言，发表不久在国际社会上引起了很大反响。对帮助世界各国人民认清中共的本质起到了巨大的作用。</p>
    ■《九评共产党》获得2005年美国亚裔记者协会颁发网络报导类最佳奖之一。</p>
@@ -17,7 +17,7 @@
    ■ 阅读《九评》后的中国人民认清了中共的邪恶，纷纷透过网络、电话、传真等途径在大纪元退党网站上公开声明退出中共党、团、队（简称三退），成为中国历史上一场震撼人心的精神觉醒运动。</p>
 
 <hr>
-<h2 align=center><a href="http://qq.leucas.men/10" target="_blank">【公告】大纪元发表系列社论《九评共产党》</a></h2>
+<h2 align=center><a href="https://git.io/toto" target="_blank">【公告】大纪元发表系列社论《九评共产党》</a></h2>
 在前苏联和东欧各国共产党政权倒台十几年后的今天，世界共产主义运动早已被全世界所唾弃，中国共产党走入坟墓也只是一个时间的问题。</p>
 
 但是中共在彻底垮台之前，却力图将其命运与具有五千年文明历史的中华古国绑在一起，这是我们民族的大不幸。如何看待共产党，如何过渡到一个没有共产党的社会，如何延续我们民族的薪火传承，已经是摆在中国人民面前的一个具体问题了。</p>
@@ -39,7 +39,7 @@
 <hr>
 
 
-<h2 align=center><a href="http://qq.leucas.men/10" target="_blank">《九评共产党》文本下载：</a></h2>
+<h2 align=center><a href="https://git.io/toto" target="_blank">《九评共产党》文本下载：</a></h2>
 
 <table>
 <tr>
@@ -55,7 +55,7 @@
 </tr>
 </table>
 <hr>
-  <h2 align=center><a href="http://qq.leucas.men/10" target="_blank">《九评共产党》系列文章及音频(mp3).下载</a></h2>
+  <h2 align=center><a href="https://git.io/ysys" target="_blank">《九评共产党》系列文章及音频(mp3).下载</a></h2>
 <table tall=30>
 <tr>
 <td>
@@ -111,7 +111,7 @@
 <img src="images/2018-4-7-san-francisco-3yi_04--ss.jpg"width=550>
 </div>
 
-<h2 align=center><a href="http://qq.leucas.men/3" target="_blank">辛灏年：九评共产党带来翻天覆地的变化</a></h2>
+<h2 align=center><a href="https://git.io/ysys" target="_blank">辛灏年：九评共产党带来翻天覆地的变化</a></h2>
 
 二零零四年十一月十九日，《大纪元》开始连续九天发表系列社论《九评共产党》。《九评共产党》给为祸世间一个多世纪的国际共产主义运动，特别是中国共产党盖棺论定。《九评共产党》发表后，在社会上引起了强烈反响和震动。著名历史学家、《谁是““““新中国””””》一书的作者辛灏年先生率先站出来高度评价《九评共产党》。二零零五年三月六日他远赴费城参加在宾州大学举办的〝九评研讨会〞，并发表长篇演讲《两个看法，四点感想》。辛灏年先生指出，《九评共产党》是第一次有人敢站在共产党完全的对立面去批判它、揭露它;《九评共产党》从思想、文化、历史、经济等各个方面对共产党进行了全面的评判。在研讨会上辛灏年先生畅谈了阅读《九评共产党》的感想，并和大家分享了他是如何走出对中共专制统治恐惧的心路历程。
 
@@ -169,7 +169,7 @@
 <img src="images/9P@1200x1200.jpg"width=550>
 </div>
 
-<h2 align=center><a href="http://qq.leucas.men/3" target="_blank">美国华府研讨会：三亿人三退数字真实</a></h2>
+<h2 align=center><a href="https://git.io/ysys" target="_blank">美国华府研讨会：三亿人三退数字真实</a></h2>
 <br/>
 <div align=center>
 <img src="images/20180409-hsichiao-hk-01.jpg"width=550>
@@ -261,7 +261,7 @@
 
 <hr>
 
-<h2 align=center><a href="http://qq.leucas.men/3" target="_blank">三退洪势 新闻报导 点击及时观看</a></h2>
+<h2 align=center><a href="https://git.io/ysys" target="_blank">三退洪势 新闻报导 点击及时观看</a></h2>
 
 <table>
 
@@ -338,11 +338,6 @@
 
 </table>
 
-<h2 align="center"><a href="http://qq.leucas.men/10">我要三退 </a></h2>
-<h2 align="center"><a href="http://lemna.men/st/">退党义工帮忙三退</a></h2>
-<h2 align="center"><a href="http://qq.leucas.men/10">大纪元网站自己退</a></h2>
-<h2 align="center"><a href="https://git.io/ysys">QQ:1930075809 发短信</a></h2>
-<hr>
 
 
 ■ <a href="https://git.io/ysys">突破网络封锁 https://git.io/ysys</a>  这个链接国内不屏蔽，请妥为收藏，可以下载所有最新版翻墙软件，如自由门、无界、爱博、iNTD等。
