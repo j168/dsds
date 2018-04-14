@@ -45,7 +45,7 @@
 <tr>
 	<td width=350><a href="https://github.com/sodore/dsds/blob/master/pdf/9pinggb_A4.pdf?raw=true">PDF(简体版).下载</a></td>
 	<td width=350 ><a href="https://github.com/sodore/dsds/blob/master/book/9-mp3-jpgcdm4a5k.epub?raw=true">镶崁16k mp3 电子书(简体版).下载</a></td></tr>
-	
+	<tr>
 <td width=700>■ ePub是在手持阅读设备（包括手机等）上最受支持的电子书格式，很多手持设备自带的阅读器都支持ePub而无需安装额外软件。</p>
 	■ 阅读电子书，如果是安卓系统，您需要安装APP，建议您使用 <a href="https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily&hl=zh_cn" target="_blank">reasily</a> </p>
 ■ 如果是苹果的装置，本身自带的 ibook就能开启 。</p>
@@ -53,7 +53,7 @@
 否则要安装 chrome 的插件 <a href="https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl"  target="_blank">readium</a>,才能阅读。</p>
 ■ 至于firefox 插件， 建议使用 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/" target="_blank">epubReader</a>
 </td>
-
+</tr>
 </table>
 <hr>
   <h2 align=center><a href="https://git.io/ysys" target="_blank">《九评共产党》系列文章及音频(mp3).下载</a></h2>
