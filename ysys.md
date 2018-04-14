@@ -45,7 +45,9 @@
 <tr>
 	<td width=350><a href="https://github.com/sodore/dsds/blob/master/pdf/9pinggb_A4.pdf?raw=true">PDF(简体版).下载</a></td>
 	<td width=350 ><a href="https://github.com/sodore/dsds/blob/master/book/9-mp3-jpgcdm4a5k.epub?raw=true">镶崁16k mp3 电子书(简体版).下载</a></td></tr>
-	<tr>
+	</table>
+<table>
+<tr>
 <td width=700>■ ePub是在手持阅读设备（包括手机等）上最受支持的电子书格式，很多手持设备自带的阅读器都支持ePub而无需安装额外软件。</p>
 	■ 阅读电子书，如果是安卓系统，您需要安装APP，建议您使用 <a href="https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily&hl=zh_cn" target="_blank">reasily</a> </p>
 ■ 如果是苹果的装置，本身自带的 ibook就能开启 。</p>
@@ -61,48 +63,48 @@
 <tr>
 <td>
 
-<td width=650 ><h3><a href="https://git.io/toto" target="_blank">九评之一：评共产党是什么</a></h3></td>
-<td width=130 ><a href="https://github.com/sodore/dsds/blob/master/audio/9ping1a-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=550 ><h3><a href="https://git.io/toto" target="_blank">九评之一：评共产党是什么</a></h3></td>
+<td width=150 ><a href="https://github.com/sodore/dsds/blob/master/audio/9ping1a-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
 <td>
-<img src="images/2018-04-11_125802.jpg" width=100>  </td>
-<td width=650><h3><a href="https://git.io/toto" target="_blank">九评之二：评中国共产党是怎样起家的</a></h3></td>
-<td width=130><a href="https://github.com/sodore/dsds/blob/master/audio/9ping2-16k.mp3?raw=true">mp3.下载</a></td></tr>
+
+<td width=550><h3><a href="https://git.io/toto" target="_blank">九评之二：评中国共产党是怎样起家的</a></h3></td>
+<td width=150><a href="https://github.com/sodore/dsds/blob/master/audio/9ping2-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
 <td>
-<img src="images/2018-04-11_125802.jpg" width=100>  </td>
-<td width=650><h3><a href="https://git.io/toto" target="_blank">九评之三: 评中国共产党的暴政</a></h3></td>
-<td width=130><a href="https://github.com/sodore/dsds/blob/master/audio/9ping3-16k.mp3?raw=true">mp3.下载</a></td></tr>
+
+<td width=550><h3><a href="https://git.io/toto" target="_blank">九评之三: 评中国共产党的暴政</a></h3></td>
+<td width=150><a href="https://github.com/sodore/dsds/blob/master/audio/9ping3-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
 <td>
-<img src="images/2018-04-11_125802.jpg" width=100>  </td>
-<td width=650><h3><a href="https://git.io/toto" target="_blank">九评之四：评共产党是反宇宙的力量</a></h3></td>
-<td width=130><a href="https://github.com/sodore/dsds/blob/master/audio/9ping4-16k.mp3?raw=true">mp3.下载</a></td></tr>
+
+<td width=550><h3><a href="https://git.io/toto" target="_blank">九评之四：评共产党是反宇宙的力量</a></h3></td>
+<td width=150><a href="https://github.com/sodore/dsds/blob/master/audio/9ping4-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
 <td>
-<img src="images/2018-04-11_125802.jpg" width=100>  </td>
-<td width=650><h3><a href="https://git.io/toto" target="_blank">九评之五：评江泽民与中共相互利用迫害法轮功</a></h3></td>
-<td width=130><a href="https://github.com/sodore/dsds/blob/master/audio/9ping5-16k.mp3?raw=true">mp3.下载</a></td></tr>
+
+<td width=550><h3><a href="https://git.io/toto" target="_blank">九评之五：评江泽民与中共相互利用迫害法轮功</a></h3></td>
+<td width=150><a href="https://github.com/sodore/dsds/blob/master/audio/9ping5-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
 <td>
-<img src="images/2018-04-11_125802.jpg" width=100>  </td>
-<td width=650><h3><a href="https://git.io/toto" target="_blank">九评之六：评中国共产党破坏民族文化</a></h3></td>
-<td width=130><a href="https://github.com/sodore/dsds/blob/master/audio/9ping6-16k.mp3?raw=true">mp3.下载</a></td></tr>
+
+<td width=550><h3><a href="https://git.io/toto" target="_blank">九评之六：评中国共产党破坏民族文化</a></h3></td>
+<td width=150><a href="https://github.com/sodore/dsds/blob/master/audio/9ping6-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
 <td>
-<img src="images/2018-04-11_125802.jpg" width=100>  </td>
-<td width=650><h3><a href="https://git.io/toto" target="_blank">九评之七：评中国共产党的杀人历史</a></h3></td>
-<td width=130><a href="https://github.com/sodore/dsds/blob/master/audio/9ping7-16k.mp3?raw=true">mp3.下载</a></td></tr>
+
+<td width=550><h3><a href="https://git.io/toto" target="_blank">九评之七：评中国共产党的杀人历史</a></h3></td>
+<td width=150><a href="https://github.com/sodore/dsds/blob/master/audio/9ping7-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
 <td>
-<img src="images/2018-04-11_125802.jpg" width=100>  </td>
-<td width=650><h3><a href="https://git.io/toto" target="_blank">九评之八：评中国共产党的邪教本质</a></h3></td>
-<td width=130><a href="https://github.com/sodore/dsds/blob/master/audio/9ping8-16k.mp3?raw=true">mp3.下载</a></td></tr>
+
+<td width=550><h3><a href="https://git.io/toto" target="_blank">九评之八：评中国共产党的邪教本质</a></h3></td>
+<td width=150><a href="https://github.com/sodore/dsds/blob/master/audio/9ping8-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
  <td>
-<img src="images/2018-04-11_125802.jpg" width=100>  </td>
-<td width=650><h3><a href="https://git.io/toto" target="_blank">九评之九：评中国共产党的流氓本性</a></h3></td>
-<td width=130><a href="https://github.com/sodore/dsds/blob/master/audio/9ping9-16k.mp3?raw=true">mp3.下载</a></td></tr>
+
+<td width=550><h3><a href="https://git.io/toto" target="_blank">九评之九：评中国共产党的流氓本性</a></h3></td>
+<td width=150><a href="https://github.com/sodore/dsds/blob/master/audio/9ping9-16k.mp3?raw=true">mp3.下载</a></td></tr>
 
 </table>
 
