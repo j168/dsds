@@ -350,40 +350,52 @@
 
 <table>
 <tr>
-<td width=550 ><a href="https://git.io/toto" target="_blank">九评之一：评共产党是什么</a></td>
-<td width=330 ><a href="https://github.com/sodore/dsds/blob/master/audio/9ping1a-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=550 ><a href="https://git.io/toto" target="_blank">【突破封锁看世界】</a></td>
+<td width=330 ><a href="https://github.com/sodore/dsds/blob/master/book/fangqian.epub?raw=true">(翻墙软件手册).下载</a></td></tr>
 
 <tr>
-<td width=550><a href="https://git.io/toto" target="_blank">九评之二：评中国共产党是怎样起家的</a></td>
-<td width=330><a href="https://github.com/sodore/dsds/blob/master/audio/9ping2-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=550><a href="https://git.io/toto" target="_blank">【《共产主义的终极目的-中国篇》】</a></td>
+<td width=330><a href="https://github.com/sodore/dsds/blob/master/book/goalmp3Npr.epub ?raw=true"> (音频全书-实体镶崁) .下载</a></td></tr>
 
 <tr>
-<td width=550><a href="https://git.io/toto" target="_blank">九评之三: 评中国共产党的暴政</a></td>
-<td width=150><a href="https://github.com/sodore/dsds/blob/master/audio/9ping3-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=550><a href="https://git.io/toto" target="_blank">【九评共产党】</a></td>
+<td width=150><a href="https://github.com/sodore/dsds/blob/master/book/9-mp3-jpgcdm4a5k.epub?raw=true"> (音频全书-实体镶崁) .下载</a></td></tr>
 
 <tr>
-<td width=550><a href="https://git.io/toto" target="_blank">九评之四：评共产党是反宇宙的力量</a></td>
-<td width=150><a href="https://github.com/sodore/dsds/blob/master/audio/9ping4-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=550><a href="https://git.io/toto" target="_blank">【三亿退党潮】</a></td>
+<td width=150><a href="https://github.com/sodore/dsds/blob/master/book/300Mst-s .epub?raw=true">(圖文、視頻).下载</a></td></tr>
 
 <tr>
-<td width=550><a href="https://git.io/toto" target="_blank">九评之五：评江泽民与中共相互利用迫害法轮功</a></td>
-<td width=150><a href="https://github.com/sodore/dsds/blob/master/audio/9ping5-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=550><a href="https://git.io/toto" target="_blank">【为什么要三退】</a></td>
+<td width=150><a href="https://github.com/sodore/dsds/blob/master/book/whytd.epub?raw=true">(圖文、音頻).下载</a></td></tr>
 
 <tr>
-<td width=550><a href="https://git.io/toto" target="_blank">九评之六：评中国共产党破坏民族文化</a></td>
-<td width=150><a href="https://github.com/sodore/dsds/blob/master/audio/9ping6-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=550><a href="https://git.io/toto" target="_blank">【法轮大法洪传世界】</a></td>
+<td width=150><a href="https://github.com/sodore/dsds/blob/master/book/fldfhao.epub?raw=true">(圖文、音頻).下载</a></td></tr>
 
 <tr>
-<td width=550><a href="https://git.io/toto" target="_blank">九评之七：评中国共产党的杀人历史</a></td>
-<td width=150><a href="https://github.com/sodore/dsds/blob/master/audio/9ping7-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=550><a href="https://git.io/toto" target="_blank">【风雨天地行】</a></td>
+<td width=150><a href="https://github.com/sodore/dsds/blob/master/book/fytdx-2.0-20161012.epub?raw=true">(圖文).下载</a></td></tr>
 
 <tr>
-<td width=550><a href="https://git.io/toto" target="_blank">九评之八：评中国共产党的邪教本质</a></td>
-<td width=150><a href="https://github.com/sodore/dsds/blob/master/audio/9ping8-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=550><a href="https://git.io/toto" target="_blank">【一位律师的肺腑直言】</a></td>
+<td width=150><a href="https://github.com/sodore/dsds/blob/master/book/lawyer.epub?raw=true">(圖文).下载</a></td></tr>
 
 <tr>
 <td width=550><a href="https://git.io/toto" target="_blank">九评之九：评中国共产党的流氓本性</a></td>
 <td width=150><a href="https://github.com/sodore/dsds/blob/master/audio/9ping9-16k.mp3?raw=true">mp3.下载</a></td></tr>
+
+
+<tr>
+<td width=550><a href="https://git.io/toto" target="_blank">九评之九：评中国共产党的流氓本性</a></td>
+<td width=150><a href="https://github.com/sodore/dsds/blob/master/audio/9ping9-16k.mp3?raw=true">mp3.下载</a></td></tr>
+
+<tr>
+<td width=550><a href="https://git.io/toto" target="_blank">九评之九：评中国共产党的流氓本性</a></td>
+<td width=150><a href="https://github.com/sodore/dsds/blob/master/audio/9ping9-16k.mp3?raw=true">mp3.下载</a></td></tr>
+
+
+
 
 </table>
 
