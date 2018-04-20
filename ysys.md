@@ -340,13 +340,13 @@
 
 ■ <a href="https://git.io/toto">《共产主义的终极目的——中国篇》https://git.io/toto 视频、音频和电子书,请妥为收藏，下载观看。
 </a></td></tr>
-
+</table>
 <hr>
 
-<div align=center>
+
 <img src="images/2018-04-09_134218.jpg"width=50><h2 align=center><a href="https://git.io/ysys" target="_blank">(推荐) 电子书（ePub版） 免费下载阅读</a></h2>
 	
-</div>
+
 
 <table>
 <tr>
@@ -382,19 +382,38 @@
 <td width=150><a href="https://github.com/sodore/dsds/blob/master/book/lawyer.epub?raw=true">(圖文).下载</a></td></tr>
 
 <tr>
-<td width=550><a href="https://git.io/toto" target="_blank">九评之九：评中国共产党的流氓本性</a></td>
-<td width=150><a href="https://github.com/sodore/dsds/blob/master/audio/9ping9-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=550><a href="https://git.io/toto" target="_blank">【这个星球上前所未有的邪恶】</a></td>
+<td width=150><a href="https://github.com/sodore/dsds/blob/master/book/oh.epub?raw=true">(圖文、視頻).下载</a></td></tr>
 
 
 <tr>
-<td width=550><a href="https://git.io/toto" target="_blank">九评之九：评中国共产党的流氓本性</a></td>
-<td width=150><a href="https://github.com/sodore/dsds/blob/master/audio/9ping9-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=550><a href="https://git.io/toto" target="_blank">【1400例谎言的背后】</a></td>
+<td width=150><a href="https://github.com/sodore/dsds/blob/master/book/1400-pavl.epub?raw=true">(圖文、視頻).下载</a></td></tr>
 
 <tr>
-<td width=550><a href="https://git.io/toto" target="_blank">九评之九：评中国共产党的流氓本性</a></td>
-<td width=150><a href="https://github.com/sodore/dsds/blob/master/audio/9ping9-16k.mp3?raw=true">mp3.下载</a></td></tr>
+<td width=550><a href="https://git.io/toto" target="_blank">【天安门自焚是中共栽赃陷害法轮功的骗局】</a></td>
+<td width=150><a href="https://github.com/sodore/dsds/blob/master/book/zfzx.epub?raw=true">(圖文、視頻).下载</a></td></tr>
+
+<tr>
+<td width=550><a href="https://git.io/toto" target="_blank">【江泽民其人】</a></td>
+<td width=150><a href="https://github.com/sodore/dsds/blob/master/book/jzmqr-pa-5k1-2018.epub?raw=true">(音频全书-实体镶崁-上).下载</a></td></tr>
+
+<tr>
+<td width=550><a href="https://git.io/toto" target="_blank">【江泽民其人】</a></td>
+<td width=150><a href="https://github.com/sodore/dsds/blob/master/book/jzmqr-pa-5k2-2018.epub?raw=true">(音频全书-实体镶崁-下).下载</a></td></tr>
 
 
+<tr>
+<td width=550><a href="https://git.io/toto" target="_blank">【解体党文化】</a></td>
+<td width=150><a href="https://github.com/sodore/dsds/blob/master/book/jtdwh-2.0-20180107.epub?raw=true">(圖文).下载</a></td></tr>
+
+<tr>
+<td width=550><a href="https://git.io/toto" target="_blank">【马克思的成魔之路】</a></td>
+<td width=150><a href="https://github.com/sodore/dsds/blob/master/book/Advanced-Seminar-cc-ppt-20161129.epub?raw=true">(圖文).下载</a></td></tr>
+
+<tr>
+<td width=550><a href="https://git.io/toto" target="_blank">【百年红祸】</a></td>
+<td width=150><a href="https://github.com/sodore/dsds/blob/master/book/bnhhv.epub?raw=true">(圖文).下载</a></td></tr>
 
 
 </table>
