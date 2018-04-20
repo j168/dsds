@@ -1,10 +1,9 @@
 <div align="center">
-<img src="images/2018-04-20_154812.jpg" width=680></p></div>
+<img src="images/2018-04-20_154812.jpg" width=780></p></div>
+
 
 <div align="center">
-<img src="images/2018-02-12_152004.jpg" width=680></p></div>
-<div align="center">
-<img src="images/p1546941a375985250-ss.jpg" width=500 ></p></div>
+<img src="images/p1546941a375985250-ss.jpg" width=600 ></p></div>
 
 
 
