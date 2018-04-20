@@ -344,7 +344,7 @@
 <hr>
 
 <div align=center>
-<img src="images/2018-04-09_134218.jpg"width=150><h2 align=center><a href="https://git.io/ysys" target="_blank">(推荐) 电子书（ePub版） 免费下载阅读</a></h2>
+<img src="images/2018-04-09_134218.jpg"width=100><h2 align=center><a href="https://git.io/ysys" target="_blank">(推荐) 电子书（ePub版） 免费下载阅读</a></h2>
 </div>
 
 
@@ -355,7 +355,7 @@
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【《共产主义的终极目的-中国篇》】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/goalmp3Npr.epub ?raw=true"> (音频全书-实体镶崁) .下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/goalmp3Npr.epub?raw=true"> (音频全书-实体镶崁) .下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【九评共产党】</a></td>
