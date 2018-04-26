@@ -7,7 +7,7 @@
 
 
 
-<h3 align="center"><b>下載 翻牆軟件</b></h3>
+<h3 align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/u1--7.04a.zip?raw=true'>下載 翻牆軟件</h3>
 
 <table>
 
@@ -24,7 +24,7 @@
 <div align="center">
 <img src="images/2018-02-13_021319.jpg" width=500></p></div>
 
-<h3 align="center"><b>下載 安装软件</b></h3>
+<h3 align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/um4.2a.apk?raw=true'>下載 安装软件</h3>
 
 <table>
  <td width="440"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true'>iPPOTV（爱博电视）.安装软件</a></td>
@@ -39,7 +39,7 @@
 <p></p>
 
 <hr>
-<h3 align="center"><b>在中国, 自由门和无界浏览是非常流行的翻墙软件。</b></h3>
+<h3 align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/um4.2a.apk?raw=true'>在中国, 自由门和无界浏览是非常流行的翻墙软件。</h3>
 
  翻墙(破网)软件绿色、安全、无毒、简单易用,助你长期突破网络封锁看更多国内国外被封锁的真相,维护你的知情权!</p>
  全程安全加密,让你访问的网站和浏览的内容无人知晓,并且不会在本机和互联网上留下任何上网痕迹,提醒你一定要正常退出。</p>
@@ -100,80 +100,80 @@
 <hr>
 
 <div align=center>
-<img src="images/2018-04-09_134218.jpg"width=100><h2 align=center><a href="https://git.io/ysys" target="_blank">(推荐) 电子书（ePub版） 免费下载阅读</a></h2>
+<img src="images/2018-04-09_134218.jpg"width=100><h2 align=center><a href="https://" target="_blank">(推荐) 电子书（ePub版） 免费下载阅读</a></h2>
 </div>
 
 
 <table>
 <tr>
-<td width=500 ><a href="https://git.io/toto" target="_blank">【突破封锁看世界】</a></td>
+<td width=500 ><a href="github.com/sodore/dsds/blob/master/book/fangqian.epub?raw=true" target="_blank">【突破封锁看世界】</a></td>
 <td width=380 ><a href="https://github.com/sodore/dsds/blob/master/book/fangqian.epub?raw=true">(翻墙软件手册).下载</a></td></tr>
 
 <tr>
-<td width=500><a href="https://git.io/toto" target="_blank">【《共产主义的终极目的-中国篇》】</a></td>
+<td width=500><a href="github.com/sodore/dsds/blob/master/book/goalmp3Npr.epub?raw=true" target="_blank">【《共产主义的终极目的-中国篇》】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/goalmp3Npr.epub?raw=true"> (音频全书-实体镶崁) .下载</a></td></tr>
 
 <tr>
-<td width=500><a href="https://git.io/toto" target="_blank">【九评共产党】</a></td>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/9-mp3-jpgcdm4a5k.epub?raw=true" target="_blank">【九评共产党】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/9-mp3-jpgcdm4a5k.epub?raw=true"> (音频全书-实体镶崁) .下载</a></td></tr>
 
 <tr>
-<td width=500><a href="https://git.io/toto" target="_blank">【三亿退党潮】</a></td>
+<td width=500><a href="github.com/sodore/dsds/blob/master/book/300Mst-s .epub?raw=true" target="_blank">【三亿退党潮】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/300Mst-s .epub?raw=true">(圖文、視頻).下载</a></td></tr>
 
 <tr>
-<td width=500><a href="https://git.io/toto" target="_blank">【为什么要三退】</a></td>
+<td width=500><a href="github.com/sodore/dsds/blob/master/book/whytd.epub?raw=true" target="_blank">【为什么要三退】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/whytd.epub?raw=true">(圖文、音頻).下载</a></td></tr>
 
 <tr>
-<td width=500><a href="https://git.io/toto" target="_blank">【认识法轮大好】</a></td>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/dfhao.epub?raw=true" target="_blank">【认识法轮大好】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/dfhao.epub?raw=true">(圖文、視頻).下载</a></td></tr>
 
 
 <tr>
-<td width=500><a href="https://git.io/toto" target="_blank">【法轮大法洪传世界】</a></td>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/fldfhao.epub?raw=true" target="_blank">【法轮大法洪传世界】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/fldfhao.epub?raw=true">(圖文、音頻).下载</a></td></tr>
 
 <tr>
-<td width=500><a href="https://git.io/toto" target="_blank">【风雨天地行】</a></td>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/fytdx-2.0-20161012.epub?raw=true" target="_blank">【风雨天地行】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/fytdx-2.0-20161012.epub?raw=true">(圖文).下载</a></td></tr>
 
 <tr>
-<td width=500><a href="https://git.io/toto" target="_blank">【一位律师的肺腑直言】</a></td>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/lawyer.epub?raw=true" target="_blank">【一位律师的肺腑直言】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/lawyer.epub?raw=true">(圖文).下载</a></td></tr>
 
 <tr>
-<td width=500><a href="https://git.io/toto" target="_blank">【这个星球上前所未有的邪恶】</a></td>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/oh.epub?raw=true" target="_blank">【这个星球上前所未有的邪恶】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/oh.epub?raw=true">(圖文、視頻).下载</a></td></tr>
 
 
 <tr>
-<td width=500><a href="https://git.io/toto" target="_blank">【1400例谎言的背后】</a></td>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/1400-pavl.epub?raw=true" target="_blank">【1400例谎言的背后】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/1400-pavl.epub?raw=true">(圖文、視頻).下载</a></td></tr>
 
 <tr>
-<td width=500><a href="https://git.io/toto" target="_blank">【天安门自焚是中共栽赃陷害法轮功的骗局】</a></td>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/zfzx.epub?raw=true" target="_blank">【天安门自焚是中共栽赃陷害法轮功的骗局】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/zfzx.epub?raw=true">(圖文、視頻).下载</a></td></tr>
 
 <tr>
-<td width=500><a href="https://git.io/toto" target="_blank">【江泽民其人】</a></td>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/jzmqr-pa-5k1-2018.epub?raw=true" target="_blank">【江泽民其人】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/jzmqr-pa-5k1-2018.epub?raw=true">(音频全书-实体镶崁-上).下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【江泽民其人】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/jzmqr-pa-5k2-2018.epub?raw=true">(音频全书-实体镶崁-下).下载</a></td></tr>
+<td width=380><a href="https://githubgithub.com/sodore/dsds/blob/master/book/jzmqr-pa-5k2-2018.epub?raw=true.com/sodore/dsds/blob/master/book/jzmqr-pa-5k2-2018.epub?raw=true">(音频全书-实体镶崁-下).下载</a></td></tr>
 
 
 <tr>
-<td width=500><a href="https://git.io/toto" target="_blank">【解体党文化】</a></td>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/jtdwh-2.0-20180107.epub?raw=true" target="_blank">【解体党文化】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/jtdwh-2.0-20180107.epub?raw=true">(圖文).下载</a></td></tr>
 
 <tr>
-<td width=500><a href="https://git.io/toto" target="_blank">【马克思的成魔之路】</a></td>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/Advanced-Seminar-cc-ppt-20161129.epub?raw=true" target="_blank">【马克思的成魔之路】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/Advanced-Seminar-cc-ppt-20161129.epub?raw=true">(圖文).下载</a></td></tr>
 
 <tr>
-<td width=500><a href="https://git.io/toto" target="_blank">【百年红祸】</a></td>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/bnhhv.epub?raw=true" target="_blank">【百年红祸】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/bnhhv.epub?raw=true">(圖文).下载</a></td></tr>
 
 
@@ -182,7 +182,4 @@
 
 <hr>
 
-<div align=center>
-<img src="images/2018-02-13_134647.jpg" width=400 >
 
-</div>
