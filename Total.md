@@ -119,7 +119,7 @@
 
 ******
 
-<h3 align="center"><b>以下是视频镶崁在epub格式电子书里面，只要下载电子书，可以很方便地阅读、聆听或观赏。</b></h3>
+<h3 align="center"><a href="https://?raw=true"><b>以下视频镶崁在epub格式电子书里面，方便阅读、聆听、观赏。</a></b></h3>
 
 <table>
 </td>
