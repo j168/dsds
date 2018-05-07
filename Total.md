@@ -57,11 +57,8 @@
 </table>
 
 ******
- <h2 align="center"><b>音频(mp3)下载：</b></h2>
 
-
- <h2 align="center"><b>epub格式电子书，方便阅读、聆听。</b></h2>
-<a href="https://github.com/sodore/dsds/blob/master/book/goalmp3Npr.epub?raw=true"><h3 align="center"> 音频(mp3)下载：epub格式电子书，简体版全书</a></h3>
+<a href="https://github.com/sodore/dsds/blob/master/book/goalmp3Npr.epub?raw=true"><h2 align="center"> 音频(mp3)下载：epub格式电子书，简体版全书</a></h2>
 
 
 ******
@@ -145,9 +142,9 @@
 	
 
 <tr>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/book/goalCh10.epub?raw=true">【共产主义的终极目的】(10). epub</a></center></td>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/book/goalCh11.epub?raw=true">【共产主义的终极目的】(11). epub</a></center></td>
-	<td><center><a href="https://github.com/sodore/dsds/blob/master/book/goalCh12.epub?raw=true">【共产主义的终极目的】(12). epub</a></center></td>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/book/goalCh10.epub?raw=true">【共产主义的终极目的】 (10). epub</a></center></td>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/book/goalCh11.epub?raw=true">【共产主义的终极目的】 (11). epub</a></center></td>
+	<td><center><a href="https://github.com/sodore/dsds/blob/master/book/goalCh12.epub?raw=true">【共产主义的终极目的】 (12). epub</a></center></td>
 </tr>
 	
 </table>
