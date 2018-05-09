@@ -106,7 +106,7 @@
 
 <table>
 <tr>
-<td width=500 ><a href="github.com/sodore/dsds/blob/master/book/fangqian.epub?raw=true" target="_blank">【突破封锁看世界】</a></td>
+<td width=500 ><a href="github.com/sodore/dsds/blob/master/book/fangqian-s.epub?raw=true" target="_blank">【突破封锁看世界】</a></td>
 <td width=380 ><a href="https://github.com/sodore/dsds/blob/master/book/fangqian.epub?raw=true">(翻墙软件手册).下载</a></td></tr>
 
 <tr>
