@@ -9,7 +9,7 @@
 <table>
           <tbody>
             <tr>
-              <td  align="center">
+              <td  width=880>
 <img src="images/TD-logo_400.png"width=550 align=center> 
 </td>
             </tr>
@@ -18,7 +18,14 @@
         </table>
    
 
+<table border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td align="center"><img src="images/TD-logo_400.png"width=550></td>
+</tr>
 
+</tbody>
+</table>
 
  1992年5月，李洪志先生传出的法轮大法（法轮功）明确指出，衡量好坏的标准是宇宙的特性——真、善、忍，告诉人们怎样才能使自己的道德回升以及回升的标准，给迷中的人指明了得救的方向。</p>
 自法轮功传出以来，在短短几年里中国有上亿人修炼，并传播到世界各地。修炼者身体健康、道德回升，同时带动着整个社会精神文明的回升。</p>
