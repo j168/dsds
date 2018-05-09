@@ -9,7 +9,7 @@
 <table>
           <tbody>
             <tr>
-              <td  width=880>
+              <td  width=880 align="center">
 <img src="images/TD-logo_400.png"width=550 align=center> 
 </td>
             </tr>
