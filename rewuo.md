@@ -6,11 +6,11 @@
 
 目前全球已有一百个以上的服务站或服务点。有成千上万的志愿者在为中国民众退出中共及其附属组织提供服务，通过各种现代通讯方式，向中国大陆和世界各地的华人广泛传播九评和退党消息，帮助发表退出中共党团队的声明。
 
-<table width=880 >
+<table>
           <tbody>
             <tr>
-              <td>
-<img src="images/TD-logo_400.png"width=550 > 
+              <td  width=880>
+<img src="images/TD-logo_400.png"width=550 align=center> 
 </td>
             </tr>
 
