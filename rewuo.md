@@ -1,5 +1,5 @@
 <div align=center>
-<img src="images/TD-logo_400.png"width=880>
+<img src="images/TD-logo_400.png"width=550>
 </div>
  <hr>
 2005年2月成立的「全球退党服务中心」 http://www.tuidang.org/,是专门为中国人声明「三→退」提供的平台，至今已经收到超过三亿人的三→退名单。
