@@ -658,7 +658,7 @@
 <table>
 <tr>
 <td width=500 ><a href="https://" target="_blank">【突破封锁看世界】</a></td>
-<td width=380 ><a href="https://github.com/sodore/dsds/blob/master/book/fangqian.epub?raw=true">(翻墙软件手册).下载</a></td></tr>
+<td width=380 ><a href="https://github.com/sodore/dsds/blob/master/book/fangqian-s.epub?raw=true">(翻墙软件手册).下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://" target="_blank">【《共产主义的终极目的-中国篇》】</a></td>
