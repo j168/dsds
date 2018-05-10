@@ -99,9 +99,9 @@
 
 <hr>
 <div align=center>
-<img src="images/2018-04-15_182301.jpg" width=880></div>
+<img src="images/2018-04-15_182301.jpg" width=680></div>
 
-<h2 align=center><a href='https://good>收听 "希望之声" 短波广播</a></h2>
+
  
   <div>
   <ul>
