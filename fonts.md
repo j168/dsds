@@ -102,8 +102,8 @@
 <div align="center">
 <img src="images/2018-04-15_182301.jpg" ></p></div>
 
-<table>
-<td width="880"  border="0" alt=""><h2 align=center><a href='https://>收听 "希望之声" 短波广播</td></a></h2></table>
+
+<h2 align=center><a href='https://>收听 "希望之声" 短波广播</a></h2>
  
 
 ■ 希望之声短波广播: 向中国大陆民众传输真实的声音, 包括: 不被过滤的新闻信息和评论, 揭露中共,  介绍法轮功修练人的故事及纯正的传统文化等。</p>
