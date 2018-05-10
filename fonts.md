@@ -130,8 +130,26 @@
 </li>
  </ul>
   </div>
+<h2 align=center><a href="https://"> "希望之声" 移动收听</a></h2>
+   <div>
+  <ul>
+  <li>希望之声新版手机应用在苹果、安卓平台同步推出了！精彩的电台联播、真实的新闻资讯、名家的评论、深邃的历史、轻松的音乐……尽在您的手指尖！立即安装、即刻拥有！</li>
+ </li>
+ </ul>
+  </div>
+ 
+ <div align=center>
+<img src="images/2018-05-10_160955.jpg" width=680 >
 
-  
+</div>
+ <table>
+<tr>
+<td width=450 ><img src="images/soh-qrcode.png"></td>
+       <td width=450>qrcode进入,点击安装，即刻收听</td>
+</tr>
+</table> 
+ 
+ 
  
 <hr>
 <div align=center>
