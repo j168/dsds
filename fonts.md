@@ -103,11 +103,9 @@
 <img src="images/2018-04-15_182301.jpg" ></p></div>
 
 <table>
-<td><h2 align=center><a href='https://>收听 "希望之声" 短波广播</td></a></h2></table>
+<td width="880"  border="0" alt=""><h2 align=center><a href='https://>收听 "希望之声" 短波广播</td></a></h2></table>
  
- <table>
-<tr>
-<td>
+
 ■ 希望之声短波广播: 向中国大陆民众传输真实的声音, 包括: 不被过滤的新闻信息和评论, 揭露中共,  介绍法轮功修练人的故事及纯正的传统文化等。</p>
 ■ 您只需要一台短波收音机, 既可接收外界讯息, 简便快速。</p>
 	
@@ -116,10 +114,8 @@
 ■ 适用环境:  乡村以及二三级城市的郊外,  效果尤佳。</p>
 	
 ■ 好处:  快捷 ,  不被封锁 ,  不需上网 ,  没有风险。</p>
-</tr>
-</td>
- </table>
-	<hr>
+
+<hr>
 <h2 align=center><a href='https://>"希望之聲" 短波頻道</a></h2>
  <table>
 <tr>
