@@ -140,12 +140,12 @@
  
  <div align=center>
 <img src="images/2018-05-10_160955.jpg" width=680 >
-<br/>
+<hr>
 </div>
  <table>
 <tr>
-<td width=450 ><img src="images/soh-qrcode.png"></td>
-       <td width=450><h2><a href="https://"> qrcode进入,点击安装，即刻收听</td></a></h2>
+<td width=450 align="center"><img src="images/soh-qrcode.png"></td>
+       <td width=450><h2 align="center"><a href="https://"> qrcode进入,点击安装，即刻收听</td></a></h2>
 </tr>
 </table> 
  
