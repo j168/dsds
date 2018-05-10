@@ -99,6 +99,58 @@
 
 <hr>
 
+<h2 id="sigil_toc_id_1">收听希望之声短波广播</h2>
+ <p></p>
+
+  <div class="zxxh">
+    <ul>
+    
+<li><span class="h3Minghui">■ </span> 希望之声短波广播: 向中国大陆民众传输真实的声
+音, 包括: 不被过滤的新闻信息和评论, 揭露中共,  介绍法轮功修练人的故事及纯正的传统文化等
+。</li>
+
+<li><span class="h3Minghui">■ </span>您只需要一台短波收音机, 既可接收外界讯息, 简
+便快速。</li>
+
+
+<li><span class="h3Minghui">■ </span>接收方法: 准备一个数字选台式短波收音机, 可以
+6M-18M中间搜寻可接收的频率。如果收听不清楚,  可移动收音机位置, 或使用天线, 调整天线方
+向及角度、让天线尾端接触大型金属设施, 不行就再寻找其他可听的频率。</li>
+
+
+<li><span class="h3Minghui">■ </span>  适用环境:  乡村以及二三级城市的郊外,  效果尤
+佳。</li>
+
+<li><span class="h3Minghui">■ </span> 好处:  快捷 ,  不被封锁 ,  不需上网 ,  没有风险。
+</li>
+<p></p>
+</ul>
+  </div>
+<br/>
+
+<div class="hh">希望之聲短波頻道</div>
+
+
+<table class="short-wave">
+<tbody>
+<tr>
+<td>FM 96.1</td>
+       <td>21:00 – 22:00</td>
+</tr>
+<tr>
+      <td>FM 96.9</td>
+<td>7:00 – 19:00</td>
+</tr>
+</tbody>
+</table>
+
+<br/>
+
+
+
+
+
+<hr>
 <div align=center>
 <img src="images/2018-04-09_134218.jpg"width=100><h2 align=center><a href="https://" target="_blank">(推荐) 电子书（ePub版） 免费下载阅读</a></h2>
 </div>
