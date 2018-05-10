@@ -103,7 +103,7 @@
 <img src="images/2018-04-15_182301.jpg" width=600></p></div>
 
 
-<h2 align=center>收听希望之声短波广播</h2>
+<h2 align=center><a href='https://>收听希望之声短波广播</h2>
  
  <table>
 <tr>
@@ -120,45 +120,19 @@
 </td>
  </table>
 	
-<h2 align=center>希望之聲短波頻道</h2>
+<h2 align=center><a href='https://>希望之聲短波頻道</h2>
  <table>
 <tr>
-<td width=450>FM 96.1</td>
-       <td width=450>21:00 – 22:00</td>
+<td width=450 ><h2 align=center>FM 96.1</td></h2>
+       <td width=450><h2 align=center>21:00 – 22:00</td></h2>
 </tr>
 <tr>
-      <td width=450>FM 96.9</td>
-<td width=450>7:00 – 19:00</td>
+      <td width=450><h2 align=center>FM 96.9</td></h2>
+<td width=450><h2 align=center>7:00 – 19:00</td></h2>
 </tr>
 	
 </table>
     
-
-
-
-
-
-<h2 align=center>希望之聲短波頻道</h2>
-
-
-<table width=880>
-<tbody>
-<tr>
-<td>FM 96.1</td>
-       <td>21:00 – 22:00</td>
-</tr>
-<tr>
-      <td>FM 96.9</td>
-<td>7:00 – 19:00</td>
-</tr>
-</tbody>
-</table>
-
-<br/>
-
-
-
-
 
 <hr>
 <div align=center>
