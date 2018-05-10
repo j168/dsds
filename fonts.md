@@ -99,9 +99,14 @@
 
 <hr>
 
+<div align="center">
+<img src="images/2018-04-15_182301.jpg" width=550></p></div>
+
+
 <h2 align=center>收听希望之声短波广播</h2>
  
  <table>
+<tbody>
 <tr>
 <td width=880>
 	■ 希望之声短波广播: 向中国大陆民众传输真实的声音, 包括: 不被过滤的新闻信息和评论, 揭露中共,  介绍法轮功修练人的故事及纯正的传统文化等
@@ -117,7 +122,6 @@
 	
 <h2 align=center>希望之聲短波頻道</h2>
 
-<tbody>
 <tr>
 <td>FM 96.1</td>
        <td>21:00 – 22:00</td>
@@ -126,13 +130,9 @@
       <td>FM 96.9</td>
 <td>7:00 – 19:00</td>
 </tr>
-</tbody>
 	
-</tr></td></table>
+</tbody></table>
     
-
-
-
 
 
 
