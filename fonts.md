@@ -102,6 +102,17 @@
 <img src="images/2018-04-15_182301.jpg" width=680></div>
 
 <h2 align=center><a href="https://">收听 "希望之声" 短波广播</a></h2>
+  <table>
+<tr>
+<td width=450 ><h3 align=center>FM 96.1</td></h3>
+       <td width=450><h3 align=center>21:00 – 22:00</td></h3>
+</tr>
+<tr>
+      <td width=450><h3 align=center>FM 96.9</td></h3>
+<td width=450><h3 align=center>7:00 – 19:00</td></h3>
+</tr>
+	
+</table>    
  
   <div>
   <ul>
@@ -122,21 +133,6 @@
 
   
  
- 
-
-<h2 align=center><a href="https://">"希望之聲" 短波頻道</a></h2>
- <table>
-<tr>
-<td width=450 ><h3 align=center>FM 96.1</td></h3>
-       <td width=450><h3 align=center>21:00 – 22:00</td></h3>
-</tr>
-<tr>
-      <td width=450><h3 align=center>FM 96.9</td></h3>
-<td width=450><h3 align=center>7:00 – 19:00</td></h3>
-</tr>
-	
-</table>    
-
 <hr>
 <div align=center>
 <img src="images/2018-04-09_134218.jpg"width=100><h2 align=center><a href="https://" target="_blank">(推荐) 电子书（ePub版） 免费下载阅读</a></h2>
