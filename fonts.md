@@ -100,10 +100,10 @@
 <hr>
 
 <div align="center">
-<img src="images/2018-04-15_182301.jpg" width=600></p></div>
+<img src="images/2018-04-15_182301.jpg" ></p></div>
 
 
-<h2 align=center><a href='https://>收听希望之声短波广播</h2>
+<h2 align=center><a href='https://>收听 "希望之声" 短波广播</a></h2>
  
  <table>
 <tr>
@@ -120,7 +120,7 @@
 </td>
  </table>
 	
-<h2 align=center><a href='https://>希望之聲短波頻道</h2>
+<h2 align=center><a href='https://>"希望之聲" 短波頻道></a></h2>
  <table>
 <tr>
 <td width=450 ><h2 align=center>FM 96.1</td></h2>
