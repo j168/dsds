@@ -112,19 +112,7 @@
 	
 ■ 好处:  快捷 ,  不被封锁 ,  不需上网 ,  没有风险。</p>
 
-<hr>
-<h2 align=center><a href='https://>"希望之聲" 短波頻道</a></h2>
- <table>
-<tr>
-<td width=450 ><h3 align=center>FM 96.1</td></h3>
-       <td width=450><h3 align=center>21:00 – 22:00</td></h3>
-</tr>
-<tr>
-      <td width=450><h3 align=center>FM 96.9</td></h3>
-<td width=450><h3 align=center>7:00 – 19:00</td></h3>
-</tr>
-	
-</table>
+
     
 
 <hr>
