@@ -14,8 +14,8 @@
  <td   width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/free--764p.zip?raw=true'>自由门.桌机版.zip</a></td>
  <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/fgma--dd.apk?raw=true'>自由门.安卓版.apk</a></td>
 
- <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/u1--7.04a.zip?raw=true'>无界浏览.桌机版.zip</a></td>
- <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/um4.2a.apk?raw=true'>无界浏览.安卓版.apk</a></td>
+ <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/kk-kk-18.2u.zip?raw=true'>无界浏览.桌机版.zip</a></td>
+ <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/ss-da-um.apk?raw=true'>无界浏览.安卓版.apk</a></td>
 </table>
 
 <p></p>
@@ -140,7 +140,7 @@
  
  <div align=center>
 <img src="images/2018-05-10_160955.jpg" width=680 >
-<hr>
+</p>
 </div>
  <table>
 <tr>
