@@ -32,25 +32,25 @@
  <a href="https://github.com/sodore/dsds/blob/master/book/Dafa story1.epub?raw=true">下载epub电子书 :【一位空軍少校穿越生死之旅】</a></td></tr>
 
 <tr>
-<td width=150><img src="images/1602191227241695-600x400.jpg" width=100></td>
+<td width=150><img src="images/1602191227241695-600x400.jpg" width=200></td>
 <td width=730>2000年6月19日晚，赵昕在北京紫竹院公园牡丹亭炼功时，被非法抓到公园派出所，后被海淀分局带走，非法关押在海淀分局清河看守所。在关押期间，赵昕绝食抗议，被强制灌食。<br />
 6月22日，赵昕遭到殴打，造成颈椎第4、5、6节粉碎性骨折，头部轻度外伤，左眼肿大有外伤，肺不能呼吸。当天晚上，生命垂危。<a href="https://github.com/sodore/dsds/blob/master/book/Dafa story2.epub?raw=true">下载epub电子书 :【一位青年教师的生命之歌】</a></td></tr>
 
 <tr>
-<td width=150><a href="https://git.io/toto" target="_blank">【九评共产党】</a></td>
-<td width=730><a href="https://github.com/sodore/dsds/blob/master/book/9-mp3-jpgcdm4a5k.epub?raw=true"> (音频全书-实体镶崁) .下载</a></td></tr>
+<td width=150><img src="images/1509011008432192.jpg" width=200></td>
+<td width=730>电视上的真相如一道闪电，撕破了中共红色恐怖下的层层铁幕，将中共陷害法轮功的阴谋一下子曝光在世人面前。阴暗的东西最怕曝光。“长春插播”事件像捅向邪恶心脏的利剑。<a href="https://github.com/sodore/dsds/blob/master/book/Dafa story3.epub?raw=true"> 下载epub电子书 :【 忆刘成军 】</a></td></tr>
 
 <tr>
-<td width=150><a href="https://git.io/toto" target="_blank">【三亿退党潮】</a></td>
-<td width=730><a href="https://github.com/sodore/dsds/blob/master/book/300Mst-s .epub?raw=true">(圖文、視頻).下载</a></td></tr>
+<td width=150><img src="images/1512041610372192-600x400.jpg" width=200></td>
+<td width=730>七年的魔难，两千多个黑暗的日夜，王连荣的心碎了。她好累！她亲眼目睹丈夫和儿子被酷刑折磨，眼睁睁地看着最疼爱的小女儿咽下最后一口气。她还先后送走了一对双胞胎儿子，他们死得惨啊！四个儿女，只有淑兰还在人世，却被判了七年半徒刑，关在大牢里。<a href="https://github.com/sodore/dsds/blob/master/book/Dafa story4.epub?raw=true"> 下载epub电子书 :【 河北农民陈运川一家的故事 】</a></td></tr>
 
 <tr>
-<td width=150><a href="https://git.io/toto" target="_blank">【为什么要三退】</a></td>
-<td width=730><a href="https://github.com/sodore/dsds/blob/master/book/whytd.epub?raw=true">(圖文、音頻).下载</a></td></tr>
+<td width=150><img src="images/2012-6-19-cmh-song-bing-600x400.jpg" width=200></td>
+<td width=730>从1999年9月到2001年，宋彦群和宋冰经历了许多次非法拘禁，辗转于北京的拘留所、舒兰市南山看守所和长春黑嘴子女子劳教所。被劳教期间，她们整天听着电棍辟里啪啦的电人声和法轮功学员的惨叫声，空气中飘散著皮肉被电糊的味道。<a href="https://github.com/sodore/dsds/blob/master/book/Dafa story5.epub?raw=true">下载epub电子书 :【 流泪的并蒂莲 】</a></td></tr>
 
 <tr>
-<td width=150><a href="https://git.io/toto" target="_blank">【认识法轮大好】</a></td>
-<td width=730><a href="https://github.com/sodore/dsds/blob/master/book/dfhao.epub?raw=true">(圖文、視頻).下载</a></td></tr>
+<td width=150><img src="images/1608021159191456-600x400.jpg width=200></td>
+<td width=730>在太平间，王可非的家属见到了这样的情景：王可非的脖子上缠了一卷卫生纸，大臂上勒著止血胶带，左手肿得像馒头一样。她的上身穿了一件破毛衣，袖子撸到腋下，下身裸露。尽管太平间满是冰霜，王可非的脸和身体摸上去还是温的，和活人体温相近，这说明人还没有死就被送来了。王可非的母亲瘫倒在地上，放声痛哭。家人质问在场的劳改医院院长：“王可非是怎么死的？为什么不通知家属？”院长吓得赶紧逃走。<a href="https://github.com/sodore/dsds/blob/master/book/Dafa story6.epub?raw=true">下载epub电子书 :【 长春农行最美女职员的悲惨遭遇 】</a></td></tr>
 
 
 <tr>
