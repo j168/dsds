@@ -42,7 +42,7 @@
 
 <tr>
 <td width=150><img src="images/1512041610372192-600x400.jpg" width=200></td>
-<td width=730>七年的魔难，两千多个黑暗的日夜，王连荣的心碎了。她好累！她亲眼目睹丈夫和儿子被酷刑折磨，眼睁睁地看着最疼爱的小女儿咽下最后一口气。她还先后送走了一对双胞胎儿子，他们死得惨啊！四个儿女，只有淑兰还在人世，却被判了七年半徒刑，关在大牢里。<<br />a href="https://github.com/sodore/dsds/blob/master/book/Dafa story4.epub?raw=true"> 下载epub电子书 :【 河北农民陈运川一家的故事 】</a></td></tr>
+<td width=730>七年的魔难，两千多个黑暗的日夜，王连荣的心碎了。她好累！她亲眼目睹丈夫和儿子被酷刑折磨，眼睁睁地看着最疼爱的小女儿咽下最后一口气。她还先后送走了一对双胞胎儿子，他们死得惨啊！四个儿女，只有淑兰还在人世，却被判了七年半徒刑，关在大牢里。<br /><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story4.epub?raw=true"> 下载epub电子书 :【 河北农民陈运川一家的故事 】</a></td></tr>
 
 <tr>
 <td width=150><img src="images/2012-6-19-cmh-song-bing-600x400.jpg" width=200></td>
