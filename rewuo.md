@@ -5,7 +5,7 @@
 
 
 <div align=center>
-<img src="images/flg-ys.jpg">
+<img src="images/flg-ysss.jpg">
 </div>
  <hr>
 
@@ -25,6 +25,8 @@
 
 每一天，都记载了正邪交战的惊心动魄；每一天，都见证了高贵心灵的坚忍不屈。
  <hr>
+ 
+<h2><a href="https://>大法弟子因信仰被活活残酷折磨致死的案例 </h2> </a> 
 <table>
 <tr>
 <td width=150 ><img src="images/1602040554111695.jpg" width=100></td>
