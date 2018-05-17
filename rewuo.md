@@ -23,11 +23,11 @@
  <hr>
 <table>
 <tr>
-<td width=500 ><<img src="images/flg-ys.jpg"></td>
-<td width=380 ><a href="https://github.com/sodore/dsds/blob/master/book/fangqian-s.epub?raw=true">中共党魁江泽民发动对法轮功的镇压，本来就是“欲加之罪何患无辞”。明慧网一直是个教人向善的地方，迫害开始后增加了国内学员受迫害的冤屈案例。最后，上海浦东新区法院竟以“教人上明慧网”这样荒唐的“罪名”判了胡志明四年徒刑，把他塞进了监狱。.下载</a></td></tr>
+<td width=500 ><img src="images/1602040554111695.jpg"></td>
+<td width=380 ><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story1.epub?raw=true">中共党魁江泽民发动对法轮功的镇压，本来就是“欲加之罪何患无辞”。明慧网一直是个教人向善的地方，迫害开始后增加了国内学员受迫害的冤屈案例。最后，上海浦东新区法院竟以“教人上明慧网”这样荒唐的“罪名”判了胡志明四年徒刑，把他塞进了监狱。.下载epub电子书【一位空軍少校穿越生死之旅】</a></td></tr>
 
 <tr>
-<td width=500><a href="https://git.io/toto" target="_blank">【《共产主义的终极目的-中国篇》】</a></td>
+<td width=500><a href="https://git.io/toto" target="_blank">【电子书】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/goalmp3Npr.epub?raw=true"> (音频全书-实体镶崁) .下载</a></td></tr>
 
 <tr>
