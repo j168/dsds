@@ -49,7 +49,7 @@
 <td width=730>从1999年9月到2001年，宋彦群和宋冰经历了许多次非法拘禁，辗转于北京的拘留所、舒兰市南山看守所和长春黑嘴子女子劳教所。被劳教期间，她们整天听着电棍辟里啪啦的电人声和法轮功学员的惨叫声，空气中飘散著皮肉被电糊的味道。<br /><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story5.epub?raw=true">下载epub电子书 :【 流泪的并蒂莲 】</a></td></tr>
 
 <tr>
-<td width=150><img src="images/1608021159191456-600x400.jpg width=200></td>
+<td width=150><img src="images/1608021159191456-600x400.jpg" width=200></td>
 <td width=730>在太平间，王可非的家属见到了这样的情景：王可非的脖子上缠了一卷卫生纸，大臂上勒著止血胶带，左手肿得像馒头一样。她的上身穿了一件破毛衣，袖子撸到腋下，下身裸露。尽管太平间满是冰霜，王可非的脸和身体摸上去还是温的，和活人体温相近，这说明人还没有死就被送来了。王可非的母亲瘫倒在地上，放声痛哭。家人质问在场的劳改医院院长：“王可非是怎么死的？为什么不通知家属？”院长吓得赶紧逃走。<br /><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story6.epub?raw=true">下载epub电子书 :【 长春农行最美女职员的悲惨遭遇 】</a></td></tr>
 
 
