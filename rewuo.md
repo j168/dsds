@@ -20,11 +20,11 @@
 每一个听闻此事的人，都会扪心自问：善恶是非面前，我该站在哪一边？
 
 多名大法弟子因信仰被活活残酷折磨致死的案例，上面有名有姓，还有具体事件的全部过程，都是执法人员干的。对法轮功这个信仰群体的迫害天理难容！
-
+ <hr>
 <table>
 <tr>
-<td width=500 ><a href="https://git.io/toto" target="_blank">【突破封锁看世界】</a></td>
-<td width=380 ><a href="https://github.com/sodore/dsds/blob/master/book/fangqian-s.epub?raw=true">(翻墙软件手册).下载</a></td></tr>
+<td width=500 ><<img src="images/flg-ys.jpg"></td>
+<td width=380 ><a href="https://github.com/sodore/dsds/blob/master/book/fangqian-s.epub?raw=true">中共党魁江泽民发动对法轮功的镇压，本来就是“欲加之罪何患无辞”。明慧网一直是个教人向善的地方，迫害开始后增加了国内学员受迫害的冤屈案例。最后，上海浦东新区法院竟以“教人上明慧网”这样荒唐的“罪名”判了胡志明四年徒刑，把他塞进了监狱。.下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【《共产主义的终极目的-中国篇》】</a></td>
