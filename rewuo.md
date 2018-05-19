@@ -119,7 +119,7 @@
 </td>
 </tr>
 <tr>
-	<td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/hh235.jpg" width="265"  border="0" alt=""></td>
+	<td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/hh235.jpg" width="265" align=center border="0" alt=""></td>
 	<td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/hh548.jpg"   border="0" alt=""></td>
 </tr>
 
@@ -178,7 +178,7 @@
 </td>
 </tr>
 <tr>
-	<td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/img1196f9097600.jpg" width="200"  border="0" alt=""></td>
+	<td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/img1196f9097600.jpg" width="200" align=center border="0" alt=""></td>
 	<td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/imge831c2380ee4.jpg"   border="0" alt=""></td>
 </tr>
 
