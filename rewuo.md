@@ -178,7 +178,7 @@
 </td>
 </tr>
 <tr>
-	<td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/img1196f9097600.jpg" width="200" align="center" border="0" alt=""></td>
+	<td width="440"><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/img1196f9097600.jpg" width="200"  border="0" alt=""></td></div>
 	<td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/imge831c2380ee4.jpg"   border="0" alt=""></td>
 </tr>
 
@@ -234,7 +234,7 @@
 <div align=center>
 <img src="images/20171027-nina-Taipei-101-600x450.jpg" width=680></div>
 ▲ 英国维吾尔协会负责人、肿瘤外科医师安华托帝表示，新疆某机场出现为特殊旅客、人体器官运输专门开辟的快速通道。（安华托帝‧博格达提供）
-<div align=center>
+<div align=center> <br />
 <img src="images/33e8d860b1a6c032da17dc0c2354e7cc-450x236.jpg" width=680></div>
 <div align=center>▲ 医师指出，活摘器官在中国大陆已形成产业。(AFP)</div>
 </p>
