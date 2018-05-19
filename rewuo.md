@@ -55,7 +55,7 @@
 
 
 <tr>
-<td width=150><a href="https://git.io/toto" target="_blank">【法轮大法洪传世界】</a></td>
+<td width=150><img src="images/1608021159191456-600x400.jpg" width=200></td>
 <td width=730><a href="https://github.com/sodore/dsds/blob/master/book/fldfhao.epub?raw=true">(圖文、音頻).下载</a></td></tr>
 
 <tr>
