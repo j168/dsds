@@ -83,8 +83,8 @@
 
 <tr>
 <td >
-<h3 align="center">以上只是冰山一角，上明慧网了解更多真相<a href="https://git.io/waaa"> https://git.io/waaa 推荐使用'火狐'等非国产浏览器访问！</h3></a><br />
-<h3 align="center">"法轮大法"epub电子书:<a href="https://github.com/sodore/dsds/blob/master/book/dfhao.epub?raw=true">下载: dfhao.epub </h3></a>
+以上只是冰山一角，上明慧网了解更多真相<a href="https://git.io/waaa"> https://git.io/waaa 推荐使用'火狐'等非国产浏览器访问！</a><br />
+"法轮大法"epub电子书:<a href="https://github.com/sodore/dsds/blob/master/book/dfhao.epub?raw=true">下载: dfhao.epub </a>
 </td></tr>
 </table>
 <hr>
