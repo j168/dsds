@@ -38,7 +38,7 @@
 </tr>
 
 </table>
- 
+ <hr>
 <table>
 <tr>
 <td width=150 ><img src="images/1602040554111695.jpg" width=100></td>
@@ -82,12 +82,12 @@
 她还负责喷农药，喷洒设备灌满农药后，瘦小的远鹰根本背不起来。好不容易同修帮她掂著背起来，她也是摇摇晃晃，差点向后仰过去。<br /><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story10.epub?raw=true">下载epub电子书 :【 姚遠鷹的故事 】</a></td></tr>
 
 </table>
-<a href="https://git.io/waaa">以上只是冰山一角，上明慧网了解更多真相 https://git.io/waaa </a>
-
+<a href="https://git.io/waaa">以上只是冰山一角，上明慧网了解更多真相 https://git.io/waaa 推荐使用'火狐'等非国产浏览器访问！</a>
+<a href="https://github.com/sodore/dsds/blob/master/book/dfhao.epub?raw=true">下载"法轮大法"epub电子书: dfhao.epub </a>
 <hr>
 
 <div align=center>
-<img src="images/2018-05-16_173435.jpg.png">
+<img src="images/2018-05-16_173435.jpg">
 </div>
  <hr>
 
