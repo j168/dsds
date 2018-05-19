@@ -81,11 +81,11 @@
 无论冬夏，远鹰还必须从事高强度的体力劳动。夏天30多度的高温下，她被安排在闷热的大棚里翻地、拉粪、推很重的农车。很多人因中暑昏过去了，她靠着对大法的正信正念才挺过来。<br />
 她还负责喷农药，喷洒设备灌满农药后，瘦小的远鹰根本背不起来。好不容易同修帮她掂著背起来，她也是摇摇晃晃，差点向后仰过去。<br /><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story10.epub?raw=true">下载epub电子书 :【 姚遠鷹的故事 】</a></td></tr>
 
-<tr>
+
 <td >
 以上只是冰山一角，上明慧网了解更多真相<a href="https://git.io/waaa"> https://git.io/waaa 推荐使用'火狐'等非国产浏览器访问！</a><br />
-"法轮大法"epub电子书:<a href="https://github.com/sodore/dsds/blob/master/book/dfhao.epub?raw=true">下载: dfhao.epub </a>
-</td></tr>
+<h3 align="center">"法轮大法"epub电子书:<a href="https://github.com/sodore/dsds/blob/master/book/dfhao.epub?raw=true">下载: dfhao.epub </h3></a>
+</td>
 </table>
 <hr>
 
