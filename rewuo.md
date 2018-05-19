@@ -55,51 +55,18 @@
 
 
 <tr>
-<td width=150><img src="images/1608021159191456-600x400.jpg" width=200></td>
-<td width=730><a href="https://github.com/sodore/dsds/blob/master/book/fldfhao.epub?raw=true">(圖文、音頻).下载</a></td></tr>
+<td width=150><img src="images/2006-11-7-yuanjiang-ss.jpg" width=200></td>
+<td width=730>王志君打开门，吓了一跳。门口站着一个人，蓬头垢面，口鼻流血，衣裤破烂不堪。撕破了的上衣兜里，露著几绺萝卜缨子。裤子像是被剪刀绞过的，整条腿就像干瘪的枯枝，膝盖以下都是黑紫色，小腿和脚上有一块地方没了皮肉，露著骨头。“你是谁？”“我是袁江。”王志君惊呆了，怔怔地再多看对方几眼，瞬间泪如泉涌。<br /><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story8.epub?raw=true">下载epub电子书 :【 酷刑下的勇者——袁江 】</a></td></tr>
 
 <tr>
-<td width=150><a href="https://git.io/toto" target="_blank">【风雨天地行】</a></td>
-<td width=730><a href="https://github.com/sodore/dsds/blob/master/book/fytdx-2.0-20161012.epub?raw=true">(圖文).下载</a></td></tr>
+<td width=150><img src="images/2001-7-7-zuo-600x400.jpg" width=200></td>
+<td width=730>一个信仰“真、善、忍”的好人，家中的孝子、单位的敬业员工、快乐的未婚夫，一夜之间被害死。如此杀人命案，居然不能进入司法程序，杀人凶手逍遥法外，继续作恶。上访信、控告状寄了无数份均无回音。最合情合理合法的重新鉴定申请无人受理，因为左志刚是法轮功学员，河北省政法委秘密下令，不让立案。据说检察院曾经想介入调查，却不了了之。这是什么世道！<br /><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story9.epub?raw=true">下载epub电子书 :【 五月飞雪——石家庄奇冤 】</a></td></tr>
 
 <tr>
-<td width=150><a href="https://git.io/toto" target="_blank">【一位律师的肺腑直言】</a></td>
-<td width=730><a href="https://github.com/sodore/dsds/blob/master/book/lawyer.epub?raw=true">(圖文).下载</a></td></tr>
-
-<tr>
-<td width=150><a href="https://git.io/toto" target="_blank">【这个星球上前所未有的邪恶】</a></td>
-<td width=730><a href="https://github.com/sodore/dsds/blob/master/book/oh.epub?raw=true">(圖文、視頻).下载</a></td></tr>
-
-
-<tr>
-<td width=150><a href="https://git.io/toto" target="_blank">【1400例谎言的背后】</a></td>
-<td width=730><a href="https://github.com/sodore/dsds/blob/master/book/1400-pavl.epub?raw=true">(圖文、視頻).下载</a></td></tr>
-
-<tr>
-<td width=150><a href="https://git.io/toto" target="_blank">【天安门自焚是中共栽赃陷害法轮功的骗局】</a></td>
-<td width=730><a href="https://github.com/sodore/dsds/blob/master/book/zfzx.epub?raw=true">(圖文、視頻).下载</a></td></tr>
-
-<tr>
-<td width=150><a href="https://git.io/toto" target="_blank">【江泽民其人】</a></td>
-<td width=730><a href="https://github.com/sodore/dsds/blob/master/book/jzmqr-pa-5k1-2018.epub?raw=true">(音频全书-实体镶崁-上).下载</a></td></tr>
-
-<tr>
-<td width=150><a href="https://git.io/toto" target="_blank">【江泽民其人】</a></td>
-<td width=730><a href="https://github.com/sodore/dsds/blob/master/book/jzmqr-pa-5k2-2018.epub?raw=true">(音频全书-实体镶崁-下).下载</a></td></tr>
-
-
-<tr>
-<td width=150><a href="https://git.io/toto" target="_blank">【解体党文化】</a></td>
-<td width=730><a href="https://github.com/sodore/dsds/blob/master/book/jtdwh-2.0-20180107.epub?raw=true">(圖文).下载</a></td></tr>
-
-<tr>
-<td width=150><a href="https://git.io/toto" target="_blank">【马克思的成魔之路】</a></td>
-<td width=730><a href="https://github.com/sodore/dsds/blob/master/book/Advanced-Seminar-cc-ppt-20161129.epub?raw=true">(圖文).下载</a></td></tr>
-
-<tr>
-<td width=150><a href="https://git.io/toto" target="_blank">【百年红祸】</a></td>
-<td width=730><a href="https://github.com/sodore/dsds/blob/master/book/bnhhv.epub?raw=true">(圖文).下载</a></td></tr>
-
+<td width=150><img src="images/3cbf2e383102ab1ffecd393bd09b8e16-600x400.jpg" width=200></td>
+<td width=730>她们被迫连续十几个小时，以标准坐姿坐在儿童椅上，以至于腿脚肿胀，背部和臀部瘀青、甚至溃烂。<br />
+无论冬夏，远鹰还必须从事高强度的体力劳动。夏天30多度的高温下，她被安排在闷热的大棚里翻地、拉粪、推很重的农车。很多人因中暑昏过去了，她靠着对大法的正信正念才挺过来。<br />
+她还负责喷农药，喷洒设备灌满农药后，瘦小的远鹰根本背不起来。好不容易同修帮她掂著背起来，她也是摇摇晃晃，差点向后仰过去。<br /><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story10.epub?raw=true">下载epub电子书 :【 姚遠鷹的故事 】</a></td></tr>
 
 </table>
 
