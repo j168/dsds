@@ -25,8 +25,8 @@
 <img src="images/flg-ysss.jpg">
 </div>
  <hr>
-<h2 align="center"><a href="https://">以下是中国大陆"大法弟子"因信仰被活活残酷折磨，甚至被迫害致死的故事 </h2> </a> 
-<a href="https://git.io/1802">下载epub电子书阅读器apk  https://git.io/1802   </a> 
+<h3 align="center"><a href="https://">以下是中国大陆"大法弟子"因信仰被活活残酷折磨，甚至被迫害致死的故事 </h3> </a> 
+ <div align=center><a href="https://git.io/1802">下载epub电子书阅读器apk  https://git.io/1802   </a> </div>
  
 <table>
 <tr>
@@ -71,7 +71,7 @@
 她还负责喷农药，喷洒设备灌满农药后，瘦小的远鹰根本背不起来。好不容易同修帮她掂著背起来，她也是摇摇晃晃，差点向后仰过去。<br /><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story10.epub?raw=true">下载epub电子书 :【 姚遠鷹的故事 】</a></td></tr>
 
 </table>
-
+<hr>
 #### 阅读电子书，如果是安卓系统，您需要安装APP，建议您使用 <a href="https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily&hl=zh_cn" target="_blank">reasily</a>
 #### 如果是苹果的装置，本身自带的 ibook就能开启 。</p>
 #### 如果是桌机，假如作业系统是 win10， 那么自带的 Edge 可以开启。</p>
