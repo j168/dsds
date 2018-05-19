@@ -1,8 +1,7 @@
 <div align=center>
-<img src="images/dfzh_0319s.png">
+<img src="images/r-flg-zw-Header_v2.jpg">
 </div>
  <hr>
-
 
 <div align=center>
 <img src="images/flg-ysss.jpg">
@@ -26,7 +25,7 @@
 每一天，都记载了正邪交战的惊心动魄；每一天，都见证了高贵心灵的坚忍不屈。
  <hr>
  
-<h2 align="center"><a href="https://">以下是大法弟子因信仰被活活残酷折磨致死的案例 </h2> </a> 
+<h2 align="center"><a href="https://">以下是大法弟子因信仰被活活残酷折磨，甚至被迫害致死的案例 </h2> </a> 
 <table>
 <tr>
 <td width=150 ><img src="images/1602040554111695.jpg" width=100></td>
@@ -111,3 +110,10 @@
 #### 至于firefox 插件， 建议使用 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/" target="_blank">epubReader</a>
 
 ******
+
+
+<div align=center>
+<img src="images/dfzh_0319s.png">
+</div>
+ <hr>
+
