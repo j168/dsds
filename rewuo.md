@@ -3,10 +3,7 @@
 </div>
  <hr>
 
-<div align=center>
-<img src="images/flg-ysss.jpg">
-</div>
- <hr>
+
 
 在中国大陆，亿万名普通的百姓，只求拥有平淡如水的日子，踏实地工作和生活。然而，在暴政强权下，这种最基本的愿望竟成了一种奢求。十九年来，狂风和暴雨，卷走了多少鲜艳的花朵，压碎了数不清的幸福和梦想。暗夜里，浸著漫漫泪水，传来声声呼喊。
 
@@ -24,8 +21,13 @@
 
 每一天，都记载了正邪交战的惊心动魄；每一天，都见证了高贵心灵的坚忍不屈。
  <hr>
+ <div align=center>
+<img src="images/flg-ysss.jpg">
+</div>
+ <hr>
+<h2 align="center"><a href="https://">以下是中国大陆"大法弟子"因信仰被活活残酷折磨，甚至被迫害致死的故事 </h2> </a> 
+<a href="https://git.io/1802">下载epub电子书阅读器apk  https://git.io/1802   </a> 
  
-<h2 align="center"><a href="https://">以下是大法弟子因信仰被活活残酷折磨，甚至被迫害致死的案例 </h2> </a> 
 <table>
 <tr>
 <td width=150 ><img src="images/1602040554111695.jpg" width=100></td>
