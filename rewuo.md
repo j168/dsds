@@ -178,7 +178,7 @@
 </td>
 </tr>
 <tr>
-	<td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/img1196f9097600.jpg" width="200" align=center border="0" alt=""></td>
+	<td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/img1196f9097600.jpg" width="200" align="center" border="0" alt=""></td>
 	<td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/imge831c2380ee4.jpg"   border="0" alt=""></td>
 </tr>
 
@@ -223,7 +223,7 @@
 有人问他，「如果时间倒流，你后悔吗？」安华说，放弃医职当然后悔，不过，如再一次，他仍会义无反顾选择站在正义的一方，因为揭开这件事，是每一个人的道德责任。
 
 「中共就是恶魔、甚至比魔鬼还坏，我们不应该让恶魔存在，这是人类的悲剧，也是人类最大的失误」，安华托帝提醒所有人，不要对中共抱有任何幻想，活摘器官将是引爆中共垮台的关键事件。#
-
+<hr>
 
 <h3 align=center><a href="https://">新疆大抽血 中共密建器官库</a></h3>
 
@@ -236,7 +236,7 @@
 ▲ 英国维吾尔协会负责人、肿瘤外科医师安华托帝表示，新疆某机场出现为特殊旅客、人体器官运输专门开辟的快速通道。（安华托帝‧博格达提供）
 <div align=center>
 <img src="images/33e8d860b1a6c032da17dc0c2354e7cc-450x236.jpg" width=680></div>
-▲ 医师指出，活摘器官在中国大陆已形成产业。(AFP)
+<div align=center>▲ 医师指出，活摘器官在中国大陆已形成产业。(AFP)</div>
 </p>
 <h3 align=center><a href="https://">机场为运输器官 设快速通道</a></h3>
 
