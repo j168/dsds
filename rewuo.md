@@ -77,9 +77,7 @@
 
 <tr>
 <td width=150><img src="images/3cbf2e383102ab1ffecd393bd09b8e16-600x400.jpg" width=200></td>
-<td width=730>她们被迫连续十几个小时，以标准坐姿坐在儿童椅上，以至于腿脚肿胀，背部和臀部瘀青、甚至溃烂。<br />
-无论冬夏，远鹰还必须从事高强度的体力劳动。夏天30多度的高温下，她被安排在闷热的大棚里翻地、拉粪、推很重的农车。很多人因中暑昏过去了，她靠着对大法的正信正念才挺过来。<br />
-她还负责喷农药，喷洒设备灌满农药后，瘦小的远鹰根本背不起来。好不容易同修帮她掂著背起来，她也是摇摇晃晃，差点向后仰过去。<br /><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story10.epub?raw=true">下载epub电子书 :【 姚遠鷹的故事 】</a></td></tr>
+<td width=730>她们被迫连续十几个小时，以标准坐姿坐在儿童椅上，以至于腿脚肿胀，背部和臀部瘀青、甚至溃烂。无论冬夏，远鹰还必须从事高强度的体力劳动。夏天30多度的高温下，她被安排在闷热的大棚里翻地、拉粪、推很重的农车。很多人因中暑昏过去了，她靠着对大法的正信正念才挺过来。她还负责喷农药，喷洒设备灌满农药后，瘦小的远鹰根本背不起来。好不容易同修帮她掂著背起来，她也是摇摇晃晃，差点向后仰过去。<br /><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story10.epub?raw=true">下载epub电子书 :【 姚遠鷹的故事 】</a></td></tr>
 </table>
 
 <table>
@@ -148,18 +146,28 @@
 <tr>
 	<td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/img42249c15fd31.jpg"   border="0" alt=""></td>
 	<td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/hh230.jpg"   border="0" alt=""></td>
+</tr>
+
+<tr>
 	<td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/pic1.jpg"   border="0" alt=""></td>
 <td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/2016-06-14-575f993b8e600.jpg"   border="0" alt=""></td>
+</tr>
+<tr>
 <td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/2018-05-20_111848.jpg"   border="0" alt=""></td>
 <td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/2018-05-20_112748.jpg"   border="0" alt=""></td>
-	
-</tr>
+	</tr>
 
 <tr>
  	<td width="440">▲ 中国器官移植数量从1999年开始上升，和从1999年中共迫害法轮功同步，在2003年～2006年期间暴涨，达到高峰。中国在短时间内成为器官移植大国，但是中共声称的器官来自死刑犯根本解释不了这些数量庞大的器官移植。</td>
 <td width="440">▲《大纪元》获知情人提供的录音证实，2006年9月13日时任商务部长的薄熙来跟随时任中共总理温家宝访问德国汉堡时，曾亲口承认“江泽民下达了活摘法轮功学员器官的命令”。</td>
+	</tr>
+	
+<tr>
 <td width="440">▲ 欧议会议案制止中共活摘器官<br />2013年12月12日欧洲议会通过紧急议案，要求中共立即停止活体摘取良心犯、以及宗教信仰和少数族裔团体器官的行为，并立即释放包括法轮功学员在内的所有良心犯。数十名欧洲议会议员发言强烈谴责中共活摘器官的罪行。</td>
 <td width="440">▲ 美国议会谴责中共迫害法轮功<br />美国国会在2002年、2004年及2010年陆续通过188号、304号及605号决议案，要求中共停止迫害法轮功。2016年2月25日美国两党国会议员在众议院发起343号决议案，要求中共立即停止针对法轮功学员和其他良心犯的强摘器官行为。</td>
+</tr>
+
+<tr>
 <td width="440">▲ 加拿大历届总理持续关注法轮功人权<br />加拿大新任总理特鲁多在2015年11月APEC会议期间会面中国国家主席习近平时，关注法轮功在中国遭受的迫害。加拿大是第一个站出来呼吁中共停止迫害的国家，历届总理马田和哈珀在会见中共领导时都曾提出法轮功和人权问题。<br />
 (上图左起:马田、哈珀、特鲁多)</td>
 <td width="440">▲ 全球逾百万民众签名要求制止中共迫害法轮功随着中共活摘器官的罪行在全世界大量曝光，全球各地民众纷纷签名要求中共停止迫害法轮功。2013年12月10日“医生反对强摘器官”国际组织将全球一百五十万人反对中共活摘法轮功学员器官的签名递交给联合国。中国大陆民众也开始参与反活摘签名，包括唐山、天津、秦皇岛、张家口、石家庄、衡水、保定、秦皇岛、湖南等地，已逾五万人签名反对中共活摘法轮功学员器官。</td>
@@ -199,7 +207,7 @@
 	</tr>
 </table>
 <hr>
-<h3 align=center><a href="https://">新疆流亡医生揭活摘器官：中共如恶魔</a></h3>
+<h2 align=center><a href="https://">新疆流亡医生揭活摘器官：中共如恶魔</a></h2>
 
 <div align=center>
 <img src="images/5ab36f8a71f2ac7d7468dfef9f1da00e-600x400.jpg" width=680></div>
