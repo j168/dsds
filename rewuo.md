@@ -159,7 +159,7 @@
 </td>
 </tr>
 <tr>
-	<td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/pic1.jpg"   border="0" alt=""></td>
+	<td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/pic1.jpg" width="350"  border="0" alt=""></td>
 <td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/2016-06-14-575f993b8e600.jpg"   border="0" alt=""></td>
 </tr>
 <tr>
@@ -173,7 +173,7 @@
 </tr>
 <tr>
 <td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/2018-05-20_111848.jpg"   border="0" alt=""></td>
-<td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/2018-05-20_112748.jpg"  width="400" border="0" alt=""></td>
+<td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/2018-05-20_112748.jpg"  width="350" border="0" alt=""></td>
 	</tr>
 <tr>
 <td width="440">▲ 加拿大历届总理持续关注法轮功人权<br />加拿大新任总理特鲁多在2015年11月APEC会议期间会面中国国家主席习近平时，关注法轮功在中国遭受的迫害。加拿大是第一个站出来呼吁中共停止迫害的国家，历届总理马田和哈珀在会见中共领导时都曾提出法轮功和人权问题。<br />
