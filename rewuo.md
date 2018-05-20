@@ -41,7 +41,7 @@
  <hr>
 <table>
 <tr>
-<td width=150 ><img src="images/1602040554111695.jpg" width=100></td>
+	<td width=150 ><div align=center><img src="images/1602040554111695.jpg" width=100></td></div>
 <td width=730 >中共党魁江泽民发动对法轮功的镇压，本来就是“欲加之罪何患无辞”。明慧网一直是个教人向善的地方，迫害开始后增加了国内学员受迫害的冤屈案例。最后，上海浦东新区法院竟以“教人上明慧网”这样荒唐的“罪名”判了胡志明四年徒刑，把他塞进了监狱。<br />
  <a href="https://github.com/sodore/dsds/blob/master/book/Dafa story1.epub?raw=true">下载epub电子书 :【一位空軍少校穿越生死之旅】</a></td></tr>
 
@@ -51,7 +51,7 @@
 6月22日，赵昕遭到殴打，造成颈椎第4、5、6节粉碎性骨折，头部轻度外伤，左眼肿大有外伤，肺不能呼吸。当天晚上，生命垂危。<br /><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story2.epub?raw=true">下载epub电子书 :【一位青年教师的生命之歌】</a></td></tr>
 
 <tr>
-<td width=150><img src="images/1509011008432192.jpg" width=80></td>
+<td width=150><div align=center><img src="images/1509011008432192.jpg" width=80></td></div>
 <td width=730>电视上的真相如一道闪电，撕破了中共红色恐怖下的层层铁幕，将中共陷害法轮功的阴谋一下子曝光在世人面前。阴暗的东西最怕曝光。“长春插播”事件像捅向邪恶心脏的利剑。<br /><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story3.epub?raw=true"> 下载epub电子书 :【 忆刘成军 】</a></td></tr>
 
 <tr>
@@ -148,11 +148,21 @@
 <tr>
 	<td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/img42249c15fd31.jpg"   border="0" alt=""></td>
 	<td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/hh230.jpg"   border="0" alt=""></td>
+	<td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/pic1.jpg"   border="0" alt=""></td>
+<td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/2016-06-14-575f993b8e600.jpg"   border="0" alt=""></td>
+<td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/2018-05-20_111848.jpg"   border="0" alt=""></td>
+<td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/2018-05-20_112748.jpg"   border="0" alt=""></td>
+	
 </tr>
 
 <tr>
  	<td width="440">▲ 中国器官移植数量从1999年开始上升，和从1999年中共迫害法轮功同步，在2003年～2006年期间暴涨，达到高峰。中国在短时间内成为器官移植大国，但是中共声称的器官来自死刑犯根本解释不了这些数量庞大的器官移植。</td>
 <td width="440">▲《大纪元》获知情人提供的录音证实，2006年9月13日时任商务部长的薄熙来跟随时任中共总理温家宝访问德国汉堡时，曾亲口承认“江泽民下达了活摘法轮功学员器官的命令”。</td>
+<td width="440">▲ 欧议会议案制止中共活摘器官<br />2013年12月12日欧洲议会通过紧急议案，要求中共立即停止活体摘取良心犯、以及宗教信仰和少数族裔团体器官的行为，并立即释放包括法轮功学员在内的所有良心犯。数十名欧洲议会议员发言强烈谴责中共活摘器官的罪行。</td>
+<td width="440">▲ 美国议会谴责中共迫害法轮功<br />美国国会在2002年、2004年及2010年陆续通过188号、304号及605号决议案，要求中共停止迫害法轮功。2016年2月25日美国两党国会议员在众议院发起343号决议案，要求中共立即停止针对法轮功学员和其他良心犯的强摘器官行为。</td>
+<td width="440">▲ 加拿大历届总理持续关注法轮功人权<br />加拿大新任总理特鲁多在2015年11月APEC会议期间会面中国国家主席习近平时，关注法轮功在中国遭受的迫害。加拿大是第一个站出来呼吁中共停止迫害的国家，历届总理马田和哈珀在会见中共领导时都曾提出法轮功和人权问题。<br />
+(上图左起:马田、哈珀、特鲁多)</td>
+<td width="440">▲ 全球逾百万民众签名要求制止中共迫害法轮功随着中共活摘器官的罪行在全世界大量曝光，全球各地民众纷纷签名要求中共停止迫害法轮功。2013年12月10日“医生反对强摘器官”国际组织将全球一百五十万人反对中共活摘法轮功学员器官的签名递交给联合国。中国大陆民众也开始参与反活摘签名，包括唐山、天津、秦皇岛、张家口、石家庄、衡水、保定、秦皇岛、湖南等地，已逾五万人签名反对中共活摘法轮功学员器官。</td>
 
 </tr>
 </table>
