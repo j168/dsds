@@ -1,5 +1,5 @@
 <div align=center>
-<img src="images/r-flg-zw-Header_v2.jpg">
+<img src="images/r-flg-zw-Header_v2.jpg" width=880>
 </div>
  <hr>
 
