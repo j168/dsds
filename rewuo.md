@@ -341,7 +341,7 @@
 薄熙来：江主席！</p>
 
 《薄熙来录音曝光揭中共掩盖的黑幕（录音）》http://www.minghui.org/mh/articles/2013/8/31/278889.html </p>
- （ <a href="https://git.io/ysys">翻墙访问 https://git.io/ysys</a> )
+ （ <a href="https://git.io/ysys">翻墙方法见 https://git.io/ysys</a> )
 </td> 
 </tr>
  </table>
@@ -403,7 +403,7 @@
   <tr>
 <td>
 <h3 align=center><a href="https://">更多调查录音节录</a></h3>
-多方证据显示，大量法轮功学员被以活体摘取器官的方式屠杀。这种为盗取器官而“按需杀人”的行为，完全冲破了人的道德底线，这种反人类罪，让全世界为之震惊！</p>( 详情请翻墙访问：http://www.zhuichaguoji.org/node/65694 )
+多方证据显示，大量法轮功学员被以活体摘取器官的方式屠杀。这种为盗取器官而“按需杀人”的行为，完全冲破了人的道德底线，这种反人类罪，让全世界为之震惊！</p>( 详情请翻墙访问：http://www.zhuichaguoji.org/node/65694 )  ( 翻墙方法见<a href="https://git.io/ysys"> https://git.io/ysys）)</a>
 	
 </td> 
 </tr>
@@ -471,7 +471,9 @@
  </table>
  <hr>
 
-
+<div align=center>
+<img src="images/25.png">
+</div>
 
 
 
