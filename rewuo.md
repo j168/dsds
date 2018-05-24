@@ -110,15 +110,17 @@
 </tr></td>
 </table>
 
+<hr>
 <div align=center>
 <img src="images/2018-05-16_173435.jpg" width=680>
 </div>
 
-<h2 align=center><a href="https://"> 难以置信！但铁证如山！</a> </h2>
+
  
 <table>
   <tr>
 <td>
+	<h2 align=center><a href="https://"> 难以置信！但铁证如山！</a> </h2></p>
 <a href="https://">难以置信！</a><br />
 十多年前，一个闻所未闻的词语突然闯到了我们面前——活摘！人们先是震惊得目瞪口呆，然后是摇头——完全不相信：不相信会有这样的事情发生，因为它不只是挑战了人类心理承受的极限，更是超出了人类想象力的底线！我们也多么希望这样的事情没有发生。</p>
 
