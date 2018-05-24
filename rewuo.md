@@ -210,7 +210,7 @@
 
 <table>
 <tr>
-<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/2018-05-20_112748.jpg"  width="440" ></div>
+<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/2018-05-20_112748.jpg"  width="580" ></div>
 	<div align=center>▲ 全球逾百万民众签名要求制止中共迫害法轮功</div><br />随着中共活摘器官的罪行在全世界大量曝光，全球各地民众纷纷签名要求中共停止迫害法轮功。2013年12月10日“医生反对强摘器官”国际组织将全球一百五十万人反对中共活摘法轮功学员器官的签名递交给联合国。中国大陆民众也开始参与反活摘签名，包括唐山、天津、秦皇岛、张家口、石家庄、衡水、保定、秦皇岛、湖南等地，已逾五万人签名反对中共活摘法轮功学员器官。</td>
 
 </tr>
@@ -296,7 +296,7 @@
 <img src="images/20171027-nina-Taipei-101-600x450.jpg" width=680></div>
 ▲ 英国维吾尔协会负责人、肿瘤外科医师安华托帝表示，新疆某机场出现为特殊旅客、人体器官运输专门开辟的快速通道。（安华托帝‧博格达提供）
 <div align=center> <br />
-<img src="images/33e8d860b1a6c032da17dc0c2354e7cc-450x236.jpg" width=680></div>
+<img src="images/33e8d860b1a6c032da17dc0c2354e7cc-450x236.jpg" width=480></div>
 <div align=center>▲ 医师指出，活摘器官在中国大陆已形成产业。(AFP)</div>
 </p>
 <h3 align=center><a href="https://">机场为运输器官 设快速通道</a></h3>
