@@ -475,7 +475,31 @@
 <img src="images/25.jpg">
 </div>
 
+<table>
+<tr>
+<td width=500 ><a href="https://git.io/toto" target="_blank">【 中共活体摘取法轮功学员器官br群体灭绝性大屠杀 】</a></td>
+<td width=380 ><a href="https://github.com/sodore/dsds/blob/master/book/flg23.epub?raw=true">(圖文、視頻、音頻).下载</a></td></tr>
 
+<tr>
+<td width=500><a href="https://git.io/toto" target="_blank">【 渝妇被活摘器官时逃生 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/cji59.epub?raw=true"> (圖文、視頻、音頻) .下载</a></td></tr>
+
+<tr>
+<td width=500><a href="https://git.io/toto" target="_blank">【 讓法官傻眼的辦證詞 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/hgty48.epub?raw=true">  (圖文、視頻) .下载</a></td></tr>
+
+<tr>
+<td width=500><a href="https://git.io/toto" target="_blank">【 順天意得平安 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/3wjo1.epub?raw=true">(圖文).下载</a></td></tr>
+
+<tr>
+<td width=500><a href="https://git.io/toto" target="_blank">【 傳奇人生 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/kks-ed.epub?raw=true">(圖文、音頻).下载</a></td></tr>
+
+<tr>
+<td width=500><a href="https://git.io/toto" target="_blank">【 “四‧二五”中南海万人上访真相 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/425-20.epub?raw=true">(圖文、音頻).下载</a></td></tr>
+</table>
 
 <div align=center>
 <img src="images/so-kk2.jpg">
