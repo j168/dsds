@@ -33,7 +33,7 @@
 <img src="images/flg-ysss.jpg">
 </div>
 
-<h3 align="center"><a href="https://">以下是中国大陆"大法弟子"因信仰被活活残酷折磨，甚至被迫害致死的故事 </h3> </a> 
+<h3 align="center"><a href="https://">【 以下是中国大陆"大法弟子"因信仰被活活残酷折磨，甚至被迫害致死的故事 】</h3> </a> 
  
 
 <table>
