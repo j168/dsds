@@ -2,6 +2,10 @@
 <img src="images/r-flg-zw-Header_v2.jpg" width=880>
 </div>
 
+<div align=center>
+<img src="images/34_ttl7dayFH7.jpg" >
+</div>
+
 <table>
   <tr>
 <td>
