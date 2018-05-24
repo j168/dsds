@@ -98,7 +98,7 @@
  <tr>
 <td width=880>
  <div align=center>■ 以上只是冰山一角，上明慧网了解更多真相<a href="https://git.io/waaa"> https://git.io/waaa </a>推荐使用'火狐'等非国产浏览器访问！ </div>
- <div align=center>■ 认识"法轮大法"epub电子书:<a href="https://github.com/sodore/dsds/blob/master/book/dfhao.epub?raw=true">下载: dfhao.epub </a> </div>
+ <div align=center>■ 认识"法轮大法"epub电子书<a href="https://github.com/sodore/dsds/blob/master/book/dfhao.epub?raw=true">下载: dfhao.epub </a> </div>
 </tr></td>
 </table>
 <hr>
@@ -130,18 +130,20 @@
  <h2 align=center><a href="https://">海外独立调查：中共强摘器官，数量惊人</a></h2>
 
   <table>
-</td>
-</tr>
-<tr>
-	<td width="440"><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/hh235.jpg" width="265" align=center border="0" alt=""></td></div>
-	<td width="440"><img src="https://github.com/sodore/dsds/blob/master/images/hh548.jpg"   border="0" alt=""></td>
-</tr>
 
 <tr>
-	<td width="440">▲ 加拿大人权律师大卫‧麦塔斯和前亚太司司长戴维‧ 乔高将调查报告集结成《血腥的活摘器官》一书，包含不可辩驳的52种证据。</td>
-<td width="440">▲ 前美国智库研究员、独立记者伊森‧葛特曼从2006年开始调查中共活摘良心犯的器官，他的书《大屠杀》中估计从2 0 0 0 - 2 0 0 8年间，至少有6.5万名法轮功学员被强摘器官。</td>
+	<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/hh235.jpg" width="400" ></div>
+	▲ 加拿大人权律师大卫‧麦塔斯和前亚太司司长戴维‧ 乔高将调查报告集结成《血腥的活摘器官》一书，包含不可辩驳的52种证据。</td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/hh548.jpg"  width="400"></div>
+	▲ 前美国智库研究员、独立记者伊森‧葛特曼从2006年开始调查中共活摘良心犯的器官，他的书《大屠杀》中估计从2 0 0 0 - 2 0 0 8年间，至少有6.5万名法轮功学员被强摘器官。</td>
+</tr>
+</table>
+	
   <hr>
   
   <h2 align=center><a href="https://">活摘器官的惊天黑幕震惊国际</a></h2>
