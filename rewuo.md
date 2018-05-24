@@ -39,7 +39,7 @@
 <table>
   <tr>
 <td>
-<div align=center><a href="https://git.io/1802">下载epub电子书阅读器apk  https://git.io/1802   </a> </div>
+<div align=center><a href="https://git.io/1802">下载epub电子书阅读器apk  https://git.io/1802   </a> </div></p>
 阅读电子书，如果是安卓系统，您需要安装APP，建议您使用 <a href="https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily&hl=zh_cn" target="_blank">reasily 。 </a>
 如果是苹果的装置，本身自带的 ibook就能开启 。</p>
 是桌机，假如作业系统是 win10， 那么自带的 Edge 可以开启。否则要安装 chrome 的插件 <a href="https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl"  target="_blank">readium</a>,才能阅读。
