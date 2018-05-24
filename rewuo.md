@@ -2,7 +2,9 @@
 <img src="images/r-flg-zw-Header_v2.jpg" width=880>
 </div>
 
-
+<table>
+  <tr>
+<td>
 在中国大陆，亿万名普通的百姓，只求拥有平淡如水的日子，踏实地工作和生活。然而，在暴政强权下，这种最基本的愿望竟成了一种奢求。十九年来，狂风和暴雨，卷走了多少鲜艳的花朵，压碎了数不清的幸福和梦想。暗夜里，浸著漫漫泪水，传来声声呼喊。
 
 法轮功是修炼，对政权没有任何兴趣，也无意改变人类社会，但是这个按照“真、善、忍”修心做好人的巨大人群，是中国社会道德的基石，是社会道德回升的希望，是中国未来的希望。
@@ -18,23 +20,26 @@
 自1999年7月开始，中共江泽民集团倾举国之力镇压精神信仰团体——法轮功。广播、电视、报纸，铺天盖地地充满了诽谤法轮功的宣传。在诽谤的后面，是难以掩盖的疯狂和血腥。罪恶就在那片历经沧桑的土地上发生著。
 
 每一天，都记载了正邪交战的惊心动魄；每一天，都见证了高贵心灵的坚忍不屈。
+</td></tr>
+</table>
+
  <hr>
  <div align=center>
 <img src="images/flg-ysss.jpg">
 </div>
 
 <h3 align="center"><a href="https://">以下是中国大陆"大法弟子"因信仰被活活残酷折磨，甚至被迫害致死的故事 </h3> </a> 
- <div align=center><a href="https://git.io/1802">下载epub电子书阅读器apk  https://git.io/1802   </a> </div>
+ 
 
 <table>
   <tr>
 <td>
+<div align=center><a href="https://git.io/1802">下载epub电子书阅读器apk  https://git.io/1802   </a> </div>
 阅读电子书，如果是安卓系统，您需要安装APP，建议您使用 <a href="https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily&hl=zh_cn" target="_blank">reasily 。 </a>
 如果是苹果的装置，本身自带的 ibook就能开启 。</p>
 是桌机，假如作业系统是 win10， 那么自带的 Edge 可以开启。否则要安装 chrome 的插件 <a href="https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl"  target="_blank">readium</a>,才能阅读。
 至于firefox 插件， 建议使用 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/" target="_blank">epubReader</a></td>
 </tr>
-
 </table>
 
 <table>
@@ -127,7 +132,6 @@
  <h2 align=center><a href="https://">海外独立调查：中共强摘器官，数量惊人</a></h2>
 
   <table>
-
 <tr>
 	<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/hh235.jpg" width="440" ></div>
 	▲ 加拿大人权律师大卫‧麦塔斯和前亚太司司长戴维‧ 乔高将调查报告集结成《血腥的活摘器官》一书，包含不可辩驳的52种证据。</td>
@@ -172,14 +176,14 @@
 <table>
 <tr>
 <td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/pic1.jpg" width="400"></div>
-	▲ 欧议会议案制止中共活摘器官<br />2013年12月12日欧洲议会通过紧急议案，要求中共立即停止活体摘取良心犯、以及宗教信仰和少数族裔团体器官的行为，并立即释放包括法轮功学员在内的所有良心犯。数十名欧洲议会议员发言强烈谴责中共活摘器官的罪行。</td>
+	<div align=center>▲ 欧议会议案制止中共活摘器官</div><br />2013年12月12日欧洲议会通过紧急议案，要求中共立即停止活体摘取良心犯、以及宗教信仰和少数族裔团体器官的行为，并立即释放包括法轮功学员在内的所有良心犯。数十名欧洲议会议员发言强烈谴责中共活摘器官的罪行。</td>
 	</tr>
  </table>
 
 <table>
 <tr>
 <td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/2016-06-14-575f993b8e600.jpg"  width="440"></div>
-▲ 美国议会谴责中共迫害法轮功<br />美国国会在2002年、2004年及2010年陆续通过188号、304号及605号决议案，要求中共停止迫害法轮功。2016年2月25日美国两党国会议员在众议院发起343号决议案，要求中共立即停止针对法轮功学员和其他良心犯的强摘器官行为。</td>
+<div align=center>▲ 美国议会谴责中共迫害法轮功</div><br />美国国会在2002年、2004年及2010年陆续通过188号、304号及605号决议案，要求中共停止迫害法轮功。2016年2月25日美国两党国会议员在众议院发起343号决议案，要求中共立即停止针对法轮功学员和其他良心犯的强摘器官行为。</td>
 </tr>
  </table>
 
@@ -187,7 +191,7 @@
 <table>
 <tr>
 <td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/2018-05-20_111848.jpg" width="440"></div>
-	▲ 加拿大历届总理持续关注法轮功人权<br />加拿大新任总理特鲁多在2015年11月APEC会议期间会面中国国家主席习近平时，关注法轮功在中国遭受的迫害。加拿大是第一个站出来呼吁中共停止迫害的国家，历届总理马田和哈珀在会见中共领导时都曾提出法轮功和人权问题。<br />
+	<div align=center>▲ 加拿大历届总理持续关注法轮功人权</div> <br />加拿大新任总理特鲁多在2015年11月APEC会议期间会面中国国家主席习近平时，关注法轮功在中国遭受的迫害。加拿大是第一个站出来呼吁中共停止迫害的国家，历届总理马田和哈珀在会见中共领导时都曾提出法轮功和人权问题。<br />
 (上图左起:马田、哈珀、特鲁多)</td>
 </tr>
 </table>
@@ -195,7 +199,7 @@
 <table>
 <tr>
 <td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/2018-05-20_112748.jpg"  width="440" ></div>
-	▲ 全球逾百万民众签名要求制止中共迫害法轮功<br />随着中共活摘器官的罪行在全世界大量曝光，全球各地民众纷纷签名要求中共停止迫害法轮功。2013年12月10日“医生反对强摘器官”国际组织将全球一百五十万人反对中共活摘法轮功学员器官的签名递交给联合国。中国大陆民众也开始参与反活摘签名，包括唐山、天津、秦皇岛、张家口、石家庄、衡水、保定、秦皇岛、湖南等地，已逾五万人签名反对中共活摘法轮功学员器官。</td>
+	<div align=center>▲ 全球逾百万民众签名要求制止中共迫害法轮功</div><br />随着中共活摘器官的罪行在全世界大量曝光，全球各地民众纷纷签名要求中共停止迫害法轮功。2013年12月10日“医生反对强摘器官”国际组织将全球一百五十万人反对中共活摘法轮功学员器官的签名递交给联合国。中国大陆民众也开始参与反活摘签名，包括唐山、天津、秦皇岛、张家口、石家庄、衡水、保定、秦皇岛、湖南等地，已逾五万人签名反对中共活摘法轮功学员器官。</td>
 
 </tr>
 </table>
@@ -217,14 +221,14 @@
 
 <table>
 <tr>
-<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/img1196f9097600.jpg" width="440"></div>
+<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/img1196f9097600.jpg" width="240"></div>
 	▲ 法轮功学员王斌，原大庆油田勘探开发研究院计算器软件工程师，曾获国家科技二等奖。被大庆男子劳教所打到重伤不治，遇害后王斌的心脏、大脑被剖出，内脏被野蛮摘取。王斌的妻子到太平间认尸时，暗中拍下这张骇人的照片。</td>	
 	</tr>	
 	</table>	
 <table>
 <tr>
 <td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/imge831c2380ee4.jpg"  width="440"></div>
-	▲ 这是国外的尸体展中一个标本：年轻的中国孕妇和其腹中八个月大的胎儿。<br />
+	<div align=center>▲ 这是国外的尸体展中一个标本：年轻的中国孕妇和其腹中八个月大的胎儿。</div><br />
 	这个尸体展招致社会普遍的强烈抗议、愤怒：在传统观念深厚的中国，谁会将尸体制成标本展览？这具尸体的来源更是受到质疑：按照中国法律，孕妇不能处极刑，而且即使是车祸死亡，哪个家属会捐赠自己的妻子和未出生孩子的尸体呢？尸体展中的人体标本来自中国大连尸体加工厂，这样的尸体加工厂在大连有两家：哈根斯大连生物塑化公司和大连鸿峰生物有限公司。</td>
 	</tr>
 </table>
