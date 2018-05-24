@@ -408,7 +408,7 @@
 </td> 
 </tr>
  </table>
- </p>
+ <p></p>
 
 <div align=center>
 <img src="images/img05ec353fa9f5.jpg" width=580>
@@ -474,7 +474,7 @@
 <div align=center>
 <img src="images/25.jpg">
 </div>
-
+ <p></p>
 <table>
 <tr>
 <td width=500 ><a href="https://git.io/toto" target="_blank">【 中共活体摘取法轮功学员器官br群体灭绝性大屠杀 】</a></td>
@@ -498,7 +498,7 @@
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 “四‧二五”中南海万人上访真相 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/425-20.epub?raw=true">(圖文、音頻).下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/425-20.epub?raw=true">(圖文).下载</a></td></tr>
 </table>
 
 <div align=center>
