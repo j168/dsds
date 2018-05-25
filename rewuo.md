@@ -489,15 +489,17 @@
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/cji59.epub?raw=true"> (图文、视频、音频) .下载</a></td></tr>
 
 <tr>
-<td width=500><a href="https://git.io/toto" target="_blank">【 讓法官傻眼的辦證詞 】</a></td>
+<td width=500><a href="https://git.io/toto" target="_blank">【 让法官傻眼的办证词 】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/hgty48.epub?raw=true">  (图文、视频) .下载</a></td></tr>
 
 <tr>
-<td width=500><a href="https://git.io/toto" target="_blank">【 順天意得平安 】</a></td>
+<td width=500><a href="https://git.io/toto" target="_blank">【 顺天意得平安 】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/3wjo1.epub?raw=true">(图文).下载</a></td></tr>
 
 <tr>
-<td width=500><a href="https://git.io/toto" target="_blank">【 傳奇人生 】</a></td>
+<td width=500><a href="https://git.io/toto" target="_blank">【 
+传奇人生
+ 】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/kks-ed.epub?raw=true">(图文、音频).下载</a></td></tr>
 
 <tr>
