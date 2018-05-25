@@ -12,7 +12,7 @@
 <table>
   <tr>
 <td>
-	<h2 align="center"><a href="https://">* * *  明白真相  分清善恶   选择美好未来 * * *</h2> </a> 
+	<h2 align="center"><a href="https://">* * * 明白真相 分清善恶  选择美好未来 * * *</h2> </a> 
 法轮功也叫法轮大法，是上乘的佛家修炼大法。于一九九二年由李洪志师父传出，他以宇宙最高特性真、善、忍为原则指导人修炼，辅以简单优美的五套功法，可以使修炼人在极短的时间内达到身心净化，道德回升。谁想学就来学，不想学就走，不收费，完全是自愿的。</p>
 	
 一九九九年中共迫害法轮功之前，在中国大陆据官方统计有上亿人修炼法轮功。而在中共全面迫害后的近二十年中，法轮功不仅没有被中共打倒，相反，传遍了世界一百多个国家和地区，法轮大法的主要书籍《转法轮》被翻译成三十九种语言文字在全世界公开发行。
@@ -127,8 +127,9 @@
  <tr>
 <td width=880>
  <div align=center>■ 以上只是冰山一角，上明慧网 http://www.minghui.org/了解更多真相</div>
-<div align=center>■ 在中国需“翻墙”访问 <a href="https://git.io/waaa"> https://git.io/waaa </a>推荐使用'火狐'等非国产浏览器访问！ </div>
- <div align=center>■ 认识"法轮大法"e下载pub电子书<a href="https://github.com/sodore/dsds/blob/master/book/dfhao.epub?raw=true">: dfhao.epub </a> 
+
+<div align=center>■ 认识"法轮大法"e下载pub电子书<a href="https://github.com/sodore/dsds/blob/master/book/dfhao.epub?raw=true">: dfhao.epub </a> 
+<div align=center>■ 翻墙方法见<a href="https://git.io/ysys"> https://git.io/ysys）)</a>推荐使用'火狐'等非国产浏览器访问！ </div>
 </tr></td>
 </table>
 
