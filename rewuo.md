@@ -126,7 +126,7 @@
 <table>
  <tr>
 <td width=880>
- <div align=center>■ 以上只是冰山一角，上明慧网 http://www.minghui.org 了解更多真相。</div>
+ <div align=center>■ 以上只是冰山一角，明慧网 http://www.minghui.org 了解更多真相。</div>
 
 <div align=center>■ 了解真相是你的权利，认识"法轮大法"下载epub电子书<a href="https://github.com/sodore/dsds/blob/master/book/dfhao.epub?raw=true">: dfhao.epub </a> 
 <div align=center>■ 翻墙方法见<a href="https://git.io/ysys"> https://git.io/ysys </a>推荐使用'火狐'等非国产浏览器访问！ </div>
