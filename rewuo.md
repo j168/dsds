@@ -202,8 +202,8 @@
 <table>
 <tr>
 <td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/2018-05-20_111848.jpg" width="440"></div>
-	<div align=center>▲ 加拿大历届总理持续关注法轮功人权</div> <br />加拿大新任总理特鲁多在2015年11月APEC会议期间会面中国国家主席习近平时，关注法轮功在中国遭受的迫害。加拿大是第一个站出来呼吁中共停止迫害的国家，历届总理马田和哈珀在会见中共领导时都曾提出法轮功和人权问题。<br />
-(上图左起:马田、哈珀、特鲁多)</td>
+	<div align=center>▲ 加拿大历届总理持续关注法轮功人权 (左起:马田、哈珀、特鲁多)</div> <br />加拿大新任总理特鲁多在2015年11月APEC会议期间会面中国国家主席习近平时，关注法轮功在中国遭受的迫害。加拿大是第一个站出来呼吁中共停止迫害的国家，历届总理马田和哈珀在会见中共领导时都曾提出法轮功和人权问题。<br />
+</td>
 </tr>
 </table>
 <p></p>
@@ -482,27 +482,27 @@
 <table>
 <tr>
 <td width=500 ><a href="https://git.io/toto" target="_blank">【 中共活体摘取法轮功学员器官br群体灭绝性大屠杀 】</a></td>
-<td width=380 ><a href="https://github.com/sodore/dsds/blob/master/book/flg23.epub?raw=true">(圖文、視頻、音頻).下载</a></td></tr>
+<td width=380 ><a href="https://github.com/sodore/dsds/blob/master/book/flg23.epub?raw=true">(图文、视频、音频).下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 渝妇被活摘器官时逃生 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/cji59.epub?raw=true"> (圖文、視頻、音頻) .下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/cji59.epub?raw=true"> (图文、视频、音频) .下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 讓法官傻眼的辦證詞 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/hgty48.epub?raw=true">  (圖文、視頻) .下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/hgty48.epub?raw=true">  (图文、视频) .下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 順天意得平安 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/3wjo1.epub?raw=true">(圖文).下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/3wjo1.epub?raw=true">(图文).下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 傳奇人生 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/kks-ed.epub?raw=true">(圖文、音頻).下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/kks-ed.epub?raw=true">(图文、音频).下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 “四‧二五”中南海万人上访真相 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/425-20.epub?raw=true">(圖文).下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/425-20.epub?raw=true">(图文).下载</a></td></tr>
 </table>
 
 <div align=center>
