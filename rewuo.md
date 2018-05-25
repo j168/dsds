@@ -90,7 +90,7 @@
 <table>
 <tr>
 <td><div align=center><img src="images/1512041610372192-600x400.jpg" width=400></div>
-七年的魔难，两千多个黑暗的日夜，王连荣的心碎了。她好累！她亲眼目睹丈夫和儿子被酷刑折磨，眼睁睁地看着最疼爱的小女儿咽下最后一口气。她还先后送走了一对双胞胎儿子，他们死得惨啊！四个儿女，只有淑兰还在人世，却被判了七年半徒刑，关在大牢里。<a href="https://github.com/sodore/dsds/blob/master/book/Dafa story4.epub?raw=true"> 下载epub电子书 :【 河北农民陈运川一家的故事 】</a></td></tr>
+陈运川一家所受到的惨烈迫害是最严重的案例之一，他们的遭遇是全中国数千万因为信仰被迫害的个体与家庭悲剧的缩影。一个普通的农民家庭，实践“真、善、忍”的百姓，惨遭邪恶蹂躏。三个儿女先后被酷刑虐杀，两位老人被迫流离失所，相继离世，唯一幸存的长女仍被非法关押，饱受凌辱。今天，迫害仍未停止，罪恶还在侵袭中华大地。<a href="https://github.com/sodore/dsds/blob/master/book/Dafa story4.epub?raw=true"> 下载epub电子书 :【 河北农民陈运川一家的故事 】</a></td></tr>
 </table>
 
 <table>
