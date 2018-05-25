@@ -126,9 +126,9 @@
 <table>
  <tr>
 <td width=880>
- <div align=center>■ 以上只是冰山一角，上明慧网 http://www.minghui.org/了解更多真相
-	■ 在中国需“翻墙”访问 <a href="https://git.io/waaa"> https://git.io/waaa </a>推荐使用'火狐'等非国产浏览器访问！ </div>
- <div align=center>■ 认识"法轮大法"epub电子书<a href="https://github.com/sodore/dsds/blob/master/book/dfhao.epub?raw=true">下载: dfhao.epub </a> </div>
+ <div align=center>■ 以上只是冰山一角，上明慧网 http://www.minghui.org/了解更多真相</div>
+<div align=center>■ 在中国需“翻墙”访问 <a href="https://git.io/waaa"> https://git.io/waaa </a>推荐使用'火狐'等非国产浏览器访问！ </div>
+ <div align=center>■ 认识"法轮大法"e下载pub电子书<a href="https://github.com/sodore/dsds/blob/master/book/dfhao.epub?raw=true">: dfhao.epub </a> 
 </tr></td>
 </table>
 
