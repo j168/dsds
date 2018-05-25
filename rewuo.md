@@ -126,7 +126,8 @@
 <table>
  <tr>
 <td width=880>
- <div align=center>■ 以上只是冰山一角，上明慧网了解更多真相<a href="https://git.io/waaa"> https://git.io/waaa </a>推荐使用'火狐'等非国产浏览器访问！ </div>
+ <div align=center>■ 以上只是冰山一角，上明慧网 http://www.minghui.org/了解更多真相
+	■ 在中国需“翻墙”访问 <a href="https://git.io/waaa"> https://git.io/waaa </a>推荐使用'火狐'等非国产浏览器访问！ </div>
  <div align=center>■ 认识"法轮大法"epub电子书<a href="https://github.com/sodore/dsds/blob/master/book/dfhao.epub?raw=true">下载: dfhao.epub </a> </div>
 </tr></td>
 </table>
@@ -274,7 +275,7 @@
 <h2 align=center><a href="https://">新疆流亡医生揭活摘器官：中共如恶魔</a></h2>
 
 <div align=center>
-<img src="images/5ab36f8a71f2ac7d7468dfef9f1da00e-600x400.jpg" width=680></div>
+<img src="images/5ab36f8a71f2ac7d7468dfef9f1da00e-600x400.jpg" width=580></div>
 ▲ 英国维吾尔协会负责人、肿瘤外科医师安华托帝‧博格达亮出手机内的照片，指出新疆某机场出现为特殊旅客、人体器官运输专门开辟的快速通道。（陈柏州／大纪元）
 </p>
 【大纪元2017年11月15日讯】（大纪元记者李怡欣台湾高雄报导）流亡海外的新疆医师安华托帝·博格达，日前应邀在台权会高雄办公室演讲，针对中共器官活摘及新疆人权议题指出，中共活摘人体器官至今还在发生，“我想告诉台湾同胞，去中国不要单独活动，一定随时让家人知道行踪，‘要是生病了，只要一口气在，就算爬也要爬回台湾’”。
@@ -314,7 +315,7 @@
 安华托帝在中研院民族所接受大纪元采访时表示，该计划从2016年6月开始，汉人与哈萨克人被排除，只针对维族人抽血，维族人口约一千五百万～二千万，据去年9月份媒体报导，在新疆和田地区已完成该任务，而今年根据美国调查记者、作家伊森·葛特曼（Ethan Gutmann）的调查，至今有99.7%的维族人已完成抽血。
 
 <div align=center>
-<img src="images/20171027-nina-Taipei-101-600x450.jpg" width=680></div>
+<img src="images/20171027-nina-Taipei-101-600x450.jpg" width=580></div>
 ▲ 英国维吾尔协会负责人、肿瘤外科医师安华托帝表示，新疆某机场出现为特殊旅客、人体器官运输专门开辟的快速通道。（安华托帝‧博格达提供）
 <div align=center> <br />
 <img src="images/33e8d860b1a6c032da17dc0c2354e7cc-450x236.jpg" width=480></div>
@@ -435,14 +436,7 @@
  </table>
  <p></p>
 
-
-
-
- 
- 
  <hr>
- 
-
 
 <table>
   <tr>
