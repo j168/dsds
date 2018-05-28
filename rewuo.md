@@ -13,13 +13,13 @@
   <tr>
 <td>
 	<h2 align="center"><a href="https://">明白真相 分清善恶 选择美好未来 </h2> </a> 
-法轮功也叫法轮大法，是上乘的佛家修炼大法。于一九九二年由李洪志师父传出，他以宇宙最高特性真、善、忍为原则指导人修炼，辅以简单优美的五套功法，可以使修炼人在极短的时间内达到身心净化，道德回升。谁想学就来学，不想学就走，不收费，完全是自愿的。</p>了解法轮功 <a href=https://git.io/02/> https://git.io/02</a>
+法轮功也叫法轮大法，是上乘的佛家修炼大法。于一九九二年由李洪志师父传出，他以宇宙最高特性真、善、忍为原则指导人修炼，辅以简单优美的五套功法，可以使修炼人在极短的时间内达到身心净化，道德回升。谁想学就来学，不想学就走，不收费，完全是自愿的。了解法轮功 <a href=https://git.io/02/> </p>https://git.io/02</a>
 	
 一九九九年中共迫害法轮功之前，在中国大陆据官方统计有上亿人修炼法轮功。而在中共全面迫害后的近二十年中，法轮功不仅没有被中共打倒，相反，传遍了世界一百多个国家和地区，法轮大法的主要书籍《转法轮》被翻译成三十九种语言文字在全世界公开发行。
 
 今天，在世界所有的主要国家和地区，都有法轮功的炼功点，也都可以看到法轮功学员集体炼功、弘扬法轮功的美好画面。</p>
 <div align=center>
-<img src="images/1507171549132404-600x338.jpg" width=880 >
+<img src="images/1507171548552404-600x400.jpg" width=880 >
 </div>
 </p>
 法轮大法的传出，从根本上唤醒人沉睡的善念，同时这些修炼者们在践行「真、善、忍」的实践中，实实在在地在带动了整个社会道德的全面回升。然而中共邪党是一个十恶不赦的邪教组织，对任何正面的、善意的行为都以最邪恶之心揣度。一九九九年七月，当权小人江泽民不顾国家、社会和人民的利益，一意孤行地发动对法轮大法的迫害，使无数善良的人蒙冤受难，其邪恶行径至今仍未停止。</p>
@@ -138,14 +138,15 @@
 <table>
  <tr>
 <td width=880>
- <div align=center>■ 以上只是冰山一角，明慧网: http://www.minghui.org 了解更多真相</div>
+ <div align=center>■ 以上只是冰山一角，明慧网: http://www.minghui.org 了解更多真相</div><br>
 
-<div align=center>■ 了解真相是你的权利，认识"法轮大法"下载epub电子书<a href="https://github.com/sodore/dsds/blob/master/book/dfhao.epub?raw=true">: dfhao.epub </a> 
-<div align=center>■ 翻墙方法见<a href="https://git.io/ysys"> https://git.io/ysys </a>推荐使用'火狐'等非国产浏览器访问！ </div>
+<div align=center>■ 了解真相是你的权利，认识"法轮大法"下载epub电子书<a href="https://github.com/sodore/dsds/blob/master/book/dfhao.epub?raw=true">: dfhao.epub </a> <br>
+<div align=center>■ 翻墙方法见<a href="https://git.io/ysys"> https://git.io/ysys </a>推荐使用'火狐'等非国产浏览器访问！ <br></div>
 </tr></td>
 </table>
 
 <hr>
+</p>
 <div align=center>
 <img src="images/2018-05-16_173435.jpg" width=680>
 </div>
@@ -175,7 +176,7 @@
 
   <table>
 <tr>
-	<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/hh235.jpg" width="440" ></div>
+	<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/hh235.jpg" width="580" ></div>
 	▲ 加拿大人权律师大卫‧麦塔斯和前亚太司司长戴维‧ 乔高将调查报告集结成《血腥的活摘器官》一书，包含不可辩驳的52种证据。</td>
 </tr>
 </table>
@@ -183,7 +184,7 @@
 
 <table>
 <tr>
-<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/hh548.jpg"  width="440"></div>
+<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/hh548.jpg"  width="580"></div>
 	▲ 前美国智库研究员、独立记者伊森‧葛特曼从2006年开始调查中共活摘良心犯的器官，他的书《大屠杀》中估计从2 0 0 0 - 2 0 0 8年间，至少有6.5万名法轮功学员被强摘器官。</td>
 </tr>
 </table>
@@ -204,7 +205,7 @@
 
 <table>
 <tr>
-<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/img42249c15fd31.jpg"width="440"></div>
+<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/img42249c15fd31.jpg"width="580"></div>
 	▲ 中国器官移植数量从1999年开始上升，和从1999年中共迫害法轮功同步，在2003年～2006年期间暴涨，达到高峰。中国在短时间内成为器官移植大国，但是中共声称的器官来自死刑犯根本解释不了这些数量庞大的器官移植。</td>
 </tr>
  </table>
@@ -212,7 +213,7 @@
 
 <table>
 <tr>
-<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/hh230.jpg" width="440"></div>
+<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/hh230.jpg" width="580"></div>
 	▲《大纪元》获知情人提供的录音证实，2006年9月13日时任商务部长的薄熙来跟随时任中共总理温家宝访问德国汉堡时，曾亲口承认“江泽民下达了活摘法轮功学员器官的命令”。</td>
 </tr>
  </table>
@@ -220,7 +221,7 @@
 
 <table>
 <tr>
-<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/pic1.jpg" width="400"></div>
+<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/pic1.jpg" width="580"></div>
 	<div align=center>▲ 欧议会议案制止中共活摘器官</div><br />2013年12月12日欧洲议会通过紧急议案，要求中共立即停止活体摘取良心犯、以及宗教信仰和少数族裔团体器官的行为，并立即释放包括法轮功学员在内的所有良心犯。数十名欧洲议会议员发言强烈谴责中共活摘器官的罪行。</td>
 	</tr>
  </table>
@@ -228,7 +229,7 @@
 
 <table>
 <tr>
-<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/2016-06-14-575f993b8e600.jpg"  width="440"></div>
+<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/2016-06-14-575f993b8e600.jpg"  width="580"></div>
 <div align=center>▲ 美国议会谴责中共迫害法轮功</div><br />美国国会在2002年、2004年及2010年陆续通过188号、304号及605号决议案，要求中共停止迫害法轮功。2016年2月25日美国两党国会议员在众议院发起343号决议案，要求中共立即停止针对法轮功学员和其他良心犯的强摘器官行为。</td>
 </tr>
  </table>
@@ -236,7 +237,7 @@
 
 <table>
 <tr>
-<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/2018-05-20_111848.jpg" width="440"></div>
+<td><div align=center><img src="https://github.com/sodore/dsds/blob/master/images/2018-05-20_111848.jpg" width="580"></div>
 	<div align=center>▲ 加拿大历届总理持续关注法轮功人权 (左起:马田、哈珀、特鲁多)</div> <br />加拿大新任总理特鲁多在2015年11月APEC会议期间会面中国国家主席习近平时，关注法轮功在中国遭受的迫害。加拿大是第一个站出来呼吁中共停止迫害的国家，历届总理马田和哈珀在会见中共领导时都曾提出法轮功和人权问题。<br />
 </td>
 </tr>
@@ -669,7 +670,7 @@
 <h2 align=center><a href="https://">渤海湾遇险记</a></h2>
 
 <div align=center>
-<img src="images/2005-8-8-yaya-4--ss.jpg" width=480>
+<img src="images/2005-8-8-yaya-4--ss.jpg" width=580>
 </div>
 
 陈林（化名）是一名海员，妻子因为生孩子落下了一身病，绝望中炼起了法轮功，谁知一炼竟将病炼没了！从此夫妻俩对法轮功由衷地敬重。
@@ -706,6 +707,10 @@
 <hr>
 
 <h2 align=center><a href="https://">我幸运逃脱天津大爆炸</a></h2>
+
+<div align=center>
+<img src="images/5292403.jpg" width=580>
+</div>
 
 我叫萧桐（化名），家住河北省唐山市丰润区。以前，由于我听信了电视、报刊的造假宣传，使我对法轮功抱有偏见。
 
@@ -746,7 +751,7 @@
 七十年后的现在，道人说的前四句话都一一实现了，现在山上山下都有楼房，井里的水也淌到了家（因以前都是到水湾里、井里去挑水喝），灯头朝了下是指的电灯，以前都是用的油灯，所以灯头是朝上的。因为我们这里是山区，但过度开采，山没有完整的，多数是半边。只有“人死后没人埋”这句还没应验。可我也始终没有解开“度劫难”那两句话，还是迷。我经常给孩子们说这件事，他们都不信，还不让我说这些话。 
 
 <div align=center>
-<img src="images/2018-05-27_220309.jpg" width=680>
+<img src="images/2018-05-27_220309.jpg" width=580>
 </div>
 
 几年前有一天早上开门时，门缝里夹着一张单子，我就让孩子们念给我听听上面写的是什么。当我听到“大纪元”三个字时，我忽然想起了道人原先常说大纪元是研究天象变化的。当念到上面写着：“老天要灭共产党，凡是举手入过党、团、少先队及作恶多端的人，脸上都带有印记，眼前面临一场大灾大难，要想度过这一场大劫难，可用小名、别名、化名，向大纪元声明退出即可，就能抹去脸上的印记，保平安。”我又想起了道人说“脸上有印看不见，抹去印记度劫难”的话来。这一张法轮功真相的单子一下子给我解开了七十多年解不开的“谜”，怪不得法轮功的传单让大家退党、团、队，原来是在救人，让大家保平安啊！ 
@@ -764,7 +769,7 @@
 
 
 <div align=center>
-<img src="images/img39643df6ab99.jpg" width=580>
+<img src="images/img39643df6ab99.jpg" width=480>
 </div>
 
 2004年，大纪元发表《九评共产党》（简称《九评》）系列社论，从历史、政治、经济、思想、文化、信仰等层面深刻揭示了中共的欺骗、暴力、邪教和流氓本性，在民间引发了一场波澜壮阔的精神觉醒运动。
@@ -778,7 +783,7 @@
 茫茫天意不可违，天灭中共在即，这必将祸及仍然追随中共的人，愿您顺应天意，快快“三退”（退党、退团、退队）保平安！
 
 <div align=center>
-<img src="images/300Mst.jpg" width=680>
+<img src="images/300Mst.jpg" width=580>
 </div>
 
 <hr>
@@ -796,18 +801,17 @@
 <hr>
 
 <h2 align=center><a href="https://">退党退团退队（三退）方法  可使用真名、化名、小名</a></h2>
- qq: 1930075809 (瑛美)
- 用海外邮箱发表声明tuidang@epochtimes.com
- 用翻墙软件登录http://tuidang.epochtimes.com
- 退党电话：001-416-361-9895或001-888-892-8757 
- 退党传真：001-510-372-0176或001-201-625-6301
- 可先将声明张贴在适当的公共场所，以后再上网。
- 可利用出国的机会，在国外将三退声明通过上述方式发表或交给退党服务中心义工。 
+ qq: 1930075809 (瑛美)帮你退 <br>
+ 用海外邮箱发表声明tuidang@epochtimes.com <br>
+ 用翻墙软件登录http://tuidang.epochtimes.com <br>
+ 退党电话：001-416-361-9895或001-888-892-8757  <br>
+ 退党传真：001-510-372-0176或001-201-625-6301 <br>
+ 可利用出国的机会，在国外将三退声明通过上述方式发表或交给退党服务中心义工。  <br>
 
 <hr>
 
 <div align=center>
-<img src="images/20160124163436.jpg">
+<img src="images/20160124163436.jpg" width=580>
 </div>
 
 
