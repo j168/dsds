@@ -670,41 +670,41 @@
 
 <tr>
 <td width=500><a href="https://" target="_blank">【三亿退党潮】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/300Mst-s .epub?raw=true">(圖文、視頻).下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/300Mst-s .epub?raw=true">(图文、視頻).下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://" target="_blank">【为什么要三退】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/whytd.epub?raw=true">(圖文、音頻).下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/whytd.epub?raw=true">(图文、音頻).下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://" target="_blank">【认识法轮大好】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/dfhao.epub?raw=true">(圖文、視頻).下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/dfhao.epub?raw=true">(图文、視頻).下载</a></td></tr>
 
 
 <tr>
 <td width=500><a href="https://" target="_blank">【法轮大法洪传世界】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/fldfhao.epub?raw=true">(圖文、音頻).下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/fldfhao.epub?raw=true">(图文、音頻).下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://" target="_blank">【风雨天地行】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/fytdx-2.0-20161012.epub?raw=true">(圖文).下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/fytdx-2.0-20161012.epub?raw=true">(图文).下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://" target="_blank">【一位律师的肺腑直言】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/lawyer.epub?raw=true">(圖文).下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/lawyer.epub?raw=true">(图文).下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://" target="_blank">【这个星球上前所未有的邪恶】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/oh.epub?raw=true">(圖文、視頻).下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/oh.epub?raw=true">(图文、視頻).下载</a></td></tr>
 
 
 <tr>
 <td width=500><a href="https://" target="_blank">【1400例谎言的背后】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/1400-pavl.epub?raw=true">(圖文、視頻).下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/1400-pavl.epub?raw=true">(图文、視頻).下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://" target="_blank">【天安门自焚是中共栽赃陷害法轮功的骗局】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/zfzx.epub?raw=true">(圖文、視頻).下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/zfzx.epub?raw=true">(图文、視頻).下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://" target="_blank">【江泽民其人】</a></td>
@@ -717,15 +717,15 @@
 
 <tr>
 <td width=500><a href="https://" target="_blank">【解体党文化】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/jtdwh-2.0-20180107.epub?raw=true">(圖文).下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/jtdwh-2.0-20180107.epub?raw=true">(图文).下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://" target="_blank">【马克思的成魔之路】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/Advanced-Seminar-cc-ppt-20161129.epub?raw=true">(圖文).下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/Advanced-Seminar-cc-ppt-20161129.epub?raw=true">(图文).下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://" target="_blank">【百年红祸】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/bnhhv.epub?raw=true">(圖文).下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/bnhhv.epub?raw=true">(图文).下载</a></td></tr>
 
 
 </table>
