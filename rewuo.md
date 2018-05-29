@@ -472,7 +472,7 @@
 <h3 align=center><a href="https://">现场持枪警卫：目击了活体摘取的全过程</a></h3>
 	
 <div align=center>
-<img src="images/p57_01__china__--ss.jpg" width=580>
+<img src="images/p57_01__china__--ss.jpg" width=380>
 </div>
 	
 2009年12月12日，“追查迫害法轮功国际组织”公布了一名证人现场目击活摘法轮功学员器官的证词。</p>
@@ -609,7 +609,7 @@
  <h2 align=center><a href="https://">天降奇石  预言“中国共产党亡”</a></h2>
 
 <div align=center>
-<img src="images/2017-07-22_223829.jpg"width=680>
+<img src="images/2017-07-22_223829.jpg"width=580>
 </div>
 
 2002年6月，贵州省平塘县掌布乡的一位村民，在掌布风景区发现一块巨石，石面上有排列整齐的六个大字：“中国共产党亡”。经三路专家前往考察，这块巨石距今已有2亿7千万年，500年前从高崖上落下来，断成两块，字在右边那块巨石上，清晰可辨。又经鉴定，这些字都是天然形成的，没有任何人为加工的痕迹。当时国内一百多家媒体，包括新华社、中央台都有过报道，网上也能搜索到相关照片，当然，这些媒体都不敢提最后那个“亡”字，但从照片上可以看出来。</p>
@@ -878,7 +878,7 @@
 翻墙方法见<a href="https://git.io/ysys"> https://git.io/ysys </a> 这个链接请妥为收藏<br>
 
 <div align=center>
-<img src="images/20160124163436.jpg" width=580>
+<img src="images/20160124163436.jpg" width=480>
 </div>
 
 
