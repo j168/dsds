@@ -1,5 +1,5 @@
 <div align=center>
-<img src="images/r-flg-zw-Header_v2.jpg" width=880>
+<img src="images/banner1.jpg" width=880>
 </div>
 <p></p>
 <div align=center>
