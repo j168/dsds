@@ -371,19 +371,7 @@
  </table>
 <p></p>
 
-<table>
-  <tr>
-<td>
 
-今天的中国大陆，器官买卖盛行，疑似活摘器官的案例时有听闻。这套原本用于法轮功学员和死囚身上的罪恶行径，已经渐渐扩展到了大陆民间……</p>
-在中国大陆器官被盗取、丢失的现象在近十多年来屡见不鲜。</p>
-<h3 align=center><a href="https://">30名武汉大学生人间蒸发！被活摘了吗？</a></h3>
-
-</td> 
-</tr>
- </table>
- 
- 
 <table>
   <tr>
 <td>
@@ -534,6 +522,19 @@
 <div align=center>
 <img src="images/25.jpg">
 </div>
+
+<table>
+  <tr>
+<td>
+
+今天的中国大陆，器官买卖盛行，疑似活摘器官的案例时有听闻。这套原本用于法轮功学员和死囚身上的罪恶行径，已经渐渐扩展到了大陆民间……</p>
+在中国大陆器官被盗取、丢失的现象在近十多年来屡见不鲜。</p>
+
+</td> 
+</tr>
+ </table>
+ 
+
  <p></p>
 <table>
 <tr>
@@ -543,6 +544,22 @@
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 渝妇被活摘器官时逃生 】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/cji59.epub?raw=true"> (图文、视频、音频) .下载</a></td></tr>
+
+<tr>
+<td width=500><a href="https://git.io/toto" target="_blank">【 见证中国活摘器官是真实 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/fdfd23.epub?raw=true"> (图文) .下载</a></td></tr>
+
+<tr>
+<td width=500><a href="https://git.io/toto" target="_blank">【 武汉数十名大学生神秘「蒸发」 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/jco12.epub?raw=true"> (图文) .下载</a></td></tr>
+
+<tr>
+<td width=500><a href="https://git.io/toto" target="_blank">【 江绵恒换肾与中共权贵 活摘器官续命内幕 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/ytuu89.epub?raw=true"> (图文) .下载</a></td></tr>
+
+<tr>
+<td width=500><a href="https://git.io/toto" target="_blank">【 大陆器官乱象背后 挑战人类道德底线 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/ass56.epub?raw=true"> (图文) .下载</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 让法官傻眼的办证词 】</a></td>
