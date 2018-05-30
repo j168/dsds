@@ -384,7 +384,7 @@
 一秘：就是，就是说呀，当初您在辽宁这个当省长时，因为这涉及到明天的会见嘛，他们想澄清一下。就是说，当初您在辽宁当省长时候，就是，是江泽民、江主席下的命令，还是您参与的，就是说这个，关于把这个法轮功这个活体摘除器官这个事情，是您的命令还是江泽民的命令？</p>
 薄熙来：江主席！</p>
 
-请翻墙搜寻，<a href="http://www.minghui.org/mh/articles/2013/8/31/278889.html">《薄熙来录音曝光揭中共掩盖的黑幕（录音）》</a> ，<a href="https://git.io/ysys">（ 翻墙方法见 https://git.io/ysys 。)</a> </p>
+请翻墙搜寻，<a href="http://www.minghui.org/mh/articles/2013/8/31/278889.html">《薄熙来录音曝光揭中共掩盖的黑幕（录音）》</a> ，<a href="https://git.io/ysys"> 翻墙方法见 https://git.io/ysys 。</a> </p>
 
 </td> 
 </tr>
