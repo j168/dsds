@@ -453,7 +453,7 @@
   <tr>
 <td>
 <h3 align=center><a href="https://">更多调查录音节录</a></h3>
-多方证据显示，大量法轮功学员被以活体摘取器官的方式屠杀。这种为盗取器官而“按需杀人”的行为，完全冲破了人的道德底线，这种反人类罪，让全世界为之震惊！</p>详情更多调查录音请翻墙访问：<a href="http://www.zhuichaguoji.org/node/65694"> 《追查国际对中共大量活摘法轮功学员器官国家犯罪的调查报告》</a>) <br>( 翻墙方法见<a href="https://git.io/ysys"> https://git.io/ysys </a>)
+多方证据显示，大量法轮功学员被以活体摘取器官的方式屠杀。这种为盗取器官而“按需杀人”的行为，完全冲破了人的道德底线，这种反人类罪，让全世界为之震惊！</p>详情更多调查录音请翻墙访问：<a href="http://www.zhuichaguoji.org/node/65694"> 《追查国际对中共大量活摘法轮功学员器官国家犯罪的调查报告》</a> ， 翻墙方法见<a href="https://git.io/ysys"> https://git.io/ysys 。</a>
 	<p></p>
 	<div align=center>
 <img src="images/img05ec353fa9f5.jpg" width=580>
