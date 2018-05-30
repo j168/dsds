@@ -383,7 +383,7 @@
 一秘：就是，就是说呀，当初您在辽宁这个当省长时，因为这涉及到明天的会见嘛，他们想澄清一下。就是说，当初您在辽宁当省长时候，就是，是江泽民、江主席下的命令，还是您参与的，就是说这个，关于把这个法轮功这个活体摘除器官这个事情，是您的命令还是江泽民的命令？</p>
 薄熙来：江主席！</p>
 
-请翻墙搜寻，<a href="http://www.minghui.org/mh/articles/2013/8/31/278889.html">《薄熙来录音曝光揭中共掩盖的黑幕（录音）》</a> ，（ <a href="https://git.io/ysys">翻墙方法见 https://git.io/ysys 。)</a> </p>
+请翻墙搜寻，<a href="http://www.minghui.org/mh/articles/2013/8/31/278889.html">《薄熙来录音曝光揭中共掩盖的黑幕（录音）》</a> ，<a href="https://git.io/ysys">（ 翻墙方法见 https://git.io/ysys 。)</a> </p>
 
 </td> 
 </tr>
@@ -434,7 +434,7 @@
 医生：来了一个礼拜左右就可以做了。	</p>
 调查员：有没有这种炼法轮功的这种提供的，这种提供的说是很好……</p>
 医生：我们这儿的都是这种。</p>
-（上述三个录音请翻墙搜寻，<a href="http://www.minghui.org/mh/articles/2013/9/26/280291.html">《追查国际关于中共活体摘取法轮功学员器官证据专辑》</a>，( 翻墙方法见<a href="https://git.io/ysys"> https://git.io/ysys )</a>。<br>
+（上述三个录音请翻墙搜寻，<a href="http://www.minghui.org/mh/articles/2013/9/26/280291.html">《追查国际关于中共活体摘取法轮功学员器官证据专辑》</a>，( 翻墙方法见<a href="https://git.io/ysys"> https://git.io/ysys </a>)。<br>
 </p>
 
 ▊ 复旦大学器官移植中心成立于 2001年10月30日，已累计完成肾脏移植近千例，年移植100余例，并以每年50% 的速度递增。
@@ -452,7 +452,7 @@
   <tr>
 <td>
 <h3 align=center><a href="https://">更多调查录音节录</a></h3>
-多方证据显示，大量法轮功学员被以活体摘取器官的方式屠杀。这种为盗取器官而“按需杀人”的行为，完全冲破了人的道德底线，这种反人类罪，让全世界为之震惊！</p>( 详情更多调查录音请访问：http://www.zhuichaguoji.org/node/65694 )  <br>( 翻墙方法见<a href="https://git.io/ysys"> https://git.io/ysys）)</a>
+多方证据显示，大量法轮功学员被以活体摘取器官的方式屠杀。这种为盗取器官而“按需杀人”的行为，完全冲破了人的道德底线，这种反人类罪，让全世界为之震惊！</p>( 详情更多调查录音请访问：http://www.zhuichaguoji.org/node/65694 )  <br>( 翻墙方法见<a href="https://git.io/ysys"> https://git.io/ysys </a>)
 	<p></p>
 	<div align=center>
 <img src="images/img05ec353fa9f5.jpg" width=580>
