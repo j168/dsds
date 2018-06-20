@@ -14,7 +14,7 @@
  <td   width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/free--764p.zip?raw=true'>自由门.桌机版.zip</a></td>
  <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/fgma--dd.apk?raw=true'>自由门.安卓版.apk</a></td>
 
- <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/u18.2.zip?raw=true'>无界浏览.桌机版.zip</a></td>u18--02
+ <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/u18.2.zip?raw=true'>无界浏览.桌机版.zip</a></td>
  <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/um4.5.apk?raw=true'>无界浏览.安卓版.apk</a></td>
 </table>
 
@@ -24,7 +24,7 @@
 <div align="center">
 <img src="images/2018-02-13_021319.jpg" width=500></p></div>
 
-<h3 align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/um4.2a.apk?raw=true'>下載 安装软件</h3>
+<h3 align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/um4.5.apk?raw=true'>下載 安装软件</h3>
 
 <table>
  <td width="440"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true'>iPPOTV（爱博电视）.安装软件</a></td>
@@ -39,7 +39,7 @@
 <p></p>
 
 <hr>
-<h3 align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/um4.2a.apk?raw=true'>在中国, 自由门和无界浏览是非常流行的翻墙软件。</h3>
+<h3 align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/um4.5.apk?raw=true'>在中国, 自由门和无界浏览是非常流行的翻墙软件。</h3>
 
  翻墙(破网)软件绿色、安全、无毒、简单易用,助你长期突破网络封锁看更多国内国外被封锁的真相,维护你的知情权!</p>
  全程安全加密,让你访问的网站和浏览的内容无人知晓,并且不会在本机和互联网上留下任何上网痕迹,提醒你一定要正常退出。</p>
