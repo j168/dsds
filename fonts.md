@@ -7,7 +7,7 @@
 
 
 
-<h3 align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/u1--7.04a.zip?raw=true'>下載 翻牆軟件</h3>
+<h3 align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/u18.2.zip?raw=true'>下載 翻牆軟件</h3>
 
 <table>
 
