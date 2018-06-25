@@ -645,7 +645,7 @@
 
 
 <div align=center>
-<img src="images/aa0620.png" width=880>
+<img src="images/aa0625.png" width=880>
 </div>
 
 <hr>
