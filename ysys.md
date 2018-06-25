@@ -34,7 +34,7 @@
 <hr>
 
 <div align=center>
-<img src="images/bb0620.png"width=880>
+<img src="images/bb0625.png"width=880>
 </div>
 <hr>
 
