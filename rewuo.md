@@ -584,7 +584,7 @@
 
 <table>
 <tr>
-<td> <div align=center>手机上看电子书（ePub版）,(推荐)使用 Reasily - EPUB 阅读器，可以观看视频、音频、图文EPUB。<a href="https://github.com/sodore/dsds/blob/master/book/open-epub.txt?raw=true">在此下载( 如何开启epub说明 ).txt</a></div></p>
+<td> 手机上看电子书（ePub版）,(推荐)使用 Reasily - EPUB 阅读器，可以观看视频、音频、图文。<a href="https://github.com/sodore/dsds/blob/master/book/open-epub.txt?raw=true">在此下载( 如何开启epub说明 ).txt</a></p>
  <div align=center><a href="https://github.com/sodore/dsds/blob/master/book/Reasily-epub-1802h.apk?raw=true"> 在此点击直接下载电子书（ePub版）</a></div></p>
  
 		
