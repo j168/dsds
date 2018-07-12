@@ -532,8 +532,8 @@
   <tr>
 <td>
 
-今天的中国大陆，器官买卖盛行，疑似活摘器官的案例时有听闻。这套原本用于法轮功学员和死囚身上的罪恶行径，已经渐渐扩展到了大陆民间……</p>
-在中国大陆器官被盗取、丢失的现象在近十多年来屡见不鲜。共产党的罪恶 ,即将被审判。</p>
+■ 今天的中国大陆，器官买卖盛行，疑似活摘器官的案例时有听闻。这套原本用于法轮功学员和死囚身上的罪恶行径，已经渐渐扩展到了大陆民间……</p>
+■ 在中国大陆器官被盗取、丢失的现象在近十多年来屡见不鲜。共产党的罪恶 ,即将被审判。</p>
 
 </td> 
 </tr>
@@ -544,43 +544,51 @@
 <table>
 <tr>
 <td width=500 ><a href="https://git.io/toto" target="_blank">【 中共活体摘取法轮功学员器官br群体灭绝性大屠杀 】</a></td>
-<td width=380 ><a href="https://github.com/sodore/dsds/blob/master/book/flg23.epub?raw=true">(图文、视频、音频).下载</a></td></tr>
+<td width=380 ><a href="https://github.com/sodore/dsds/blob/master/book/flg23.epub?raw=true">(图文、视频、音频).下载(epub) </a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 渝妇被活摘器官时逃生 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/cji59.epub?raw=true"> (图文、视频、音频) .下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/cji59.epub?raw=true"> (图文、视频、音频) .下载(epub)</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 见证中国活摘器官是真实 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/fdfd23.epub?raw=true"> (图文) .下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/fdfd23.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 武汉数十名大学生神秘「蒸发」 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/jco12.epub?raw=true"> (图文) .下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/jco12.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 江绵恒换肾与中共权贵 活摘器官续命内幕 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/ytuu89.epub?raw=true"> (图文) .下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/ytuu89.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 大陆器官乱象背后 挑战人类道德底线 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/ass56.epub?raw=true"> (图文) .下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/ass56.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 让法官傻眼的办证词 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/hgty48.epub?raw=true">  (图文、视频) .下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/hgty48.epub?raw=true">  (图文、视频) .下载(epub)</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 顺天意得平安 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/3wjo1.epub?raw=true">(图文).下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/3wjo1.epub?raw=true">(图文).下载(epub)</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 传奇人生 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/kks-ed.epub?raw=true">(图文、音频).下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/kks-ed.epub?raw=true">(图文、音频).下载(epub)</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 “四‧二五”中南海万人上访真相 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/425-20.epub?raw=true">(图文).下载</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/425-20.epub?raw=true">(图文).下载(epub)</a></td></tr>
+<tr>
+<td> <div align=center>手机上看电子书（ePub版）</p>
+(推荐)Reasily - EPUB 阅读器，可以观看视频、音频、图文EPUB。</div></p>
+ <div align=center><a href="https://github.com/sodore/dsds/blob/master/book/Reasily-epub-1802h.apk?raw=true"> 点击直接下载</a></div></p>
+ <div align=center><a href="https://github.com/sodore/dsds/blob/master/book/open-epub.txt?raw=true">如何开启epub说明</a></div>
+	
+	
+</td></tr>
 </table>
 
 <table>
