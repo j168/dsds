@@ -426,7 +426,7 @@
 </p>
 
 <div align=center>
-<img src="images/img3b790.jpg"width=680>
+<img src="images/img3b790.jpg"width=880>
 </div>
 
 
