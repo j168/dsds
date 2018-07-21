@@ -385,7 +385,7 @@
 薄熙来：江主席！</p>
 
 请翻墙搜寻，<a href="http://www.minghui.org/mh/articles/2013/8/31/278889.html">《薄熙来录音曝光揭中共掩盖的黑幕》</a> ，<a href="https://git.io/ysys"> 翻墙方法见 https://git.io/ysys 。</a> </p>
-<a href="https://github.com/sodore/dsds/blob/master/audio/mh-audio-ai.mp3?raw=true">下载完整的录音文件.mp3</a></p>
+<a href="https://github.com/sodore/dsds/blob/master/audio/mh-audio-ai.mp3">下载完整的录音文件.mp3</a></p>
 </td> 
 </tr>
  </table>
@@ -439,7 +439,7 @@
 </p>
 
 ▊ 复旦大学器官移植中心成立于 2001年10月30日，已累计完成肾脏移植近https://github.com/sodore/dsds/blob/master/audio/12-wuhan-tongji.mp3千例，年移植100余例，并以每年50% 的速度递增。</p>
-<a href="https://github.com/sodore/dsds/blob/master/audio/12-wuhan-tongji.mp3?raw=true">下载完整的录音文件.mp3</a></p>
+<a href="https://github.com/sodore/dsds/blob/master/audio/12-wuhan-tongji.mp3">下载完整的录音文件.mp3</a></p>
 
 
 </p>
