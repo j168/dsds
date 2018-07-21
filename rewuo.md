@@ -438,8 +438,8 @@
 （上述三个录音请翻墙搜寻，<a href="http://www.minghui.org/mh/articles/2013/9/26/280291.html">《追查国际关于中共活体摘取法轮功学员器官证据专辑》</a>，( 翻墙方法见<a href="https://git.io/ysys"> https://git.io/ysys </a>)。<br>
 </p>
 
-▊ 复旦大学器官移植中心成立于 2001年10月30日，已累计完成肾脏移植近千例，年移植100余例，并以每年50% 的速度递增。</p>
-<a href="http://media4.minghui.org/media/audio/2013/9/24/12-wuhan-tongji.mp3?raw=true">下载完整的录音文件.mp3</a></p>
+▊ 复旦大学器官移植中心成立于 2001年10月30日，已累计完成肾脏移植近https://github.com/sodore/dsds/blob/master/audio/12-wuhan-tongji.mp3千例，年移植100余例，并以每年50% 的速度递增。</p>
+<a href="https://github.com/sodore/dsds/blob/master/audio/12-wuhan-tongji.mp3?raw=true">下载完整的录音文件.mp3</a></p>
 
 
 </p>
