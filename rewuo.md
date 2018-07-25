@@ -491,7 +491,7 @@
 证人还说：当时王立军，现在的重庆公安局长，下死命令“必须斩尽杀绝”。</p>
 
 注一：在最初交谈中，证人为了不暴露自己，没有明确说出活摘器官的场所。在第二次交谈中，证人明确说出活摘器官是在沈阳军区总医院15楼的一间手术室内进行。经核实，沈阳军区总医院15至17楼均为外科。</p>
-<a href="https://github.com/sodore/dsds/blob/master/video/aj1-1.wmv?raw=true">下载完整的录音文件.mp3</a>
+<a href="https://github.com/sodore/dsds/blob/master/video/aj1-1.wmv?raw=true">下载完整的录音文件.mp4</a>
 </td> 
 </tr>
  </table>
@@ -518,7 +518,7 @@
 
 直到2016年邓光英出面作证，外界才得知，徐真之死不寻常。</p>
 徐真死后，劳教所没有通知家属。而徐真死后一个星期，该所警察喻晓华就告诉其他犯人:“事情已经摆平，不会追究”。</p>
-<a href="https://github.com/sodore/dsds/blob/master/video/flu-d.mp4?raw=true">下载完整的录音文件.mp3</a></p>
+<a href="https://github.com/sodore/dsds/blob/master/video/flu-d.mp4?raw=true">下载完整的录音文件.mp4</a></p>
 </td> 
 </tr>
  </table>
