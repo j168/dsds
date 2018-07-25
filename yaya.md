@@ -465,7 +465,7 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
   
   <h3 align="center"><a href="https://git.io/ysys?raw=true">◇ 翻墙软件下载: https://git.io/ysys </a></h3>
  <h3 align="center"><a href="https://git.io/ysys?raw=true">◇ 访问明慧网:http://www.minghui.org  </a></h3>
-<h3 align="center"><a href="https://git.io/ysys?raw=true"> ◇ 阅读大法书,教功录像,请访问法轮大法网站: http://www.falundafa.org/  </a></h3>
+<h3 align="center"><a href="https://git.io/ysys?raw=true"> ◇ 阅读大法书,教功录像,请翻墙访问法轮大法网站: http://www.falundafa.org/  </a></h3>
 </td>
   </table>
 
