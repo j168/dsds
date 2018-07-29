@@ -413,6 +413,17 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 <div align=center>四百多名法轮功学员在旧金山市府前排字炼功</div>
 <hr>
 
+<h2 align="center"><a href="https://a8.168dns.info/20?raw=true">“我要告诉更多的人来炼法轮功”</a></h2>
+【明慧网二零一八年七月二十九日】二零一八年七月二十二日，法轮功学员参加了在加拿大多伦多举办的青年日庆祝活动，吸引了很多民众前来了解功法。
+
+
+
+
+
+
+
+
+<hr>
 <div align=center>
 <img src="images/圖片 11.jpg" width=550>
 </div>
@@ -532,7 +543,7 @@ src="https://github.com/sodore/dsds/blob/master/images/532100-1.png" width="265"
 
 
 <div align=center>
-<img src="images/0725aa.png" width=880>
+<img src="images/aa0729.png" width=880>
 </div>
 <hr>
 
