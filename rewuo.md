@@ -387,6 +387,9 @@
 
 请翻墙搜寻，<a href="http://www.minghui.org/mh/articles/2013/8/31/278889.html">《薄熙来录音曝光揭中共掩盖的黑幕》</a> ，<a href="https://git.io/ysys"> 翻墙方法见 https://git.io/ysys 。</a> </p>
 <a href="https://github.com/sodore/dsds/blob/master/audio/mh-audio-ai-s.mp3?raw=true">下载完整的录音文件.mp3</a></p>
+
+<a href="https://github.com/sodore/dsds/blob/master/audio/mh-audio-ai-s.mp3?raw=true"><img 
+src="https://github.com/sodore/dsds/blob/master/images/004526.jpg" width="265"  border="0" alt=""></a>
 </td> 
 </tr>
  </table>
