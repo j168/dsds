@@ -333,8 +333,8 @@
 
 <div align=center>
 <img src="images/20171027-nina-Taipei-101-600x450.jpg" width=580></div>
-▲ 英国维吾尔协会负责人、肿瘤外科医师安华托帝表示，新疆某机场出现为特殊旅客、人体器官运输专门开辟的快速通道。（安华托帝‧博格达提供）
-<div align=center> <br />
+▲ 英国维吾尔协会负责人、肿瘤外科医师安华托帝表示，新疆某机场出现为特殊旅客、人体器官运输专门开辟的快速通道。（安华托帝‧博格达提供）<br />
+<div align=center> 
 <img src="images/33e8d860b1a6c032da17dc0c2354e7cc-450x236.jpg" width=480></div>
 <div align=center>▲ 医师指出，活摘器官在中国大陆已形成产业。(AFP)</div>
 </p>
@@ -360,7 +360,8 @@
  <p></p>
  
  
- 
+ <div align=center> 
+<img src="images/p7717301a361258660.jpg" width=480></div>
  
 <table>
   <tr>
@@ -400,6 +401,8 @@
 调查员：你说什么？</p>
 赵：我说，你说谷开来呀，卖法轮功人体器官的，</p>
 调查员：对呀，她在大连搞了两个尸体加工厂，她一具完整的尸体在国际上卖一百万美金，一个脏器被摘除的尸体她卖八十万美金。</p>
+<a href="https://github.com/sodore/dsds/blob/master/audio/18-tianjin-610-16k.mp3?raw=true">下载完整的录音文件.mp3</a></p>
+
 </td> 
 </tr>
  </table>
@@ -419,6 +422,8 @@
 陈强：像我们那边上头，像那个派出所里面那些关系，我这不能跟你说，你说这种情况那我不能说随随便便，随随便便那哪行啊，咱们这边都通着关系呢，既然我干这东西，那他一套一套部门那我全部都有人，那没有人那哪能够办到啊。</p>
 调查员：对呀，我就是……</p>
 陈强：这东西它都一条龙的，你知道嘛。</p>
+
+<a href="https://github.com/sodore/dsds/blob/master/audio/2-chenqiang-307-new-edited-8k.mp3?raw=true">下载完整的录音文件.mp3</a></p>
 </td> 
 </tr>
  </table>
