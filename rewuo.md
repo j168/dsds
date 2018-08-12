@@ -391,13 +391,9 @@
 </td> 
 </tr>
 
-<table>
-<tr>
-<td width=550 ><a href="https://github.com/sodore/dsds/blob/master/audio/mh-audio-ai-s.mp3" target="_blank">薄熙来承认江泽民下令活摘法轮功学员器官</a></td><td width=330 ><a href="https://github.com/sodore/dsds/blob/master/audio/mh-audio-ai-s.mp3?raw=true">mp3.下载</a></td></tr>
-</table>
-
  </table>
  <p></p>
+ 
 <table>
   <tr>
 <td>
