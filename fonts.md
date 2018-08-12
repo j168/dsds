@@ -243,7 +243,7 @@
 
 <p></p>
 <div align=center>
-<img src="images/69-11.jpg" width=880>
+<img src="images/69-11.jpg" width=580>
 </div>
 
 
