@@ -153,7 +153,7 @@
  
 <hr>
 <div align=center>
-<img src="images/2018-04-09_134218.jpg"width=100><h2 align=center><a href="https://" target="_blank">(推荐) 电子书（ePub版） 免费下载阅读</a></h2>
+<img src="images/2018-06-02_135715.jpg"width=880><h2 align=center><a href="https://" target="_blank">(推荐) 电子书（ePub版） 免费下载阅读</a></h2>
 </div>
 
 
@@ -229,10 +229,22 @@
 <td width=500><a href="https://github.com/sodore/dsds/blob/master/book/bnhhv.epub?raw=true" target="_blank">【百年红祸】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/bnhhv.epub?raw=true">(图文).下载</a></td></tr>
 
-
+<table>
+<tr>
+<td> 手机版ePub电子书，推荐使用 Reasily - EPUB 阅读器，可以观看视频、音频、图文。<a href="https://github.com/sodore/dsds/blob/master/book/open-epub.txt?raw=true">请在此下载( 如何开启epub说明 ). txt</a></p>
+ <div align=center><a href="https://github.com/sodore/dsds/blob/master/book/Reasily-epub-1802h.apk?raw=true"> 请在此点击直接下载Reasily-EPUB 阅读器</a></div></p>
+ 		<div align=center><a href="https://git.io/3f"> 更多epub真相,请在此 https://git.io/3f 下载</a></div></p>
+</td></tr>
+</table>
 </table>
 
 
-<hr>
+</table>
+
+<p></p>
+<div align=center>
+<img src="images/69-11.jpg" width=880>
+</div>
+
 
  
