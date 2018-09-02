@@ -5,7 +5,8 @@
 <div align="center">
 <img src="images/p1546941a375985250-ss.jpg" width=880 ></p></div>
 
-
+<div align="center">
+<img src="images/895556.jpg" width=880 ></p></div>
 
 <h3 align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/u18.2.zip?raw=true'>下載 翻牆軟件</h3>
 
@@ -17,8 +18,18 @@
  <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/u18.2.zip?raw=true'>无界浏览.桌机版1802.zip</a></td>
  <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/um4.5.apk?raw=true'>无界浏览.安卓版4.5.apk</a></td>
 </table>
-
+<div align="center">
+<img src="images/895556.jpg" width=880 ></p></div>
 <p></p>
+
+<h3 align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/um4.5.apk?raw=true'>在中国, 自由门和无界浏览是非常流行的翻墙软件。</h3>
+
+ 翻墙(破网)软件绿色、安全、无毒、简单易用,助你长期突破网络封锁看更多国内国外被封锁的真相,维护你的知情权!</p>
+ 全程安全加密,让你访问的网站和浏览的内容无人知晓,并且不会在本机和互联网上留下任何上网痕迹,提醒你一定要正常退出。</p>
+ 提醒你，使用翻墙软件时，请关闭其它网站网页，并请暂时关闭国产杀毒软件（如瑞星、金山 、360）或“绿坝”等, 它会阻止软件的运行, 并说有病毒,这是国内在有意拦截突破封锁的通道,那是封锁的伎俩,不让人民知道真相,请安心使用,没有病毒。</p>
+<p></p>
+
+
 
 <hr>
 <div align="center">
@@ -39,12 +50,6 @@
 <p></p>
 
 <hr>
-<h3 align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/um4.5.apk?raw=true'>在中国, 自由门和无界浏览是非常流行的翻墙软件。</h3>
-
- 翻墙(破网)软件绿色、安全、无毒、简单易用,助你长期突破网络封锁看更多国内国外被封锁的真相,维护你的知情权!</p>
- 全程安全加密,让你访问的网站和浏览的内容无人知晓,并且不会在本机和互联网上留下任何上网痕迹,提醒你一定要正常退出。</p>
- 提醒你，使用翻墙软件时，请关闭其它网站网页，并请暂时关闭国产杀毒软件（如瑞星、金山 、360）或“绿坝”等, 它会阻止软件的运行, 并说有病毒,这是国内在有意拦截突破封锁的通道,那是封锁的伎俩,不让人民知道真相,请安心使用,没有病毒。</p>
-<p></p>
 
 <hr>
 <h3 align="center"><b>翻墙特别推荐使用: iPPOTV (爱博电视) </b></h3>
