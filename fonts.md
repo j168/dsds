@@ -87,7 +87,7 @@
 有Android 产品的用户可以到Google Play免费下载安装iNTD TV。</p>      
 
 
-<hr>
+
 
 <table>
 <td width="880"  border="0" alt=""><h3 align="center" ><a href='https://github.com/sodore/dsds/blob/master/dong/wrar35b2sc.exe?raw=true'  >若您不能解压 zip或 rar压缩文件，请下载 Winrar安装软件</td></h3></a></table>
@@ -95,7 +95,7 @@
  建议您各种翻墙(破网)软件轮换用；旧版本的翻墙软件也留存，有时候新版本的不好用试试旧版本的说不定还能行。</p>
  封锁较严重地区，找到代理服务器的时间可能稍长。</p>
  若您不能解压 zip或 rar压缩文件，请下载 Winrar安装软件wrar35b2sc.exe(999KB), 双击并执行安装 Winrar后，鼠标右键点击 zip或 rar压缩文件，选择“解压文件…”或“解压到当前文件夹”等命令，即可解压压缩文件。</p>    
-  
+  <br/>
 
 <div align=center>
 <img src="images/aa0830.png" width=880 >
@@ -155,7 +155,7 @@
 </table> 
  
  
- 
+ <br/>
 
 <div align=center>
 <img src="images/2018-06-02_135715.jpg"width=880><h2 align=center><a href="https://" target="_blank">(推荐) 电子书（ePub版） 免费下载阅读</a></h2>
