@@ -47,7 +47,7 @@
 
 <td width="880"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/book/s-fangqian.epub?raw=true'>无界、自由门桌机和手机使用说明，含爱博电视使用说明视频。请下载epub 电子书</a></td>
 	</table>
-<p></p>
+<br/>
 
 <div align="center">
 <img src="images/2018-06-02_135715.jpg" width=880 ></p></div>
