@@ -6,7 +6,7 @@
 <img src="images/p1546941a375985250-ss.jpg" width=880 ></p></div>
 
 <div align="center">
-<img src="images/895556.jpg" width=880 ></p></div>
+<img src="images/2018-06-02_135715.jpg" width=880 ></p></div>
 
 <h3 align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/u18.2.zip?raw=true'>下載 翻牆軟件</h3>
 
@@ -18,8 +18,7 @@
  <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/u18.2.zip?raw=true'>无界浏览.桌机版1802.zip</a></td>
  <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/um4.5.apk?raw=true'>无界浏览.安卓版4.5.apk</a></td>
 </table>
-<div align="center">
-<img src="images/895556.jpg" width=880 ></p></div>
+
 <p></p>
 
 <h3 align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/um4.5.apk?raw=true'>在中国, 自由门和无界浏览是非常流行的翻墙软件。</h3>
@@ -29,7 +28,8 @@
  提醒你，使用翻墙软件时，请关闭其它网站网页，并请暂时关闭国产杀毒软件（如瑞星、金山 、360）或“绿坝”等, 它会阻止软件的运行, 并说有病毒,这是国内在有意拦截突破封锁的通道,那是封锁的伎俩,不让人民知道真相,请安心使用,没有病毒。</p>
 <p></p>
 
-
+<div align="center">
+<img src="images/2018-06-02_135715.jpg" width=880 ></p></div>
 
 <hr>
 <div align="center">
