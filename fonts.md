@@ -49,6 +49,8 @@
 	</table>
 <p></p>
 
+<div align="center">
+<img src="images/2018-06-02_135715.jpg" width=880 ></p></div>
 
 <h3 align="center"><b>翻墙特别推荐使用: iPPOTV (爱博电视) </b></h3>
 <h4 align="center"><b>(爱博电视)是桌机版的软件，在桌机上全频观看会更清楚。</b></h4>
