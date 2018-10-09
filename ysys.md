@@ -34,7 +34,8 @@
 <hr>
 
 <div align=center>
-<img src="images/bb1007.png"width=880>
+<img src="images/bb.jpg"width=880>
+	<h3 align=center>翻墙必看 视频 http://220.141.123.215 </h3>
 </div>
 <hr>
 
