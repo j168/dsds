@@ -1,5 +1,6 @@
 <div align=center>
 <img src="images/au6.jpg" width=880>
+<h3><b>翻墙必看 视频 http://61.228.116.242 </h3></b>
 </div>
 <p></p>
 <div align=center>
@@ -900,8 +901,4 @@
 <div align=center>
 <img src="images/20160124163436.jpg" width=480>
 </div>
-<hr>
-<div align=center>
-<img src="images/aa.png" width=880>
-</div>
-<h3 align=center>翻墙必看 视频 http://220.141.123.215 </h3>
+<br>
