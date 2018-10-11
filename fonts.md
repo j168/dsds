@@ -103,8 +103,6 @@
 
 <hr>
 
-
-<br/>
 <div align=center>
 <img src="images/2018-04-15_182301.jpg" width=680></div>
 
