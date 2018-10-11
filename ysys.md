@@ -1,6 +1,7 @@
 
 <div align=center>
 <img src="images/2018-04-08_220357.jpg"width=880>
+<h3 align=center>翻墙必看 视频 http://61.228.116.242 </h3>
 </div>
 
 <div align=center>
@@ -35,7 +36,6 @@
 
 <div align=center>
 <img src="images/bb.jpg"width=880>
-	<h3 align=center>翻墙必看 视频 http://220.141.123.215 </h3>
 </div>
 <hr>
 
