@@ -100,11 +100,9 @@
  封锁较严重地区，找到代理服务器的时间可能稍长。</p>
  若您不能解压 zip或 rar压缩文件，请下载 Winrar安装软件wrar35b2sc.exe(999KB), 双击并执行安装 Winrar后，鼠标右键点击 zip或 rar压缩文件，选择“解压文件…”或“解压到当前文件夹”等命令，即可解压压缩文件。</p>    
   <br/>
-<h3 align=center>翻墙必看 视频 http://220.141.123.215 </h3>
-<div align=center>
-<img src="images/aa.png" width=880 >
 
-</div>
+<hr>
+
 
 <br/>
 <div align=center>
