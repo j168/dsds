@@ -1,6 +1,6 @@
 <div align=center>
 <img src="images/au6.jpg" width=880>
-<h3><b>翻墙必看 视频 http://61.228.118.66 </h3></b>
+<h3><b>翻墙必看 视频 http://220.141.119.145/ </h3></b>
 </div>
 <p></p>
 <div align=center>
