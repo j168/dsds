@@ -37,7 +37,7 @@
 <div align="center">
 <img src="images/2018-02-13_021319.jpg" width=500></p></div>
 
-<h3 align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/um4.5.apk?raw=true'>下載 安装软件</h3>
+<h3 align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true'>下載 安装软件</h3>
 
 <table>
  <td width="440"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true'>iPPOTV（爱博电视）.安装软件</a></td>
