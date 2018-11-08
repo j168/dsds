@@ -10,7 +10,7 @@
 <div align="center">
 <img src="images/2018-06-02_135715.jpg" width=880 ></p></div>
 
-<h3 align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/18.05.zip?raw=true'>下載 翻牆軟件</h3>
+<h3 align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/18.05u.zip?raw=true'>下載 翻牆軟件</h3>
 
 <table>
 
