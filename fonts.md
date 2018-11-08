@@ -10,14 +10,14 @@
 <div align="center">
 <img src="images/2018-06-02_135715.jpg" width=880 ></p></div>
 
-<h3 align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/u18.2.zip?raw=true'>下載 翻牆軟件</h3>
+<h3 align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/18.05.zip?raw=true'>下載 翻牆軟件</h3>
 
 <table>
 
  <td   width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/free--764p.zip?raw=true'>自由门.桌机版764.zip</a></td>
  <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/fgma--dd.apk?raw=true'>自由门.安卓版32.apk</a></td>
 
- <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/u18.2.zip?raw=true'>无界浏览.桌机版18.05.zip</a></td>
+ <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/18.05.zip?raw=true'>无界浏览.桌机版18.05.zip</a></td>
  <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/um4.5.apk?raw=true'>无界浏览.安卓版4.5.apk</a></td>
 </table>
 
