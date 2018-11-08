@@ -17,7 +17,7 @@
  <td   width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/free--764p.zip?raw=true'>自由门.桌机版764.zip</a></td>
  <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/fgma--dd.apk?raw=true'>自由门.安卓版32.apk</a></td>
 
- <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/u18.2.zip?raw=true'>无界浏览.桌机版1802.zip</a></td>
+ <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/u18.2.zip?raw=true'>无界浏览.桌机版18.05.zip</a></td>
  <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/um4.5.apk?raw=true'>无界浏览.安卓版4.5.apk</a></td>
 </table>
 
@@ -71,13 +71,13 @@
 <div align="center">
 <img src="images/2018-06-02_135715.jpg" width=880 ></p></div>
 
-<h2 align="center" ><a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TVsp1 .apk?raw=true'> <b>新唐人移动平台 及时掌握天下事</a></b></h2>
+<h2 align="center" ><a href='https://github.com/sodore/dsds/blob/master/dong/2.1.13-iNTD_TVsp1.apk?raw=true'> <b>新唐人移动平台 及时掌握天下事</a></b></h2>
 
 <div align=center>
  <img src="images/2018-02-13_110530.jpg" width=500></p></div>
  
  <table>
-<td width="880"  border="0" alt=""><h3 align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/iNTD_TVsp1 .apk?raw=true' align="center" width=880>提供免费的(iNTD 软体)下载: 新唐人电视 iNTD TV (安卓版)</a></h3></td> </table>
+<td width="880"  border="0" alt=""><h3 align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/2.1.13-iNTD_TVsp1.apk?raw=true' align="center" width=880>提供免费的(iNTD 软体)下载: 新唐人电视 2.1.13 iNTD TV (安卓版)</a></h3></td> </table>
 
 
 <h3 align="center"><b> iNTD是专为智能手机和平板电脑设计和开发的软体</b></h3>
