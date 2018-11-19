@@ -1,6 +1,6 @@
 <div align="center">
 <img src="images/2018-04-20_154812.jpg" width=880></p>
- <h3><b>翻墙必看 视频 http://36.227.102.73</h3></b>
+ <h3><b>翻墙必看 视频 http://111.241.88.207</h3></b>
 </div>
 
 
