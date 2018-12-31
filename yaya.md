@@ -44,7 +44,7 @@
 
 <div align=center>
 <img src="images/013126.jpg">
- <h3><b>翻墙必看 视频 http://220.141.121.202 </h3></b>
+ <h3><b>翻墙必看 视频 http://61.228.116.228 </h3></b>
 </div>
 <hr>
 
