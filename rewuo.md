@@ -2,7 +2,7 @@
 
 <div align=center>
 <img src="images/au6.jpg" width=880>
-<h3><b>翻墙必看 视频 http://220.141.130.215 </h3></b>
+<h3><b>翻墙必看 视频 http://111.241.88.75 </h3></b>
 </div>
 <p></p>
 <div align=center>
