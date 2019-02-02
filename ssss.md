@@ -69,10 +69,10 @@
  
 <table>
   <tr>
-<td width=440><h3>1、大陆观众可通过韩星五号的新唐人中国频道收看。 2、通过iNTDTV和机顶盒收看新唐人中国频道</h3>
+<td><div align="center">1、大陆观众可通过韩星五号的新唐人中国频道收看。 2、通过iNTDTV和机顶盒收看新唐人中国频道</td></div> 
 
 <tr>
-<td width=440><h3>3、大陆观众还可通过翻墙软件收看新唐人中国频道。4、使用爱博电视之新唐人中国频道收看。</h3>
+<td><div align="center">3、大陆观众还可通过翻墙软件收看新唐人中国频道。4、使用爱博电视之新唐人中国频道收看。</td></div> 
 
  </tr>
 
@@ -117,9 +117,15 @@
 
 
 <table>
-<tr style="background:lightyellow;text-align:center">
+	
+<tr>
+<td width="450">参数</td>
+<td width="440">数值 </td>
+</tr>
+	
+<tr>
 	<td width="450">Frequency(频率)</td>
-	<td width="440">12618.35 MHz(如果接收机不能输入小数，则取整数) </td>
+	<td width="440">12618 MHz(或取整数) </td>
 </tr>
 <tr>
 	<td>Pol(极化)</td>
@@ -130,8 +136,8 @@
 	<td>3900 ks/s</td>
 </tr>
 <tr>
-	<td>FEC</td>
-	<td>1/2</td>
+	<td>纠错率: (FEC)</td>
+	<td>-1/2</td>
 </tr>
 <tr>
 	<td>Video PID（视频）</td>
