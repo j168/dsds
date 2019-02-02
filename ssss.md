@@ -71,13 +71,12 @@
   <tr>
 <td>1、大陆观众可通过韩星五号的新唐人中国频道收看。
 <tr>	
-<td>2、已安装机顶盒的大陆观众，可以通过机顶盒Android Box的iNTD TV上的新唐人中国频道收看。
-	<tr>
-<td>3、可以通过Android手机或Android机顶盒安装〝无界一点通〞收看。
-	<tr>
-<td>4、大陆观众还可通过翻墙软件登录动态网和无界浏览，使用爱博电视之新唐人中国频道收看。
-	<tr>
-<td>5、观赏神韵特别推荐这款{爱博电视桌机版}，平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。
+<td>2、通过iNTDTV和机顶盒收看新唐人中国频道
+
+<tr>
+<td>3、大陆观众还可通过翻墙软件收看新唐人中国频道。
+<tr>
+<td>4、使用爱博电视之新唐人中国频道收看。
 	
   </tr>
 
@@ -85,27 +84,27 @@
 
 
  <div align="center">
-<a href="https://github.com/sodore/dsds/blob/master/fonts.md"><h1>翻墙软件(完全免费 .安全. 无毒)下载点及教学电子书</a></h1></div>
+<a href="https://github.com/sodore/dsds/blob/master/fonts.md"><h2>翻墙软件(完全免费 .安全. 无毒)下载点及教学电子书</a></h2></div>
 
 <table>
 <tr>
 	
 <td>
-<a href="https://github.com/sodore/dsds/blob/master/dong/fg....764p.zip?raw=true"><h4 align="center">自由门 桌机版 zip</a><br></h4></td>
+<a href="https://github.com/sodore/dsds/blob/master/dong/fg765p.zip?raw=true"><h4 align="center">自由门 桌机版 7.65 zip</a><br></h4></td>
 	
 
 <td><a href="https://github.com/sodore/dsds/blob/master/dong/fg--764p.exe?raw=true"><h4 align="center">自由门 桌机版 exe</a><br></h4></td>
 	
 
-<td><a href="https://github.com/sodore/dsds/blob/master/dong/fgma--dd.apk?raw=true"><h4 align="center">自由门  安卓版  apk</a></h4></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/dong/fgma.apk?raw=true"><h4 align="center">自由门  安卓版 3.2 apk</a></h4></td>
 	
-<td><a href="https://github.com/sodore/dsds/blob/master/dong/u1704.zip?raw=true"><h4 align="center">无界 桌机版 zip</a></h4></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/dong/u1901.zip?raw=true"><h4 align="center">无界 桌机版 1901 zip</a></h4></td>
 	
 
 <td><a href="https://github.com/sodore/dsds/blob/master/dong/u1704.exe?raw=true"><h4 align="center">无界 桌机版 exe</a></h4></td>
 	
 
-<td><a href="https://github.com/sodore/dsds/blob/master/dong/um4.2a.apk?raw=true"><h4 align="center">无界 安卓版  apk</a></h4></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/dong/um4.5.apk?raw=true"><h4 align="center">无界 安卓版4.5  apk</a></h4></td>
 
 </tr>
 </table>
