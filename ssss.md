@@ -15,22 +15,20 @@
   
  <div align="center"><h2><a href="http://sy.epub.vin/sy">演出时间</h2></a></div>
  
-<h3>【新唐人2019年02月01日讯】新唐人电视台新年期间将独家播出《新唐人全球华人新年晚会》，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。</h3>
+【新唐人2019年02月01日讯】新唐人电视台新年期间将独家播出《新唐人全球华人新年晚会》，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。
 
-<h3>五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌！
+五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌！</P>
 
-神韵晚会将在大陆、纽约、美西、欧洲等全球五个频道播放，对海外播出的是“神韵艺术团2018年演出”，对中国大陆播出的是“神韵艺术团2019年演出”。网站不播出，只限于电视收看。Ruko平台不播出2019全球华人新年晚会，将播出2016和2017年神韵交响乐团音乐会。</h3>
+神韵晚会将在大陆、纽约、美西、欧洲等全球五个频道播放，对海外播出的是“神韵艺术团2018年演出”，对中国大陆播出的是“神韵艺术团2019年演出”。网站不播出，只限于电视收看。Ruko平台不播出2019全球华人新年晚会，将播出2016和2017年神韵交响乐团音乐会。</P>
 
- <div align="center"><h2><a href="http://sy.epub.vin/sy">大陆频道播出时间：</h2></a></div>
-<div align="center"><h3>请大家告诉大家，错过可能得等一年！</h3></div>  
+海外观众如要观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com
 
+<div align="center"><h3><a href="http://sy.epub.vin/sy">请大家告诉大家，错过可能得等一年！</h3></a></div>  
 
-<hr>
-<h3> 中国大陆地区收看，必须透过翻墙软件才能看到。请通过翻墙软件自由门、无界浏览或iNTD TV观看，并请锁定{新唐人电视台}中国频道这个网址：<a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">http://www.ntdtv.com/xtr/gb/tv_ch1china.html</a><h3>
-
+<div align="center"><h3><a href="http://sy.epub.vin/sy">请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </h3></a></div> 
 <hr>
 
-
+<div align="center"><h3><a href="http://sy.epub.vin/sy">大陆频道播出时间</h3></a></div>  
 
 
 <table width = 90%>
@@ -40,27 +38,33 @@
 	<td width="440">备注</td>
 </tr>
 <tr style="background:lightyellow;text-align:center">
-	<td>03/02 (元宵节)</td>
-	<td>21:30-23:00</td>
-	<td>神韵交响乐团</td>
+	<td>02/04 除夕</td>
+	<td>20:00-23:00</td>
+	<td>神韵晚会 首播</td>
 </tr>
 <tr style="background:lightyellow;text-align:center">
-	<td>03/03 (正月十六)</td>
-	<td>08:30-10:00</td>
-	<td>神韵交响乐团</td>
+	<td>02/05 除夕</td>
+	<td>23:00-02:00</td>
+	<td>神韵晚会 重播</td>
 	
 </tr>
 <tr style="background:lightyellow;text-align:center">
-	<td>03/03 (正月十六)</td>
-	<td>17:00-18:30</td>
-	<td>神韵交响乐团</td>
-	
+	<td>02/06 初一</td>
+	<td>08:30-11:30</td>
+	<td>神韵晚会 重播</td>
 </tr>
+
+<tr style="background:lightyellow;text-align:center">
+	<td>02/06 初一</td>
+	<td>14:00-17:00</td>
+	<td>神韵晚会 重播 </td>
+</tr>
+
 </table>
 
 
 
- <h1 align="center"><a href="http://qq.leucas.men/blogs/gIm6uPCL_gS9A/Cj2aqksXnp7/k0/rqJ9QrX/mA8m9/lyrUr/veVtV9sj8/ImBdevF/Avn2QUMa1/e.html">收视方法</a></h1>
+<div align="center"><h3><a href="http://sy.epub.vin/sy">收视方法</h3></a></div> 
 
  
 <table>
