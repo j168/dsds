@@ -69,10 +69,10 @@
  
 <table>
   <tr>
-<td>1、大陆观众可通过韩星五号的新唐人中国频道收看。 2、通过iNTDTV和机顶盒收看新唐人中国频道
+<td width=440><h3>1、大陆观众可通过韩星五号的新唐人中国频道收看。 2、通过iNTDTV和机顶盒收看新唐人中国频道</h3></td>
 
 <tr>
-<td>3、大陆观众还可通过翻墙软件收看新唐人中国频道。4、使用爱博电视之新唐人中国频道收看。
+<td width=440><h3>3、大陆观众还可通过翻墙软件收看新唐人中国频道。4、使用爱博电视之新唐人中国频道收看。</h3></td>
 
  </tr>
 
@@ -98,31 +98,19 @@
 
 <td><a href="https://github.com/sodore/dsds/blob/master/video/ippotvm.mp4?raw=true"><h4 align="center">爱博电视桌机板 (安裝教学)</a></h4></td>
 
-
-
-
 </tr>
 </table>
 
 
 <table>
 <tr>
-
-	
-
-
 <td><a href="https://github.com/sodore/dsds/blob/master/dong/iNTD_TVsp1.apk?raw=true"><h4 align="center">新唐人电视 (安卓版)</a></h4></td>
 
 <td><a href="https://github.com/sodore/dsds/blob/master/book/s-fangqian.epub?raw=true"><h4 align="center">翻墙软件使用说明 (EPUB 格式 )</a></h4></td>
-
+<td>推荐通过爱博电视收看新唐人中国频道，请选用中国频道400。</td>
 
 </tr>
 </table>
-
-<h3>推荐通过爱博电视收看新唐人中国频道，<a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true">爱博电视桌机版</a>，请选用中国频道400，平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。</h3>
-
-<h2 align="center">观看神韵影片精彩介绍,请下载电子书: <a href="https://github.com/sodore/dsds/blob/master/book/gala2018.epub?raw=true">gala2018.epub </a><br></h2>
-
 
 <hr>
 <div align="center"><h1>韩星5号的播出参数</h1></div><p></p>
