@@ -3,8 +3,8 @@
   </div>
 
 
- <div align="center"><h1><a href="http://qq.leucas.men/blogs/gIm6uPCL_gS9A/Cj2aqksXnp7/k0/rqJ9QrX/mA8m9/lyrUr/veVtV9sj8/ImBdevF/Avn2QUMa1/e.html">新唐人元宵节播出2017年神韵交响音乐会</h1></a></div>
-  
+ <div align="center"><h2><a href="http://sy.epub.vin/sy">【预告】新唐人中国新年期间独家播出</h1></a></div>
+   <div align="center"><h2>2019全球华人新年晚会</h1></div>
 
 <div align="center">
 <IMG SRC="sy/p8711531a681780116.jpg" width=880></p>
