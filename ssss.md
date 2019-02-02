@@ -23,7 +23,7 @@
 
 海外观众如要观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com  </P>
 
-<div align="center"><h3><a href="http://sy.epub.vin/sy">请大家告诉大家，错过可能得等一年！
+<div align="center"><h3><a href="http://sy.epub.vin/sy">请大家告诉大家，错过可能得等一年！</P>
 
 请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </h3></a></div> 
 <hr>
@@ -31,33 +31,33 @@
 <div align="center"><h3><a href="http://sy.epub.vin/sy">大陆频道播出时间</h3></a></div>  
 
 
-<table width = 90%>
+<table>
 <tr>
 	<td width="290"><div align="center">日期</td></div>  
 	<td width="290"><div align="center">时间</td></div>  
 	<td width="300"><div align="center">备注</td></div>  
 </tr>
-<tr style="background:lightyellow;text-align:center">
-	<td>02/04 除夕</td>
-	<td>20:00-23:00</td>
-	<td>神韵晚会 首播</td>
+<tr>
+	<td><div align="center">02/04 除夕</td></div> 
+	<td><div align="center">20:00-23:00</td></div> 
+	<td><div align="center">神韵晚会 首播</td></div> 
 </tr>
-<tr style="background:lightyellow;text-align:center">
-	<td>02/05 除夕</td>
-	<td>23:00-02:00</td>
-	<td>神韵晚会 重播</td>
+<tr>
+	<td><div align="center">02/05 除夕</td></div> 
+	<td><div align="center">23:00-02:00</td></div> 
+	<td><div align="center">神韵晚会 重播</td></div> 
 	
 </tr>
-<tr style="background:lightyellow;text-align:center">
-	<td>02/06 初一</td>
-	<td>08:30-11:30</td>
-	<td>神韵晚会 重播</td>
+<tr>
+	<td><div align="center">02/06 初一</td></div> 
+	<td><div align="center">08:30-11:30</td></div> 
+	<td><div align="center">神韵晚会 重播</td></div> 
 </tr>
 
-<tr style="background:lightyellow;text-align:center">
-	<td>02/06 初一</td>
-	<td>14:00-17:00</td>
-	<td>神韵晚会 重播 </td>
+<tr>
+	<td><div align="center">02/06 初一</td></div> 
+	<td><div align="center">14:00-17:00</td></div> 
+	<td><div align="center">神韵晚会 重播 </td></div> 
 </tr>
 
 </table>
