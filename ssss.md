@@ -40,24 +40,24 @@
 <tr>
 	<td><div align="center">02/04 除夕</td></div> 
 	<td><div align="center">20:00-23:00</td></div> 
-	<td><div align="center">神韵晚会 首播</td></div> 
+	<td><div align="center">神韵晚会  首播</td></div> 
 </tr>
 <tr>
 	<td><div align="center">02/05 除夕</td></div> 
 	<td><div align="center">23:00-02:00</td></div> 
-	<td><div align="center">神韵晚会 重播</td></div> 
+	<td><div align="center">神韵晚会  重播</td></div> 
 	
 </tr>
 <tr>
 	<td><div align="center">02/06 初一</td></div> 
 	<td><div align="center">08:30-11:30</td></div> 
-	<td><div align="center">神韵晚会 重播</td></div> 
+	<td><div align="center">神韵晚会  重播</td></div> 
 </tr>
 
 <tr>
 	<td><div align="center">02/06 初一</td></div> 
 	<td><div align="center">14:00-17:00</td></div> 
-	<td><div align="center">神韵晚会 重播 </td></div> 
+	<td><div align="center">神韵晚会  重播 </td></div> 
 </tr>
 
 </table>
@@ -79,16 +79,8 @@
 	<td width="440">4、使用爱博电视之新唐人中国频道收看。</td>
 </tr>
  
-<table>
-  <tr>
-<td><div align="center">1、大陆观众可通过韩星五号的新唐人中国频道收看。 2、通过iNTDTV和机顶盒收看新唐人中国频道</td></div> 
-
-<tr>
-<td><div align="center">3、大陆观众还可通过翻墙软件收看新唐人中国频道。4、使用爱博电视之新唐人中国频道收看。</td></div> 
-
- </tr>
-
 </table>
+ 
 
 
  <div align="center">
