@@ -21,7 +21,7 @@
 
 神韵晚会将在大陆、纽约、美西、欧洲等全球五个频道播放，对海外播出的是“神韵艺术团2018年演出”，对中国大陆播出的是“神韵艺术团2019年演出”。网站不播出，只限于电视收看。Ruko平台不播出2019全球华人新年晚会，将播出2016和2017年神韵交响乐团音乐会。</P>
 
-海外观众如要观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com  </P>
+海外观众如要观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com  <br/>
 <div align="center">
 <IMG SRC="sy/b_ornament_17_0M.png" width=880>
   </div>
@@ -83,7 +83,7 @@
 </tr>
  
 </table>
- 
+ </p>
 <div align="center">
 <IMG SRC="sy/b_ornament_17_0M.png" width=880>
   </div>
@@ -121,7 +121,9 @@
 </tr>
 </table>
 
-<hr>
+<div align="center">
+<IMG SRC="sy/b_ornament_17_0M.png" width=880>
+  </div>
 <div align="center"><h2>韩星5A号的播出参数</h2></div></p>
 
 
