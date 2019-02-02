@@ -23,19 +23,19 @@
 
 海外观众如要观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com  </P>
 
-<div align="center"><h3><a href="http://sy.epub.vin/sy">请大家告诉大家，错过可能得等一年！</h3></a></div>  
+<div align="center"><h3><a href="http://sy.epub.vin/sy">请大家告诉大家，错过可能得等一年！
 
-<div align="center"><h3><a href="http://sy.epub.vin/sy">请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </h3></a></div> 
+请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </h3></a></div> 
 <hr>
 
 <div align="center"><h3><a href="http://sy.epub.vin/sy">大陆频道播出时间</h3></a></div>  
 
 
 <table width = 90%>
-<tr style="background:lightyellow;text-align:center">
-	<td width="290">日期</td>
-	<td width="290">时间</td>
-	<td width="300">备注</td>
+<tr>
+	<td width="290"><div align="center">日期</td></div>  
+	<td width="290"><div align="center">时间</td></div>  
+	<td width="300"><div align="center">备注</td></div>  
 </tr>
 <tr style="background:lightyellow;text-align:center">
 	<td>02/04 除夕</td>
