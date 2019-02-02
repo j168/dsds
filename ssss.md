@@ -83,7 +83,7 @@
 </tr>
  
 </table>
- </p>
+ <br/>
 <div align="center">
 <IMG SRC="sy/b_ornament_17_0M.png" width=880>
   </div>
@@ -170,7 +170,9 @@
 谘询电话001-800-558-9045或电邮至feedback@ntdtv.com。</p>
 新唐人电视台 2018年9月16日
 
-
+div align="center">
+<IMG SRC="sy/plant.jpg" width=880>
+  </div>
 
 
 
