@@ -164,14 +164,14 @@
 	<td><div align="center">0257</td></div>
 </tr>
 </table>
-
+ <br/>
 <div align="center"><h2>韩星5A号</h2></div></p>
 
 因为韩星5号卫星寿命到期，其播出已经由韩星5A号接替。卫星位置和参数不变, 卫星接收天线不需要作任何调整。预计东北地区信号会有所增强，内陆部分地区信号会有所减弱。</p>
 谘询电话001-800-558-9045或电邮至feedback@ntdtv.com。</p>
 新唐人电视台 2018年9月16日
  <br/>
-div align="center">
+<div align="center">
 <IMG SRC="sy/plant.jpg" width=880>
   </div>
 
