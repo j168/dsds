@@ -66,6 +66,18 @@
 
 <div align="center"><h3><a href="http://sy.epub.vin/sy">收视方法</h3></a></div> 
 
+
+<table>
+	
+<tr>
+<td width="450">1、大陆观众可通过韩星五号的新唐人中国频道收看。</td>
+<td width="440">3、大陆观众还可通过翻墙软件收看新唐人中国频道。 </td>
+</tr>
+	
+<tr>
+	<td width="450">2、通过iNTDTV和机顶盒收看新唐人中国频道</td>
+	<td width="440">4、使用爱博电视之新唐人中国频道收看。</td>
+</tr>
  
 <table>
   <tr>
@@ -119,37 +131,37 @@
 <table>
 	
 <tr>
-<td width="450">参数</td>
-<td width="440">数值 </td>
+<td width="450"><div align="center">参数</td></div>
+<td width="440"><div align="center">数值 </td></div>
 </tr>
 	
 <tr>
-	<td width="450">Frequency(频率)</td>
-	<td width="440">12618 MHz(或取整数) </td>
+	<td width="450"><div align="center">Frequency(频率)</td></div>
+	<td width="440"><div align="center">12618 MHz(或取整数) </td></div>
 </tr>
 <tr>
-	<td>Pol(极化)</td>
-	<td>V(垂直)</td>
+	<td><div align="center">Pol(极化)</td></div>
+	<td>V<div align="center">(垂直)</td></div>
 </tr>
 <tr>
-	<td>Symbol Rate(符率)</td>
-	<td>3900 ks/s</td>
+	<td><div align="center">Symbol Rate(符率)</td></div>
+	<td><div align="center">3900 ks/s</td></div>
 </tr>
 <tr>
-	<td>纠错率: (FEC)</td>
-	<td>-1/2</td>
+	<td><div align="center">纠错率: (FEC)</td></div>
+	<td><div align="center">-1/2</td></div>
 </tr>
 <tr>
-	<td>Video PID（视频）</td>
-	<td>0257</td>
+	<td><div align="center">Video PID（视频）</td></div>
+	<td><div align="center">0257</td></div>
 </tr>
 <tr>
-	<td>Audio PID（音频）</td>
-	<td>0258</td>
+	<td><div align="center">Audio PID（音频）</td></div>
+	<td><div align="center">0258</td></div>
 </tr>
 <tr>
-	<td>Clock PID（时钟）</td>
-	<td>0257</td>
+	<td><div align="center">Clock PID（时钟）</td></div>
+	<td><div align="center">0257</td></div>
 </tr>
 </table>
 
