@@ -30,7 +30,7 @@
 
 请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </h3></a></div> 
 
-
+<hr>
 <div align="center"><h3><a href="http://sy.epub.vin/sy">大陆频道播出时间</h3></a></div>  
 
 
