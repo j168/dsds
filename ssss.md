@@ -29,9 +29,7 @@
 <div align="center"><h3><a href="http://sy.epub.vin/sy">请大家告诉大家，错过可能得等一年！</P>
 
 请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </h3></a></div> 
-<div align="center">
-<IMG SRC="sy/b_ornament_17_0M.png" width=880>
-  </div>
+
 
 <div align="center"><h3><a href="http://sy.epub.vin/sy">大陆频道播出时间</h3></a></div>  
 
@@ -86,7 +84,9 @@
  
 </table>
  
-
+<div align="center">
+<IMG SRC="sy/b_ornament_17_0M.png" width=880>
+  </div>
 
  <div align="center">
 <a href="https://github.com/sodore/dsds/blob/master/fonts.md"><h2>翻墙软件(完全免费 .安全. 无毒)下载点及教学电子书</a></h2></div>
