@@ -13,18 +13,24 @@
 <IMG SRC="sy/2019_SY-Spectacular-800x450.png" width=880></p>
   </div>
   
- <div align="center"><h1><a href="http://qq.leucas.men/blogs/gIm6uPCL_gS9A/Cj2aqksXnp7/k0/rqJ9QrX/mA8m9/lyrUr/veVtV9sj8/ImBdevF/Avn2QUMa1/e.html">演出时间</h1></a></div>
-<h3>【新唐人北京时间2018年02月27日讯】3月2日是正月十五元宵节。新唐人电视台将播出〝神韵交响乐团2017年演出〞。在大陆、纽约、美西、欧洲等全球五个频道播放。新唐人网站与电视台同时播放。</h3>
+ <div align="center"><h2><a href="http://sy.epub.vin/sy">演出时间</h2></a></div>
+ 
+<h3>【新唐人2019年02月01日讯】新唐人电视台新年期间将独家播出《新唐人全球华人新年晚会》，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。</h3>
 
-<h3>神韵交响乐团以洪大的交响乐再现中华音乐传统，由中国器乐领衔，搭配西方经典曲目，重现失传的美声唱法，带给您前所未有的启迪。相关播出时间安排如下：</h3>
+<h3>五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌！
+
+神韵晚会将在大陆、纽约、美西、欧洲等全球五个频道播放，对海外播出的是“神韵艺术团2018年演出”，对中国大陆播出的是“神韵艺术团2019年演出”。网站不播出，只限于电视收看。Ruko平台不播出2019全球华人新年晚会，将播出2016和2017年神韵交响乐团音乐会。</h3>
+
+ <div align="center"><h2><a href="http://sy.epub.vin/sy">大陆频道播出时间：</h2></a></div>
+<div align="center"><h3>请大家告诉大家，错过可能得等一年！</h3></div>  
+
 
 <hr>
 <h3> 中国大陆地区收看，必须透过翻墙软件才能看到。请通过翻墙软件自由门、无界浏览或iNTD TV观看，并请锁定{新唐人电视台}中国频道这个网址：<a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">http://www.ntdtv.com/xtr/gb/tv_ch1china.html</a><h3>
 
 <hr>
 
-<div align="center"><h2><a href="http://qq.leucas.men/blogs/gIm6uPCL_gS9A/Cj2aqksXnp7/k0/rqJ9QrX/mA8m9/lyrUr/veVtV9sj8/ImBdevF/Avn2QUMa1/e.html">大陆频道播出时间</a></h2></div>
-<div align="center"><h3>请大家告诉大家，错过可能得等一年！</h3></div>  
+
 
 
 <table width = 90%>
