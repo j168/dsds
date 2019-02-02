@@ -10,7 +10,7 @@
    
 
 <div align="center">
-<IMG SRC="sy/2019_SY-Spectacular-800x450.jpg" width=880></p>
+<IMG SRC="sy/2019_SY-Spectacular-800x450.png" width=880></p>
   </div>
   
  <div align="center"><h1><a href="http://qq.leucas.men/blogs/gIm6uPCL_gS9A/Cj2aqksXnp7/k0/rqJ9QrX/mA8m9/lyrUr/veVtV9sj8/ImBdevF/Avn2QUMa1/e.html">演出时间</h1></a></div>
