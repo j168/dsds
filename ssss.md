@@ -227,7 +227,7 @@
 </tr>
 <tr>
 	<td><div align="center">Symbol Rate(符率)</td></div>
-	<td><div align="center">3900 ks/s</td></div>
+	<td><div align="center">03900 ks/s</td></div>
 </tr>
 <tr>
 	<td><div align="center">纠错率: (FEC)</td></div>
@@ -235,15 +235,15 @@
 </tr>
 <tr>
 	<td><div align="center">Video PID（视频）</td></div>
-	<td><div align="center">0257</td></div>
+	<td><div align="center">0512</td></div>
 </tr>
 <tr>
 	<td><div align="center">Audio PID（音频）</td></div>
-	<td><div align="center">0258</td></div>
+	<td><div align="center">4112</td></div>
 </tr>
 <tr>
 	<td><div align="center">Clock PID（时钟）</td></div>
-	<td><div align="center">0257</td></div>
+	<td><div align="center">0512</td></div>
 </tr>
 </table>
  <br/>
