@@ -29,7 +29,7 @@
 
 <div align="center"><h3><a href="http://sy.epub.vin/sy">请大家告诉大家，错过可能得等一年！</h3></P>
 
-中国大陆请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </a></div> 
+◆ 中国大陆请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </a></div> 
 
   <br/>
 
@@ -105,7 +105,7 @@
 </tr>
 
 </table>
- 
+ <br/>
   <div align="center">
 <IMG SRC="sy/b_ornament_17_0M.png" width=880>
   </div>
@@ -138,7 +138,7 @@
 	
 </tr>
 </table>
-
+ <br/>
 <div align="center">
 <IMG SRC="sy/b_ornament_17_0M.png" width=880>
   </div>
@@ -161,7 +161,7 @@
 
 <table>
 <tr>
-<td width="880"><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true">推荐通过爱博电视收看新唐人中国频道，请选用中国频道400 </a></td>
+<td width="880"><h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true">◆ 推荐通过爱博电视收看新唐人中国频道，请选用中国频道400 ◆  </h3</a></td>
 </tr>
  
 </table>
@@ -172,7 +172,7 @@
   </div>
 
  <div align="center">
-<a href="https://github.com/sodore/dsds/blob/master/fonts.md"><h2>翻墙软件(完全免费 .安全. 无毒)下载点及教学电子书</a></h2></div>
+<a href="https://github.com/sodore/dsds/blob/master/fonts.md"><h2>◆ 翻墙软件下载点及教学电子书(完全免费 .安全. 无毒)</a></h2></div>
 
 <table>
 <tr>
