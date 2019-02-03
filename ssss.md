@@ -6,8 +6,8 @@
  <div align="center"><h2><a href="http://sy.epub.vin/sy">【预告】新唐人中国新年期间独家播出</h2></a></div>
    <div align="center"><h2><a href="http://sy.epub.vin/sy">2019全球华人新年晚会</h2></a></div>
    
- <div align="center"><h2><a href="http://sy.epub.vin/sy">请锁住此频道 观看了解更多  http://sy.epub.vin/sy  </h2></a></div>
-   </p>
+ <div align="center"><h2><a href="http://sy.epub.vin/sy">请锁住此频道 观看影片了解更多  http://sy.epub.vin/sy  </h2></a></div>
+   <br/>
 
 <div align="center">
 <IMG SRC="sy/2019_SY-Spectacular-800x450.png" width=880></p>
@@ -31,7 +31,7 @@
 
 中国大陆请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </a></div> 
 
-</p>
+  <br/>
 
 <div align="center">
 <IMG SRC="sy/2019-02-03_155117.jpg" width=880></p>
@@ -105,15 +105,15 @@
 </tr>
 
 </table>
-</p>
-
-<div align="center">
-<IMG SRC="sy/2019-02-03_155226.jpg" width=880></p>
-  </div>
+  <br/>
 
 <div align="center"><h3><a href="http://sy.epub.vin/sy">对中国大陆播出《2017神韵交响乐团音乐会》</h3></a></div>
  
 同时，在新年期间，新唐人还将独家播出《2017神韵交响乐团音乐会》，邀请您踏上五千年的音乐之旅。神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪。</p>
+<br/>
+<div align="center">
+<IMG SRC="sy/2019-02-03_155226.jpg" width=880></p>
+  </div>
 
 <div align="center"><a href="http://sy.epub.vin/sy">大陆频道播出时间如下:</a></div> 
 
