@@ -13,7 +13,7 @@
 <IMG SRC="sy/2019_SY-Spectacular-800x450.png" width=880></p>
   </div>
   
- <div align="center"><h2><a href="http://sy.epub.vin/sy">演出时间</h2></a></div>
+ <div align="center"><h2><a href="http://sy.epub.vin/sy">播出时间</h2></a></div>
  
 【新唐人2019年02月01日讯】新唐人电视台新年期间将独家播出《新唐人全球华人新年晚会》，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。
 
@@ -32,8 +32,8 @@
 请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </h3></a></div> 
 
 <hr>
-<div align="center"><h3><a href="http://sy.epub.vin/sy">大陆频道播出时间</h3></a></div>  
-
+<div align="center"><h3><a href="http://sy.epub.vin/sy">对中国大陆播出的是“神韵艺术团"2019年演出</h3></a></div>  
+<div align="center">大陆频道播出时间如下:</div>  
 
 <table>
 <tr>
@@ -42,29 +42,66 @@
 	<td width="300"><div align="center">备注</td></div>  
 </tr>
 <tr>
-	<td><div align="center">02/04 除夕</td></div> 
-	<td><div align="center">20:00-23:00</td></div> 
+	<td><div align="center">02/04/2019 除夕</td></div> 
+	<td><div align="center">20:00</td></div> 
 	<td><div align="center">神韵晚会  首播</td></div> 
 </tr>
 <tr>
-	<td><div align="center">02/05 除夕</td></div> 
-	<td><div align="center">23:00-02:00</td></div> 
+	<td><div align="center">02/04/2019 除夕</td></div> 
+	<td><div align="center">23:00</td></div> 
 	<td><div align="center">神韵晚会  重播</td></div> 
 	
 </tr>
 <tr>
-	<td><div align="center">02/06 初一</td></div> 
-	<td><div align="center">08:30-11:30</td></div> 
+	<td><div align="center">02/05/2019 初一</td></div> 
+	<td><div align="center">08:30</td></div> 
 	<td><div align="center">神韵晚会  重播</td></div> 
 </tr>
 
 <tr>
-	<td><div align="center">02/06 初一</td></div> 
-	<td><div align="center">14:00-17:00</td></div> 
+	<td><div align="center">02/05/2019 初一</td></div> 
+	<td><div align="center">14:00</td></div> 
 	<td><div align="center">神韵晚会  重播 </td></div> 
 </tr>
 
 </table>
+<hr>
+<div align="center"><h3><a href="http://sy.epub.vin/sy">对海外播出的是“神韵艺术团2018年演出</h3></a></div>  
+<div align="center">新唐人亚太台神韵晚会播出时间如下:</div>  
+
+<table>
+<tr>
+	<td width="290"><div align="center">日期</td></div>  
+	<td width="290"><div align="center">时间</td></div>  
+	<td width="300"><div align="center">备注</td></div>  
+</tr>
+<tr>
+	<td><div align="center">02/04/2019 除夕</td></div> 
+	<td><div align="center">20:00</td></div> 
+	<td><div align="center">神韵晚会  首播</td></div> 
+</tr>
+<tr>
+	<td><div align="center">02/05/2019 除夕</td></div> 
+	<td><div align="center">12：00</td></div> 
+	<td><div align="center">神韵晚会  重播</td></div> 
+	
+</tr>
+<tr>
+	<td><div align="center">02/05/2019 初一</td></div> 
+	<td><div align="center">09：00</td></div> 
+	<td><div align="center">神韵晚会  重播</td></div> 
+</tr>
+
+<tr>
+	<td><div align="center">02/05/2019 初一</td></div> 
+	<td><div align="center">15：00</td></div> 
+	<td><div align="center">神韵晚会  重播 </td></div> 
+</tr>
+
+</table>
+<br/>
+
+
 
 
 
