@@ -172,7 +172,7 @@
   </div>
 
  <div align="center">
-<a href="https://github.com/sodore/dsds/blob/master/fonts.md"><h3>◆ 翻墙软件下载点及教学电子书(完全免费 .安全. 无毒)</a></h3></div>
+<a href="https://github.com/sodore/dsds/blob/master/fonts.md"><h3>◆ 翻墙软件下载点及教学电子书 (完全免费 .安全. 无毒)</a></h3></div>
 
 <table>
 <tr>
