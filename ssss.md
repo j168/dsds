@@ -27,13 +27,13 @@
 <IMG SRC="sy/b_ornament_17_0M.png" width=880>
   </div>
 
-<div align="center"><h3><a href="http://sy.epub.vin/sy">请大家告诉大家，错过可能得等一年！</P>
+<div align="center"><h3><a href="http://sy.epub.vin/sy">请大家告诉大家，错过可能得等一年！</h3></P>
 
-请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </h3></a></div> 
+中国大陆请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </a></div> 
 
 <hr>
 <div align="center"><h3><a href="http://sy.epub.vin/sy">对中国大陆播出的是“神韵艺术团"2019年演出</h3></a></div>  
-<div align="center">大陆频道播出时间如下:</div>  
+<div align="center"><a href="http://sy.epub.vin/sy">大陆频道播出时间如下:</a></div>  
 
 <table>
 <tr>
@@ -67,7 +67,7 @@
 </table>
 <hr>
 <div align="center"><h3><a href="http://sy.epub.vin/sy">对海外播出的是“神韵艺术团2018年演出</h3></a></div>  
-<div align="center">新唐人亚太台神韵晚会播出时间如下:</div>  
+<div align="center"><a href="http://sy.epub.vin/sy">新唐人亚太台神韵晚会播出时间如下:</a></div>  
 
 <table>
 <tr>
@@ -101,10 +101,32 @@
 </table>
 <br/>
 
+<div align="center"><h3><a href="http://sy.epub.vin/sy">对中国大陆播出《2017神韵交响乐团音乐会》</h3></a></div>
+ 
+同时，在新年期间，新唐人还将独家播出《2017神韵交响乐团音乐会》，邀请您踏上五千年的音乐之旅。神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪。</p>
 
+<div align="center"><a href="http://sy.epub.vin/sy">大陆频道播出时间如下:</a></div> 
 
+<table>
+<tr>
+	<td width="290"><div align="center">日期</td></div>  
+	<td width="290"><div align="center">时间</td></div>  
+	<td width="300"><div align="center">备注</td></div>  
+</tr>
+<tr>
+	<td><div align="center">2/5/2019 初一</td></div> 
+	<td><div align="center">20:00</td></div> 
+	<td><div align="center">神韵交响乐团音乐会  首播</td></div> 
+</tr>
+<tr>
+	<td><div align="center">2/6/2019 初二</td></div> 
+	<td><div align="center">10：00</td></div> 
+	<td><div align="center">神韵交响乐团音乐会  重播</td></div> 
+	
+</tr>
+</table>
 
-
+<br/>
 <div align="center"><h3><a href="http://sy.epub.vin/sy">收视方法</h3></a></div> 
 
 
