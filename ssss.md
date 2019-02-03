@@ -82,9 +82,14 @@
 	<td width="450">2、通过iNTDTV和机顶盒收看新唐人中国频道</td>
 	<td width="440">4、使用爱博电视之新唐人中国频道收看。</td>
 </tr>
+
+<tr>
+<td width="880"><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true"><h4 align="center">推荐通过爱博电视收看新唐人中国频道，请选用中国频道400 </a></h4></td>
+</tr>
  
 </table>
  <br/>
+ 
 <div align="center">
 <IMG SRC="sy/b_ornament_17_0M.png" width=880>
   </div>
@@ -109,9 +114,6 @@
 <td><a href="https://github.com/sodore/dsds/blob/master/video/ippotvm.mp4?raw=true"><h4 align="center">爱博电视桌机板 (安裝教学)</a></h4></td>
 </tr>
 
-<tr>
-<td><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true"><h4 align="center">推荐通过爱博电视收看新唐人中国频道，请选用中国频道400 </a></h4></td>
-</tr>
 </table>
 
 
