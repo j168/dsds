@@ -82,7 +82,9 @@
 	<td width="450">2、通过iNTDTV和机顶盒收看新唐人中国频道</td>
 	<td width="440">4、使用爱博电视之新唐人中国频道收看。</td>
 </tr>
+</table>
 
+<table>
 <tr>
 <td width="880"><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true">推荐通过爱博电视收看新唐人中国频道，请选用中国频道400 </a></td>
 </tr>
