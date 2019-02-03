@@ -84,7 +84,7 @@
 </tr>
 
 <tr>
-<td width="880"><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true"><h4 align="center">推荐通过爱博电视收看新唐人中国频道，请选用中国频道400 </a></h4></td>
+<td width="880"><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true">推荐通过爱博电视收看新唐人中国频道，请选用中国频道400 </a></td>
 </tr>
  
 </table>
