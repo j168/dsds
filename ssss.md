@@ -31,7 +31,13 @@
 
 中国大陆请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </a></div> 
 
-<hr>
+</p>
+
+<div align="center">
+<IMG SRC="sy/2019-02-03_155117.jpg" width=880></p>
+  </div>
+
+
 <div align="center"><h3><a href="http://sy.epub.vin/sy">对中国大陆播出的是“神韵艺术团"2019年演出</h3></a></div>  
 <div align="center"><a href="http://sy.epub.vin/sy">大陆频道播出时间如下:</a></div>  
 
@@ -66,8 +72,8 @@
 
 </table>
 <hr>
-<div align="center"><h3><a href="http://sy.epub.vin/sy">对海外播出的是“神韵艺术团2018年演出</h3></a></div>  
-<div align="center"><a href="http://sy.epub.vin/sy">新唐人亚太台神韵晚会播出时间如下:</a></div>  
+<div align="center"><h3><a href="http://sy.epub.vin/sy">对海外播出的是“神韵艺术团"2018年演出</h3></a></div>  
+<div align="center"><a href="http://sy.epub.vin/sy">新唐人亚太台"神韵晚会"播出时间如下:</a></div>  
 
 <table>
 <tr>
@@ -99,7 +105,11 @@
 </tr>
 
 </table>
-<br/>
+</p>
+
+<div align="center">
+<IMG SRC="sy/2019-02-03_155226.jpg" width=880></p>
+  </div>
 
 <div align="center"><h3><a href="http://sy.epub.vin/sy">对中国大陆播出《2017神韵交响乐团音乐会》</h3></a></div>
  
