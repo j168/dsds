@@ -105,11 +105,14 @@
 </tr>
 
 </table>
-  <br/>
+ 
+  <div align="center">
+<IMG SRC="sy/b_ornament_17_0M.png" width=880>
+  </div>
 
 <div align="center"><h3><a href="http://sy.epub.vin/sy">对中国大陆播出《2017神韵交响乐团音乐会》</h3></a></div>
  
-同时，在新年期间，新唐人还将独家播出《2017神韵交响乐团音乐会》，邀请您踏上五千年的音乐之旅。神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪。</p>
+在新年期间，新唐人还将独家播出《2017神韵交响乐团音乐会》，邀请您踏上五千年的音乐之旅。神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪。</p>
 <br/>
 <div align="center">
 <IMG SRC="sy/2019-02-03_155226.jpg" width=880></p>
@@ -136,7 +139,9 @@
 </tr>
 </table>
 
-<br/>
+<div align="center">
+<IMG SRC="sy/b_ornament_17_0M.png" width=880>
+  </div>
 <div align="center"><h3><a href="http://sy.epub.vin/sy">收视方法</h3></a></div> 
 
 
