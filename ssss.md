@@ -72,12 +72,14 @@
 </table>
   <br/>
   
-  <div align="center"><h3><a href="http://sy.epub.vin/sy">中国大陆收视《神韵晚会》方法(二)</h3></a></div> 
+  <div align="center"><h4><a href="http://sy.epub.vin/sy">中国大陆收视《神韵晚会》方法(二)</h4></a></div> 
 
 <h3 align="center"><a href="http://sy.epub.vin/sy">◆ 可通过韩星五A号的新唐人中国频道收看《神韵晚会》</h3</a>
 
  <br/>
-<div align="center"><h3>韩星5A号的播出参数</h3></div></p>
+<div align="center"><h3>韩星5A号的播出参数</h3></div>
+
+</p>
 
 
 <table>	
@@ -116,7 +118,8 @@
 </tr>
 </table>
  </p>
-<div align="center"><h2>韩星5A号</h2></div></p>
+<div align="center"><h3>韩星5A号</h3></div>
+</p>
 
 因为韩星5号卫星寿命到期，其播出已经由韩星5A号接替。卫星位置和参数不变, 卫星接收天线不需要作任何调整。预计东北地区信号会有所增强，内陆部分地区信号会有所减弱。</p>
 谘询电话001-800-558-9045或电邮至feedback@ntdtv.com。</p>
@@ -129,11 +132,11 @@
 <IMG SRC="sy/2017_SYSO_EW_Lantern-600x338-600x338.png" width=880></p>
   </div>
 
-<div align="center"><h2><b>神韵交响乐</b></h2></div>
+<div align="center"><h3><b>神韵交响乐</b></h3></div>
 </p>
 新唐人电视台播出的“神韵艺术团交响乐团2017年演出”，分别在大陆、纽约、美西、休斯顿、欧洲等全球五个频道与新唐人网站同时播放。</p>
 
-<div align="center"><h2><a href="http://sy.epub.vin/sy">《2017神韵交响乐团音乐会》大陆播出时间</h2></a></div>
+<div align="center"><h3><a href="http://sy.epub.vin/sy">《2017神韵交响乐团音乐会》大陆播出时间</h3></a></div>
 
 <table>
 <tr>
