@@ -3,12 +3,12 @@
   </div>
 
  <div align="center"><h2><a href="http://sy.epub.vin/sy">请锁住此频道 观看影片了解更多  http://sy.epub.vin/sy  </h2></a></div>
-   <br/>
- <div align="center"><h3><a href="http://sy.epub.vin/sy">请大家告诉大家，错过可能得等一年！</h3></P>
 
+ <div align="center"><h3><a href="http://sy.epub.vin/sy">请大家告诉大家，错过可能得等一年！</h3></P>
+<br/>
 
 <div align="center">
-<IMG SRC="sy/2019_SY_China_Lantern-600x400-1.png" width=880></p>
+<IMG SRC="sy/2019_SY_China_Lantern-600x400-1.png" width=880>
   </div>
   
   <div align="center"><h2><a href="http://sy.epub.vin/sy">【新唐人公告】</h2></a></div>
@@ -33,7 +33,7 @@
 <IMG SRC="sy/b_ornament_17_0M.png" width=880>
   </div>
 
- <div align="center"><h2><a href="http://sy.epub.vin/sy">大陆播出时间</h2></a></div>
+ <div align="center"><h2><a href="http://sy.epub.vin/sy">{神韵晚会}大陆播出时间</h2></a></div>
 
 <table>
 <tr>
@@ -55,7 +55,9 @@
 
 </table>
 
-<a href="http://sy.epub.vin/sy">中国大陆播出的是神韵艺术团2019年的演出，网站和Roku不播出，只限于电视收看。</a></P>
+<div align="center">
+<IMG SRC="sy/bb-232.png" width=880>
+  </div>
 
 <div align="center"><h3><a href="http://sy.epub.vin/sy">收视方法</h3></a></div> 
 
@@ -64,12 +66,12 @@
 	
 <tr>
 <td width="450">1、大陆观众可通过韩星五号的新唐人中国频道收看。</td>
-<td width="440">3、大陆观众还可通过翻墙软件收看新唐人中国频道。 </td>
+
 </tr>
 	
 <tr>
-	<td width="450">2、通过iNTDTV和机顶盒收看新唐人中国频道</td>
-	<td width="440">4、使用爱博电视之新唐人中国频道收看。</td>
+	<td width="450">2、大陆观众通过爱博电视收看新唐人中国频道，请选用中国频道400</td>
+	
 	
 </tr>
 </table>
