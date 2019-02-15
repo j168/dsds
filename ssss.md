@@ -58,14 +58,10 @@
 <IMG SRC="sy/bb-232.png" width=880>
   </div>
 
-<div align="center"><h3><a href="http://sy.epub.vin/sy">中国大陆收视《神韵晚会》方法</h3></a></div> 
+<div align="center"><h3><a href="http://sy.epub.vin/sy">中国大陆收视《神韵晚会》方法(一)</h3></a></div> 
 
-
-<table>
-<tr>
-<td width="880"><h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true">◆ 大陆观众可通过爱博电视收看新唐人中国频道，请选用中国频道400，收看《神韵晚会》◆ </h3</a></td>
-</tr>
-</table>
+<h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true">◆ 可通过爱博电视收看新唐人中国频道，请选用中国频道400，收看《神韵晚会》◆ </h3</a>
+</p>
 	
 <table>
 <tr>
@@ -75,13 +71,11 @@
 </tr>
 </table>
   <br/>
-  
-<table>	
-<tr>
-<td width="880"><h3 align="center"><a href="http://sy.epub.vin/sy">◆ 大陆观众可通过韩星五A号的新唐人中国频道收看《神韵晚会》。</h3</a></td>
-</tr>
-</table>
+  <div align="center"><h3><a href="http://sy.epub.vin/sy">中国大陆收视《神韵晚会》方法(二)</h3></a></div> 
 
+<h3 align="center"><a href="http://sy.epub.vin/sy">◆ 可通过韩星五A号的新唐人中国频道收看《神韵晚会》。</h3</a>
+
+</p>
 <div align="center"><h2>韩星5A号的播出参数</h2></div></p>
 
 
