@@ -1,33 +1,90 @@
 <div align="center">
-<IMG SRC="sy/2019-0.jpg" width=880></p>
+<IMG SRC="sy/112-bb2.png" width=880></p>
   </div>
 
-
- <div align="center"><h2><a href="http://sy.epub.vin/sy">【预告】新唐人中国新年期间独家播出</h2></a></div>
-   <div align="center"><h2><a href="http://sy.epub.vin/sy">2019全球华人新年晚会</h2></a></div>
-   
  <div align="center"><h2><a href="http://sy.epub.vin/sy">请锁住此频道 观看影片了解更多  http://sy.epub.vin/sy  </h2></a></div>
    <br/>
+ <div align="center"><h3><a href="http://sy.epub.vin/sy">请大家告诉大家，错过可能得等一年！</h3></P>
+
 
 <div align="center">
-<IMG SRC="sy/2019_SY-Spectacular-800x450.png" width=880></p>
+<IMG SRC="sy/2019_SY_China_Lantern-600x400-1.png" width=880></p>
   </div>
   
- <div align="center"><h2><a href="http://sy.epub.vin/sy">播出时间</h2></a></div>
- 
-【新唐人2019年02月01日讯】新唐人电视台新年期间将独家播出《新唐人全球华人新年晚会》，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。
+  <div align="center"><h2><a href="http://sy.epub.vin/sy">【新唐人公告】</h2></a></div>
 
-五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌！</P>
+【新唐人2019年02月15日讯】元宵节期间，新唐人电视台将独家播出《新唐人全球华人新年晚会——神韵晚会》，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出；同时，新唐人还将播出“神韵艺术团交响乐团2017年演出”。</P>
 
-神韵晚会将在大陆、纽约、美西、欧洲等全球五个频道播放，对海外播出的是“神韵艺术团2018年演出”，对中国大陆播出的是“神韵艺术团2019年演出”。<a href="http://sy.epub.vin/sy">网站不播出，只限于电视收看。Ruko平台不播出2019全球华人新年晚会，将播出2016和2017年神韵交响乐团音乐会。</a></P>
+五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌。神韵艺术团自2006年在全球巡演以来，迄今逾百万人观看，受到各国民众的热烈欢迎，爆满加坐成常态。</P>
+
+神韵交响乐是神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪，邀请您踏上五千年的音乐之旅。
+
+亲爱的观众朋友们，让优质的中国古典舞及音乐盛宴陪您与家人共度元宵，敬请阖家观赏！
+
+<b>神韵晚会</b>
+</P>
+神韵晚会将在新唐人电视台的纽约、美西、休斯顿、欧洲、大陆等五个频道播放，对海外播出的是神韵艺术团2018年的演出，对中国大陆播出的是神韵艺术团2019年的演出。<a href="http://sy.epub.vin/sy">网站和Roku不播出，只限于电视收看。</a></P>
 
 海外观众如要观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com  
 <br/>
+
+
 <div align="center">
 <IMG SRC="sy/b_ornament_17_0M.png" width=880>
   </div>
 
-<div align="center"><h3><a href="http://sy.epub.vin/sy">请大家告诉大家，错过可能得等一年！</h3></P>
+ <div align="center"><h2><a href="http://sy.epub.vin/sy">大陆播出时间</h2></a></div>
+
+<table>
+<tr>
+	<td width="290"><div align="center">日期</td></div>  
+	<td width="290"><div align="center">时间</td></div>  
+	<td width="300"><div align="center">备注</td></div>  
+</tr>
+<tr>
+	<td><div align="center">02/19/2019 元宵</td></div> 
+	<td><div align="center">20:00</td></div> 
+	<td><div align="center">神韵晚会  首播</td></div> 
+</tr>
+<tr>
+	<td><div align="center">02/19/2019 元宵</td></div> 
+	<td><div align="center">23:00</td></div> 
+	<td><div align="center">神韵晚会  重播</td></div> 
+	
+</tr>
+
+</table>
+
+<a href="http://sy.epub.vin/sy">中国大陆播出的是神韵艺术团2019年的演出，网站和Roku不播出，只限于电视收看。</a></P>
+
+<div align="center"><h3><a href="http://sy.epub.vin/sy">收视方法</h3></a></div> 
+
+
+<table>
+	
+<tr>
+<td width="450">1、大陆观众可通过韩星五号的新唐人中国频道收看。</td>
+<td width="440">3、大陆观众还可通过翻墙软件收看新唐人中国频道。 </td>
+</tr>
+	
+<tr>
+	<td width="450">2、通过iNTDTV和机顶盒收看新唐人中国频道</td>
+	<td width="440">4、使用爱博电视之新唐人中国频道收看。</td>
+	
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="880"><h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true">◆ 推荐通过爱博电视收看新唐人中国频道，请选用中国频道400 ◆  </h3</a></td>
+</tr>
+ 
+</table>
+
+<hr>
+
+
+
 
 ◆ 中国大陆请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </a></div> 
 
@@ -41,37 +98,7 @@
 <div align="center"><h3><a href="http://sy.epub.vin/sy">对中国大陆播出的是“神韵艺术团"2019年演出</h3></a></div>  
 <div align="center"><a href="http://sy.epub.vin/sy">大陆频道播出时间如下:</a></div>  
 
-<table>
-<tr>
-	<td width="290"><div align="center">日期</td></div>  
-	<td width="290"><div align="center">时间</td></div>  
-	<td width="300"><div align="center">备注</td></div>  
-</tr>
-<tr>
-	<td><div align="center">02/04/2019 除夕</td></div> 
-	<td><div align="center">20:00</td></div> 
-	<td><div align="center">神韵晚会  首播</td></div> 
-</tr>
-<tr>
-	<td><div align="center">02/04/2019 除夕</td></div> 
-	<td><div align="center">23:00</td></div> 
-	<td><div align="center">神韵晚会  重播</td></div> 
-	
-</tr>
-<tr>
-	<td><div align="center">02/05/2019 初一</td></div> 
-	<td><div align="center">08:30</td></div> 
-	<td><div align="center">神韵晚会  重播</td></div> 
-</tr>
 
-<tr>
-	<td><div align="center">02/05/2019 初一</td></div> 
-	<td><div align="center">14:00</td></div> 
-	<td><div align="center">神韵晚会  重播 </td></div> 
-</tr>
-
-</table>
-<hr>
 <div align="center"><h3><a href="http://sy.epub.vin/sy">对海外播出的是“神韵艺术团"2018年演出</h3></a></div>  
 <div align="center"><a href="http://sy.epub.vin/sy">新唐人亚太台"神韵晚会"播出时间如下:</a></div>  
 
@@ -142,30 +169,7 @@
 <div align="center">
 <IMG SRC="sy/b_ornament_17_0M.png" width=880>
   </div>
-<div align="center"><h3><a href="http://sy.epub.vin/sy">收视方法</h3></a></div> 
 
-
-<table>
-	
-<tr>
-<td width="450">1、大陆观众可通过韩星五号的新唐人中国频道收看。</td>
-<td width="440">3、大陆观众还可通过翻墙软件收看新唐人中国频道。 </td>
-</tr>
-	
-<tr>
-	<td width="450">2、通过iNTDTV和机顶盒收看新唐人中国频道</td>
-	<td width="440">4、使用爱博电视之新唐人中国频道收看。</td>
-	
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="880"><h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true">◆ 推荐通过爱博电视收看新唐人中国频道，请选用中国频道400 ◆  </h3</a></td>
-</tr>
- 
-</table>
- <br/>
  
 <div align="center">
 <IMG SRC="sy/b_ornament_17_0M.png" width=880>
