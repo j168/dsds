@@ -165,7 +165,7 @@
  
 <div align="center"><h3><a href="http://sy.epub.vin/sy">中国大陆收视《神韵交响乐团》方法</h3></a></div> 
 
-<div align="center"><h3><a href="http://sy.epub.vin/sy">◆ 请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </a></h3></div> 
+<div align="center"><h3><a href="http://sy.epub.vin/sy">◆ 请通过翻墙软件自由门、无界浏览或 iNTD TV 、爱博电视收看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </a></h3></div> 
 
   <br/>
 
