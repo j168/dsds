@@ -21,17 +21,12 @@
 
 亲爱的观众朋友们，让优质的中国古典舞及音乐盛宴陪您与家人共度元宵，敬请阖家观赏！
 
-<b>神韵晚会</b>
+ <div align="center"><h2><b>神韵晚会</b></h2></div>
 </P>
 神韵晚会将在新唐人电视台的纽约、美西、休斯顿、欧洲、大陆等五个频道播放，对海外播出的是神韵艺术团2018年的演出，对中国大陆播出的是神韵艺术团2019年的演出。<a href="http://sy.epub.vin/sy">网站和Roku不播出，只限于电视收看。</a></P>
 
 海外观众如要观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com  
 <br/>
-
-
-<div align="center">
-<IMG SRC="sy/b_ornament_17_0M.png" width=880>
-  </div>
 
 <div align="center">
 <IMG SRC="sy/2019-02-03_155117.jpg" width=880></p>
@@ -57,17 +52,18 @@
 	
 </tr>
 </table>
+<br/>
 
 <div align="center">
 <IMG SRC="sy/bb-232.png" width=880>
   </div>
 
-<div align="center"><h3><a href="http://sy.epub.vin/sy">中国大陆收视方法</h3></a></div> 
+<div align="center"><h3><a href="http://sy.epub.vin/sy">中国大陆收视《神韵晚会》方法</h3></a></div> 
 
 
 <table>
 <tr>
-<td width="880"><h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true">◆ 大陆观众可通过爱博电视收看新唐人中国频道，请选用中国频道400 ◆ </h3</a></td>
+<td width="880"><h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true">◆ 大陆观众可通过爱博电视收看新唐人中国频道，请选用中国频道400，收看《神韵晚会》◆ </h3</a></td>
 </tr>
 </table>
 	
@@ -82,15 +78,14 @@
   
 <table>	
 <tr>
-<td width="880"><h3 align="center">◆ 大陆观众可通过韩星五号的新唐人中国频道收看。</h3</a></td>
+<td width="880"><h3 align="center"><a href="http://sy.epub.vin/sy">◆ 大陆观众可通过韩星五A号的新唐人中国频道收看《神韵晚会》。</h3</a></td>
 </tr>
 </table>
 
 <div align="center"><h2>韩星5A号的播出参数</h2></div></p>
 
 
-<table>
-	
+<table>	
 <tr>
 <td width="450"><div align="center">参数</td></div>
 <td width="440"><div align="center">数值 </td></div>
@@ -154,20 +149,18 @@
 <tr>
 	<td><div align="center">02/20/2019 十六</td></div> 
 	<td><div align="center">8:00</td></div> 
-	<td><div align="center">神韵晚会  首播</td></div> 
+	<td><div align="center">神韵交响乐团  首播</td></div> 
 </tr>
 <tr>
 	<td><div align="center">02/20/2019 十六</td></div> 
 	<td><div align="center">14:00</td></div> 
-	<td><div align="center">神韵晚会  重播</td></div> 
+	<td><div align="center">神韵交响乐团  重播</td></div> 
 	
 </tr>
 </table>
  <br/>
  
-<div align="center"><h3><a href="http://sy.epub.vin/sy">中国大陆收视方法</h3></a></div> 
-
-
+<div align="center"><h3><a href="http://sy.epub.vin/sy">中国大陆收视《神韵交响乐团》方法</h3></a></div> 
 
 <div align="center"><h3><a href="http://sy.epub.vin/sy">◆ 中国大陆请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </a></h3></div> 
 
@@ -196,21 +189,7 @@
 </table>
 
 
-<table>
-<tr>
-<td><a href="https://github.com/sodore/dsds/blob/master/dong/iNTD_TVsp1.apk?raw=true"><h4 align="center">新唐人电视 (安卓版)</a></h4></td>
-
-<td><a href="https://github.com/sodore/dsds/blob/master/book/s-fangqian.epub?raw=true"><h4 align="center">翻墙软件使用说明 (EPUB 格式 )</a></h4></td>
-
-
-</tr>
-</table>
  <br/>
-<div align="center">
-<IMG SRC="sy/b_ornament_17_0M.png" width=880>
-  </div>
-
-
 
 
  <div align="center">
