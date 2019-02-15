@@ -71,10 +71,15 @@
 </tr>
 </table>
   <br/>
+  <div align="center">
+<IMG SRC="sy/b_ornament_17_0M.png" width=880>
   
+<br/>
+</div>
+
   <div align="center"><h4><a href="http://sy.epub.vin/sy">中国大陆收视《神韵晚会》方法(二)</h4></a></div> 
 
-<h3 align="center"><a href="http://sy.epub.vin/sy">◆ 可通过韩星五A号的新唐人中国频道收看《神韵晚会》</h3</a>
+<h3 align="center"><a href="http://sy.epub.vin/sy">◆ 可通过韩星五A号的新唐人中国频道收看《神韵晚会》</a></h3>
 
  <br/>
 <div align="center"><h3>韩星5A号的播出参数</h3></div>
@@ -129,7 +134,7 @@
 <hr>
 
 <div align="center">
-<IMG SRC="sy/2017_SYSO_EW_Lantern-600x338-600x338.png" width=880></p>
+<IMG SRC="sy/2017_SYSO_EW_Lantern-600x338-600x338.png" width=880>
   </div>
 
 <div align="center"><h3><b>神韵交响乐</b></h3></div>
