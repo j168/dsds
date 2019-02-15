@@ -71,12 +71,13 @@
 </tr>
 </table>
   <br/>
+  
   <div align="center"><h3><a href="http://sy.epub.vin/sy">中国大陆收视《神韵晚会》方法(二)</h3></a></div> 
 
-<h3 align="center"><a href="http://sy.epub.vin/sy">◆ 可通过韩星五A号的新唐人中国频道收看《神韵晚会》。</h3</a>
+<h3 align="center"><a href="http://sy.epub.vin/sy">◆ 可通过韩星五A号的新唐人中国频道收看《神韵晚会》</h3</a>
 
-</p>
-<div align="center"><h2>韩星5A号的播出参数</h2></div></p>
+ <br/>
+<div align="center"><h3>韩星5A号的播出参数</h3></div></p>
 
 
 <table>	
