@@ -120,7 +120,7 @@
 	<td><div align="center">0512</td></div>
 </tr>
 </table>
- <br/>
+ </p>
 <div align="center"><h2>韩星5A号</h2></div></p>
 
 因为韩星5号卫星寿命到期，其播出已经由韩星5A号接替。卫星位置和参数不变, 卫星接收天线不需要作任何调整。预计东北地区信号会有所增强，内陆部分地区信号会有所减弱。</p>
@@ -134,7 +134,7 @@
 <IMG SRC="sy/2017_SYSO_EW_Lantern-600x338-600x338.png" width=880></p>
   </div>
 
-<b>神韵交响乐</b>
+<div align="center"><h2><b>神韵交响乐</b></h2></div>
 </p>
 新唐人电视台播出的“神韵艺术团交响乐团2017年演出”，分别在大陆、纽约、美西、休斯顿、欧洲等全球五个频道与新唐人网站同时播放。</p>
 
@@ -162,7 +162,7 @@
  
 <div align="center"><h3><a href="http://sy.epub.vin/sy">中国大陆收视《神韵交响乐团》方法</h3></a></div> 
 
-<div align="center"><h3><a href="http://sy.epub.vin/sy">◆ 中国大陆请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </a></h3></div> 
+<div align="center"><h3><a href="http://sy.epub.vin/sy">◆ 请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </a></h3></div> 
 
   <br/>
 
