@@ -71,6 +71,13 @@
 </tr>
 </table>
   <br/>
+  
+  <div align="center">
+<IMG SRC="sy/2018-02-13_021319.jpg" width=880>
+  
+  一款用于实时视频流共享的软件平台，高效稳定的视频传输技术带给用户崭新的视听体验。爱博电视具有突破封锁的得天独厚的优势。
+   <br/>
+  
   <div align="center">
 <IMG SRC="sy/b_ornament_17_0M.png" width=880>
   
@@ -198,9 +205,11 @@
 
 </tr>
 </table>
-
-
-
+ <br/>
+<div align="center">
+<IMG SRC="sy/INTDTV.png" width=880>
+  </div>
+<a href="https://github.com/sodore/dsds/blob/master/dong/iNTD_TVsp1.apk?raw=true"><h4 align="center">新唐人安卓版 iNTD TV 可以用于安卓机顶盒，平板电脑，和手机。在安装安卓版 iNTD TV 后，中国大陆用户无需借助翻墙工具，可以直接通过安卓版 iNTD TV 收看新唐人直播或点播节目。</a></h4>
 
  <br/>
 
