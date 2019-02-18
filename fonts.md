@@ -19,11 +19,17 @@
 
 <table>
 
- <td   width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/free--764p.zip?raw=true'>自由门.桌机版764.zip</a></td>
+ <td  width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/fg--766p.zip?raw=true'>自由门.桌机版 766.zip</a></td>
+ 
+  <td  width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/fg=766r.exe?raw=true'>自由门.桌机版 766.exe</a></td>
+ 
  <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/fgma--dd.apk?raw=true'>自由门.安卓版32.apk</a></td>
 
- <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/18.06u.zip?raw=true'>无界浏览.桌机版18.06u.zip</a></td>
- <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/um4.5.apk?raw=true'>无界浏览.安卓版4.5.apk</a></td>
+ <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/u=19.02.zip?raw=true'>无界浏览.桌机版19.02.zip</a></td>
+ 
+  <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/u=19.02.exe?raw=true'>无界浏览.桌机版19.02.exe</a></td>
+ 
+ <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/um=4.6.apk?raw=true'>无界浏览.安卓版4.6.apk</a></td>
 </table>
 
 <p></p>
