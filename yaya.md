@@ -4,7 +4,7 @@
 
 <div align=center>
 <img src="images/013126.jpg">
- <h3><b>翻墙必看 视频 http://220.141.139.204 </h3></b>
+ <h3><b>翻墙必看 视频 http://111.241.93.196 </h3></b>
 </div>
 <hr>
 
