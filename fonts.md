@@ -170,7 +170,7 @@
  <br/>
 
 <div align=center>
-<img src="images/2018-06-02_135715.jpg"width=880><h2 align=center><a href="https://" target="_blank">(推荐) 电子书（ePub版） 免费下载阅读</a></h2>
+<img src="images/b_illust_54_0M.png"width=880><h2 align=center><a href="https://" target="_blank">(推荐) 电子书（ePub版） 免费下载阅读</a></h2>
 </div>
 
 
