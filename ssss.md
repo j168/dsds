@@ -74,14 +74,14 @@
   
   <div align="center">
 <IMG SRC="sy/2018-02-13_021319.jpg" width=680></div>
-   <br/>
+  
   一款用于实时视频流共享的软件平台，高效稳定的视频传输技术带给用户崭新的视听体验。爱博电视具有突破封锁的得天独厚的优势。
    <br/>
   
   <div align="center">
 <IMG SRC="sy/b_ornament_17_0M.png" width=880></div>
   
-<br/>
+
 
 
   <div align="center"><h4><a href="http://nn.epub.vin/sy">中国大陆收视《神韵晚会》方法(二)</h4></a></div> 
