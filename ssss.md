@@ -199,14 +199,7 @@
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="450"><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true"><h4 align="center">爱博电视桌机版.下载  (完全免费 .安全. 无毒)</a></h4></td>
 
-<td width="450"><a href="https://github.com/sodore/dsds/blob/master/video/ippotvm.mp4?raw=true"><h4 align="center">爱博电视桌机板 (安裝教学).下载 </a></h4></td>
-
-</tr>
-</table>
 
 
  <br/>
