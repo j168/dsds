@@ -21,7 +21,7 @@
 
  <td  width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/fg--766p.zip?raw=true'>自由门.桌机版 766.zip</a></td>
  
-  <td  width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/fg=766r.exe?raw=true'>自由门.桌机版 766.exe</a></td>
+  <td  width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/fg=766r.exe?raw=true'>自由门.桌机版 766.exe</a></td>
  
  <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/fgma--dd.apk?raw=true'>自由门.安卓版32.apk</a></td>
 
