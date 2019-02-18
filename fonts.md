@@ -63,7 +63,7 @@
 <br/>
 
 <div align="center">
-<img src="images/2018-06-02_135715.jpg" width=880 ></p></div>
+<img src="images/b_illust_54_0M.png" width=880 ></p></div>
 
 <h3 align="center"><b>翻墙特别推荐使用: iPPOTV (爱博电视) </b></h3>
 <h4 align="center"><b>(爱博电视)是桌机版的软件，在桌机上全频观看会更清楚。</b></h4>
@@ -80,7 +80,7 @@
 <br/>
 
 <div align="center">
-<img src="images/2018-06-02_135715.jpg" width=880 ></p></div>
+<img src="images/b_illust_54_0M.png" width=880 ></p></div>
 
 <h2 align="center" ><a href='https://github.com/sodore/dsds/blob/master/dong/2.1.13-iNTD_TVsp1.apk?raw=true'> <b>新唐人移动平台 及时掌握天下事</a></b></h2>
 
