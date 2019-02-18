@@ -10,7 +10,7 @@
 
 
 <div align="center">
-<img src="images/p1546941a375985250-ss.jpg" width=880 ></p></div>
+<img src="images/p1546941a375985250-ss1.jpg" width=880 ></p></div>
 
 <div align="center">
 <img src="images/2018-06-02_135715.jpg" width=880 ></p></div>
