@@ -10,7 +10,7 @@
 
 
 <div align="center">
-<img src="images/p1546941a375985250-ss1-5.jpg" width=880 ></p></div>
+<img src="images/p1546941a375985250-ss1-5.jpg" width=680 ></p></div>
 
 <div align="center">
 <img src="images/b_illust_54_0M.png" width=880 ></p></div>
