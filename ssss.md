@@ -176,17 +176,25 @@
 <tr>
 	
 <td>
-<a href="https://github.com/sodore/dsds/blob/master/dong/fg765p.zip?raw=true"><h4 align="center">自由门 桌机版 7.65 zip</a><br></h4></td>
-	
+<a href="https://github.com/sodore/dsds/blob/master/dong/fg--766p.zip?raw=true"><h4 align="center">自由门 桌机版 7.66 zip</a><br></h4></td>
+
+<a href="https://github.com/sodore/dsds/blob/master/dong/fg=766r.exe?raw=true"><h4 align="center">自由门 桌机版 7.66 exe</a><br></h4></td>
+
 <td><a href="https://github.com/sodore/dsds/blob/master/dong/fgma.apk?raw=true"><h4 align="center">自由门  安卓版 3.2 apk</a></h4></td>
 	
-<td><a href="https://github.com/sodore/dsds/blob/master/dong/u1901.zip?raw=true"><h4 align="center">无界 桌机版 1901 zip</a></h4></td>
-	
-<td><a href="https://github.com/sodore/dsds/blob/master/dong/um4.5.apk?raw=true"><h4 align="center">无界 安卓版4.5  apk</a></h4></td>
+<td><a href="https://github.com/sodore/dsds/blob/master/dong/u=19.02.zip?raw=true"><h4 align="center">无界 桌机版 1902 zip</a></h4></td>
+
+<td><a href="https://github.com/sodore/dsds/blob/master/dong/u=19.02.exe?raw=true"><h4 align="center">无界 桌机版 1902 exe</a></h4></td>
+
+<td><a href="https://github.com/sodore/dsds/blob/master/dong/um=4.6.apk?raw=true"><h4 align="center">无界 安卓版4.6 apk</a></h4></td>
 <tr>
 <td><a href="https://github.com/sodore/dsds/blob/master/dong/iNTD_TVsp1.apk?raw=true"><h4 align="center">新唐人电视 (安卓版)</a></h4></td>
 
 <td><a href="https://github.com/sodore/dsds/blob/master/book/s-fangqian.epub?raw=true"><h4 align="center">翻墙软件使用说明 (EPUB 格式 )</a></h4></td>
+
+<td width="450"><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true"><h4 align="center">爱博电视桌机版.下载  (完全免费 .安全. 无毒)</a></h4></td>
+
+<td width="450"><a href="https://github.com/sodore/dsds/blob/master/video/ippotvm.mp4?raw=true"><h4 align="center">爱博电视桌机板 (安裝教学).下载 </a></h4></td>
 
 </tr>
 </table>
