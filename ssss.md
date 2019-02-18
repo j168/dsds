@@ -2,16 +2,16 @@
 <IMG SRC="sy/112-bb2.png" width=880>
   </div>
 
- <div align="center"><h2><a href="http://sy.epub.vin/sy">请锁住此频道 观看影片了解更多  http://sy.epub.vin/sy  </h2></a></div>
+ <div align="center"><h2><a href="http://co.epub.vin/sy">请锁住此频道 观看影片了解更多  http://co.epub.vin/sy  </h2></a></div>
 
- <div align="center"><h3><a href="http://sy.epub.vin/sy">请大家告诉大家，错过可能得等一年！</h3> </div>
+ <div align="center"><h3><a href="http://ff.epub.vin/sy">请大家告诉大家，错过可能得等一年！</h3> </div>
 <br/>
 
 <div align="center">
 <IMG SRC="sy/2019_SY_China_Lantern-600x400-1.png" width=880>
   </div>
   
-  <div align="center"><h2><a href="http://sy.epub.vin/sy">【新唐人公告】</h2></a></div>
+  <div align="center"><h2><a href="http://ff.epub.vin/sy">【新唐人公告】</h2></a></div>
 
 【新唐人2019年02月15日讯】元宵节期间，新唐人电视台将独家播出《新唐人全球华人新年晚会——神韵晚会》，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出；同时，新唐人还将播出“神韵艺术团交响乐团2017年演出”。</P>
 
@@ -23,7 +23,7 @@
 
  <div align="center"><h2><b>神韵晚会</b></h2></div>
 </P>
-神韵晚会将在新唐人电视台的纽约、美西、休斯顿、欧洲、大陆等五个频道播放，对海外播出的是神韵艺术团2018年的演出，对中国大陆播出的是神韵艺术团2019年的演出。<a href="http://sy.epub.vin/sy">网站和Roku不播出，只限于电视收看。</a></P>
+神韵晚会将在新唐人电视台的纽约、美西、休斯顿、欧洲、大陆等五个频道播放，对海外播出的是神韵艺术团2018年的演出，对中国大陆播出的是神韵艺术团2019年的演出。<a href="http://ff.epub.vin/sy">网站和Roku不播出，只限于电视收看。</a></P>
 
 海外观众如要观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com  
 <br/>
@@ -32,7 +32,7 @@
 <IMG SRC="sy/2019-02-03_155117.jpg" width=880></p>
   </div>
 
- <div align="center"><h2><a href="http://sy.epub.vin/sy">《神韵晚会》大陆播出时间</h2></a></div>
+ <div align="center"><h2><a href="http://nn.epub.vin/sy">《神韵晚会》大陆播出时间</h2></a></div>
 
 <table>
 <tr>
@@ -58,7 +58,7 @@
 <IMG SRC="sy/bb-232.png" width=880>
   </div>
 
-<div align="center"><h3><a href="http://sy.epub.vin/sy">中国大陆收视《神韵晚会》方法(一)</h3></a></div> 
+<div align="center"><h3><a href="http://nn.epub.vin/sy">中国大陆收视《神韵晚会》方法(一)</h3></a></div> 
 
 <h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true">◆ 可通过爱博电视收看新唐人中国频道，请选用中国频道400，收看《神韵晚会》◆ </h3</a>
 </p>
@@ -77,9 +77,9 @@
 <br/>
 </div>
 
-  <div align="center"><h4><a href="http://sy.epub.vin/sy">中国大陆收视《神韵晚会》方法(二)</h4></a></div> 
+  <div align="center"><h4><a href="http://nn.epub.vin/sy">中国大陆收视《神韵晚会》方法(二)</h4></a></div> 
 
-<h3 align="center"><a href="http://sy.epub.vin/sy">◆ 可通过韩星五A号的新唐人中国频道收看《神韵晚会》</a></h3>
+<h3 align="center"><a href="http://nn.epub.vin/sy">◆ 可通过韩星五A号的新唐人中国频道收看《神韵晚会》</a></h3>
 
  <br/>
 <div align="center"><h3>韩星5A号的播出参数</h3></div>
@@ -141,7 +141,7 @@
 </p>
 新唐人电视台播出的“神韵艺术团交响乐团2017年演出”，分别在大陆、纽约、美西、休斯顿、欧洲等全球五个频道与新唐人网站同时播放。</p>
 
-<div align="center"><h3><a href="http://sy.epub.vin/sy">《2017神韵交响乐团音乐会》大陆播出时间</h3></a></div>
+<div align="center"><h3><a href="http://nn.epub.vin/sy">《2017神韵交响乐团音乐会》大陆播出时间</h3></a></div>
 
 <table>
 <tr>
@@ -163,9 +163,9 @@
 </table>
  <br/>
  
-<div align="center"><h3><a href="http://sy.epub.vin/sy">中国大陆收视《神韵交响乐团》方法</h3></a></div> 
+<div align="center"><h3><a href="http://kk.epub.vin/sy">中国大陆收视《神韵交响乐团》方法</h3></a></div> 
 
-<div align="center"><h3><a href="http://sy.epub.vin/sy">◆ 请通过翻墙软件自由门、无界浏览或 iNTD TV 、爱博电视收看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </a></h3></div> 
+<div align="center"><h3><a href="http://kk.epub.vin/sy">◆ 请通过翻墙软件自由门、无界浏览或 iNTD TV 、爱博电视收看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </a></h3></div> 
 
   <br/>
 
