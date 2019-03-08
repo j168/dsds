@@ -667,7 +667,7 @@ src="https://github.com/sodore/dsds/blob/master/images/532100-1.png" width="265"
 <div align=center>
 <img src="images/b-800.jpg"><a href="https://git.io/dadakk"> </a>
 
-他们的改变来自法轮大法  https://git.io/dadakk </div>
+<h3>他们的改变来自法轮大法  https://git.io/dadakk </h3></div>
 </P>
 <div align=center>
 <img src="images/plant.jpg">
