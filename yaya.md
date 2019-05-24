@@ -720,7 +720,7 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 <b>从怀疑到真修</b><br/>
 
 <div align=center>
-<img src="images/2019-5-23-nyc-fahui-interviews_02--ss.jpg.jpg"width=550>
+<img src="images/2019-5-23-nyc-fahui-interviews_02--ss.jpg.png"width=550>
 </div>
 <div align=center>图2：肯尼斯·金（Kenneth Kim）的改变使得妻子跟随他一起在大法中修炼</div>
 </P>
@@ -756,7 +756,7 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 <b>病魔缠身后重回大法修炼的经历</b><br/>
 
 <div align=center>
-<img src="images/2019-5-23-nyc-fahui-interviews_04--ss.jpg.jpg"width=550>
+<img src="images/2019-5-23-nyc-fahui-interviews_04--ss.jpg.png"width=550>
 </div>
 <div align=center>图4：帕崔克（Padraig Seosamh o Dalaigh）病后重返大法修炼，通过学法炼功身体得以康复。</div>
 </P>
