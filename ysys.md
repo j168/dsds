@@ -1,7 +1,7 @@
 
 <div align=center>
 <img src="images/2018-04-08_220357.jpg"width=880>
-<h3 align=center>翻墙必看 视频 http://111.240.77.75 </h3>
+<h3 align=center>翻墙必看 视频 http://114.43.45.31 </h3>
 </div>
 
 <div align=center>
