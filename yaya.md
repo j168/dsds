@@ -2,7 +2,7 @@
 
 <div align=center>
 <img src="images/013126.jpg">
- <h3><b>翻墙必看 视频 http://118.161.140.97 </h3></b>
+ <h3><b>翻墙必看 视频 http://111.240.64.57 </h3></b>
 </div>
 <hr>
 
