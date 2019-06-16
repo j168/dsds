@@ -16,9 +16,9 @@
 
 <table>
 
- <td  width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/fg767p.zip?raw=true'>自由门.桌机版 fg767p.zip</a></td>
+ <td  width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/fg++768p.zip?raw=true'>自由门.桌机版 fg++768p.zip</a></td>
  
-  <td  width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/fg767p.exe?raw=true'>自由门.桌机版 fg767p.exe</a></td>
+  <td  width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/fg++768p.exe?raw=true'>自由门.桌机版 fg++768p.exe</a></td>
  
  <td width="220"  border="0" alt="" align="center"><a href='https://github.com/sodore/dsds/blob/master/dong/fgma--dd.apk?raw=true'>自由门.安卓版32.apk</a></td>
 
