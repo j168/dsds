@@ -46,7 +46,7 @@
 <table>
 <tr>
 	<td width=440><h4 align=center><a href="https://github.com/sodore/dsds/blob/master/pdf/9pinggb_A4.pdf?raw=true">PDF(简体版).下载</a></h4></td>
-	<td width=440 ><h4 align=center><a href="https://github.com/sodore/dsds/blob/master/book/9-mp3-jpgcdm4a5k.epub?raw=true">镶崁16k mp3 电子书(简体版).下载</a></h4></td></tr>
+	<td width=440 ><h4 align=center><a href="https://github.com/sodore/dsds/blob/master/book/9-mp3-jpgcdm4a5k.epub?raw=true">镶崁16k mp3 电子书(简体版).epub下载</a></h4></td></tr>
 	</table>
 <table>
 <tr>
