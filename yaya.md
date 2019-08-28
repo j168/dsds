@@ -440,12 +440,12 @@ Verkey说，他自己在修炼法轮功之前，身体状况不好，修炼法�
 2019年6月18日，印度南部城市班加罗尔（Banglore）的法轮功学员拜访了班加罗尔市北部的小城市钦塔姆尼（Chintamni），那里有一所骄狄英语中学，该校的师生们修炼法轮功。</P>
 
 <div align=center>
-<img src="images/2019-6-30-mh-india-spreadfa-01-600x417.jpg">
+<img src="images/2019-6-30-mh-india-spreadfa-01-600x417.jpg" width="580">
 </div>
 <div align=center>骄狄英语中学入口右墙上有醒目的镶金英文大字“法轮大法好”，下面是“真、善、忍”。（明慧网）</div></P>
 
 <div align=center>
-<img src="images/2019-6-30-mh-india-spreadfa-02.jpg">
+<img src="images/2019-6-30-mh-india-spreadfa-02.jpg" width="580">
 </div>
 <div align=center>骄狄英语中学全校600多名师生集体炼法轮功功法。（明慧网）</div></P>
 
